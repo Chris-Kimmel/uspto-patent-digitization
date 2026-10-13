@@ -1,0 +1,33 @@
+United States Patent [19]
+[11]
+4,100,438
+Yokoyama
+[45]
+Jul. 11, 1978
+[54] COMPOUND TRANSISTOR CIRCUITRY
+[75] Inventor: Kenji Yokoyama, Hamamatsu, Japan
+[73] Assignee: Nippon Gakki Seizo Kabushiki
+Kaisha, Hamamatsu, Japan
+[21] Appl. No.: 604,762
+[22] Filed:
+Aug. 14, 1975
+[30]
+Foreign Application Priority Data
+Aug. 21, 1974 [JP] Japan
+49-95897
+Aug. 21, 1974 [JP] Japan
+49-95900
+[51] Int. C1.2
+HO3F 3/16; HO3K 3/353;
+HOIL 29/80
+[52] U.S. Cl.
+307/304; 307/251;
+330/277; 357/22
+[58] Field of Search
+307/251, 304; 330/35,
+330/38 M, 94, 277; 357/22
+[56]
+References Cited
+U.S. PATENT DOCUMENTS
+3,767,946 10/1973 Berger et al.
+307/304

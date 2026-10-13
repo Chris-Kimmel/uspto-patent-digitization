@@ -1,0 +1,61 @@
+{
+  "grant_date": "1978-07-11",
+  "application_date": "1975-08-14",
+  "inventors_and_locations": [
+    {
+      "name": {
+        "full_name": "Kenji Yokoyama",
+        "first_name": "Kenji",
+        "middle_name": null,
+        "last_name": "Yokoyama",
+        "suffix": null
+      },
+      "address": {
+        "street": null,
+        "neighbourhood": null,
+        "city": "Hamamatsu",
+        "county": null,
+        "state": null,
+        "subdivision": null,
+        "postal_code": null,
+        "country": "Japan"
+      },
+      "deceased": false,
+      "correspondence_address": null,
+      "administrators": [],
+      "evidence": {
+        "text": "Inventor: Kenji Yokoyama, Hamamatsu, Japan",
+        "inferred_llm": 0,
+        "score_llm": 10,
+        "reason": "Name and location are explicitly stated without any inference."
+      }
+    }
+  ],
+  "assignees_and_locations": [
+    {
+      "name": "Nippon Gakki Seizo Kabushiki Kaisha",
+      "address": {
+        "street": null,
+        "neighbourhood": null,
+        "city": "Hamamatsu",
+        "county": null,
+        "state": null,
+        "subdivision": null,
+        "postal_code": null,
+        "country": "Japan"
+      },
+      "evidence": {
+        "text": "Assignee: Nippon Gakki Seizo Kabushiki Kaisha, Hamamatsu, Japan",
+        "inferred_llm": 0,
+        "score_llm": 10,
+        "reason": "Assignee name and location are explicitly provided."
+      }
+    }
+  ],
+  "text_quality": "good",
+  "overall_confidence_llm": {
+    "readability": 10,
+    "overall_score_llm": 10,
+    "reason": "The source text is clear, complete, and contains all required information with no ambiguity."
+  }
+}

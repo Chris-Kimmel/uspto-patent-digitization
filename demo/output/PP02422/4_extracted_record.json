@@ -1,0 +1,41 @@
+{
+  "grant_date": "1964-07-14",
+  "application_date": "1962-06-04",
+  "inventors_and_locations": [
+    {
+      "name": {
+        "full_name": "Jack R. Voeller",
+        "first_name": "Jack",
+        "middle_name": "R.",
+        "last_name": "Voeller",
+        "suffix": null
+      },
+      "address": {
+        "street": "Rte. 1, Box 111",
+        "neighbourhood": null,
+        "city": "Mountainburg",
+        "county": null,
+        "state": "Arkansas",
+        "subdivision": null,
+        "postal_code": null,
+        "country": "United States"
+      },
+      "deceased": false,
+      "correspondence_address": null,
+      "administrators": [],
+      "evidence": {
+        "text": "Jack R. Voeller, Rte. 1, Box 111, Mountainburg, Ark.",
+        "inferred_llm": 0,
+        "score_llm": 9,
+        "reason": "Name and address explicitly stated. State abbreviation expanded to full name per rules."
+      }
+    }
+  ],
+  "assignees_and_locations": null,
+  "text_quality": "good",
+  "overall_confidence_llm": {
+    "readability": 9,
+    "overall_score_llm": 9,
+    "reason": "The patent text is clear and contains all required information with no ambiguity."
+  }
+}

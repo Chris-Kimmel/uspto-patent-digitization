@@ -1,0 +1,12 @@
+# API keys
+.env
+
+# OCR model weights (downloaded by pipeline/setup_models.py)
+pipeline/models_backup/
+
+# Pipeline working files (run folders, logs); the readable results are in demo/output/<patent>/
+demo/output/working_files/
+
+__pycache__/
+*.pyc
+.DS_Store

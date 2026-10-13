@@ -1,0 +1,24 @@
+# Python 3.10. Versions as used for the demo run.
+# Also needed outside pip: Tesseract (e.g. `brew install tesseract`) and Poppler for pdf2image (`brew install poppler`).
+
+# Step 1: title page, layout detection, OCR (pipeline/ocr_title_page.py)
+python-doctr==1.0.0
+torch==2.10.0
+unstructured[pdf]==0.18.15
+unstructured_inference==1.2.0
+langchain-unstructured==1.0.1
+langgraph==1.1.6
+opencv-python==4.13.0.92
+numpy==2.2.6
+pillow==12.3.0
+matplotlib==3.10.6
+pytesseract==0.3.13
+pdf2image==1.17.0
+pypdf==6.1.1
+fpdf==1.7.2
+python-dotenv==1.1.1
+typing_extensions==4.15.0
+
+# Step 2: LLM extraction (demo/2_run_extraction.py)
+groq==0.37.1
+json_repair==0.58.6

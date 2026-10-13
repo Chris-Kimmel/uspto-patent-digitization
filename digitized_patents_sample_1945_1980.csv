@@ -1,0 +1,1003 @@
+patent_number,grant_date,grant_year,application_date,entity_type,entity_sequence,full_name,first_name,middle_name,last_name,suffix,street,neighbourhood,city,county,state,subdivision,postal_code,country,lat,lon,geocode_level,geocode_source,fips,iso_country,confidence_score,confidence_score_dates
+02368285,1945-01-30,1945,1942-08-25,inventor,1,Harold C. Bullard,Harold,C.,Bullard,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.973,0.996
+02371332,1945-03-13,1945,1942-09-25,inventor,1,James J. Jacobson,James,J.,Jacobson,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.982,0.997
+02371738,1945-03-20,1945,1942-06-08,inventor,1,Carl A. Christofferson,Carl,A.,Christofferson,,,,Acton,,Massachusetts,,,United States,42.4850931,-71.43284,city,Nominatim,2501700380,US,0.996,0.996
+02371738,1945-03-20,1945,1942-06-08,assignee,1,The Chase-Shawmut Company,,,,,,,Newburyport,,Massachusetts,,,United States,42.812141,-70.886646,city,Census,2545245,US,0.999,0.996
+02377645,1945-06-05,1945,1942-02-07,inventor,1,Charles L. Peffer,Charles,L.,Peffer,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.973,0.996
+02379191,1945-06-26,1945,1940-09-09,inventor,1,Herman Schmarion,Herman,,Schmarion,,,,Bronx,,New York,,,United States,40.8466508,-73.8785937,city,Nominatim,3600508510,US,0.973,0.995
+02379738,1945-07-03,1945,1942-08-14,inventor,1,Louis H. Morin,Louis,H.,Morin,,,,Bronx,,New York,,,United States,40.8466508,-73.8785937,city,Nominatim,3600508510,US,0.996,0.996
+02379738,1945-07-03,1945,1942-08-14,assignee,1,Davis Marinsky,Davis,,Marinsky,,,,Bronx,,New York,,,United States,40.8466508,-73.8785937,city,Nominatim,3600508510,US,0.999,0.996
+02381725,1945-08-07,1945,1944-05-06,inventor,1,Clifford Darwin,Clifford,,Darwin,,,,Worcester,,Massachusetts,,,United States,42.269478,-71.807783,city,Census,2582000,US,0.996,0.996
+02381725,1945-08-07,1945,1944-05-06,assignee,1,Crompton & Knowles Loom Works,,,,,,,Worcester,,Massachusetts,,,United States,42.269478,-71.807783,city,Census,2582000,US,0.999,0.996
+02383023,1945-08-21,1945,1943-06-14,inventor,1,Robert E. Sykes,Robert,E.,Sykes,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.996,0.995
+02383023,1945-08-21,1945,1943-06-14,inventor,2,Bernard H. Moser,Bernard,H.,Moser,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.996,0.995
+02383023,1945-08-21,1945,1943-06-14,assignee,1,The De Vilbiss Company,,,,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.996,0.995
+02384463,1945-09-11,1945,1938-12-06,inventor,1,Ross Gunn,Ross,,Gunn,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.973,0.996
+02384463,1945-09-11,1945,1938-12-06,inventor,2,Wayne C. Hall,Wayne,C.,Hall,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.973,0.996
+02386925,1945-10-16,1945,1943-04-08,inventor,1,Charles W. Beck,Charles,W.,Beck,,,,Middletown,,Ohio,,,United States,39.502952,-84.364893,city,Census,3949840,US,0.996,0.996
+02386925,1945-10-16,1945,1943-04-08,inventor,2,Joseph W. Pick,Joseph,W.,Pick,,,,Middletown,,Ohio,,,United States,39.502952,-84.364893,city,Census,3949840,US,0.996,0.996
+02386925,1945-10-16,1945,1943-04-08,assignee,1,The American Rolling Mill Company,,,,,,,Middletown,,Ohio,,,United States,39.502952,-84.364893,city,Census,3949840,US,0.999,0.996
+02388401,1945-11-06,1945,1943-02-17,inventor,1,Albert Freundlich,Albert,,Freundlich,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.996
+02388401,1945-11-06,1945,1943-02-17,assignee,1,"Spiral Binding Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02389142,1945-11-20,1945,1941-09-26,inventor,1,Orland E. Esval,Orland,E.,Esval,,,,Merrick,,New York,,,United States,40.653175,-73.552013,city,Census,3646668,US,0.996,0.996
+02389142,1945-11-20,1945,1941-09-26,inventor,2,Walter Wrigley,Walter,,Wrigley,,,,Hempstead,,New York,,,United States,40.704374,-73.619445,city,Census,3633139,US,0.996,0.996
+02389142,1945-11-20,1945,1941-09-26,assignee,1,"Sperry Gyroscope Company, Inc.",,,,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.999,0.996
+02390210,1945-12-04,1945,1944-03-08,inventor,1,Ernest A. Fieger,Ernest,A.,Fieger,,,,Baton Rouge,,Louisiana,,,United States,30.442174,-91.130894,city,Census,2205000,US,0.996,0.996
+02390210,1945-12-04,1945,1944-03-08,inventor,2,Virginia R. Williams,Virginia,R.,Williams,,,,Baton Rouge,,Louisiana,,,United States,30.442174,-91.130894,city,Census,2205000,US,0.996,0.996
+02390210,1945-12-04,1945,1944-03-08,assignee,1,Board of Supervisors of Louisiana State University and Agricultural and Mechanical College,,,,,,,Baton Rouge,,Louisiana,,,United States,30.442174,-91.130894,city,Census,2205000,US,0.999,0.996
+02391488,1945-12-25,1945,1943-04-21,inventor,1,William R. Spiller,William,R.,Spiller,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02391488,1945-12-25,1945,1943-04-21,inventor,2,Robert J. Niederhauser,Robert,J.,Niederhauser,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02391488,1945-12-25,1945,1943-04-21,assignee,1,Harris-Seybold-Potter Company,,,,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.999,0.996
+02392433,1946-01-08,1946,1945-04-12,inventor,1,Nicholas Testi,Nicholas,,Testi,,,,Boston,,Massachusetts,,,United States,42.338551,-71.018253,city,Census,2507000,US,0.996,0.996
+02392433,1946-01-08,1946,1945-04-12,assignee,1,Safety Razor Company,,,,,,,Boston,,Massachusetts,,,United States,42.338551,-71.018253,city,Census,2507000,US,0.999,0.996
+02392508,1946-01-08,1946,1944-06-07,inventor,1,Samuel Segal,Samuel,,Segal,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.996
+02392508,1946-01-08,1946,1944-06-07,assignee,1,Wilson-Jones Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+02393512,1946-01-22,1946,1943-04-05,inventor,1,Frankiin A. Bent,Frankiin,A.,Bent,,,,Berkeley,,California,,,United States,37.865673,-122.298725,city,Census,0606000,US,0.996,0.996
+02393512,1946-01-22,1946,1943-04-05,inventor,2,Kenneth E. Marple,Kenneth,E.,Marple,,,,Oakland,,California,,,United States,37.769846,-122.22569,city,Census,0653000,US,0.996,0.996
+02393512,1946-01-22,1946,1943-04-05,assignee,1,Shell Development Company,,,,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.999,0.996
+02394072,1946-02-05,1946,1943-09-10,inventor,1,Willem F. Westendorp,Willem,F.,Westendorp,,,,Schenectady,,New York,,,United States,42.802641,-73.9272,city,Census,3665508,US,0.995,0.995
+02394072,1946-02-05,1946,1943-09-10,assignee,1,General Electric Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02399942,1946-05-07,1946,1945-01-15,inventor,1,Marc Resek,Marc,,Resek,,,,Cleveland Heights,,Ohio,,,United States,41.511075,-81.561766,city,Census,3916014,US,0.996,0.995
+02399942,1946-05-07,1946,1945-01-15,assignee,1,Perfection Stove Company,,,,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.996,0.995
+02400016,1946-05-07,1946,1945-07-11,inventor,1,Leonard S. Meyer,Leonard,S.,Meyer,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.996,0.996
+02400016,1946-05-07,1946,1945-07-11,assignee,1,Libby-Owens-Ford Glass Company,,,,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,1.0,0.996
+02401177,1946-05-28,1946,1941-08-27,inventor,1,Claude Newman,Claude,,Newman,,,,Lincoln,,Nebraska,,,United States,40.810284,-96.674856,city,Census,3128000,US,0.973,0.996
+02401628,1946-06-04,1946,1943-10-30,inventor,1,Carolus L. Eksergian,Carolus,L.,Eksergian,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.996,0.995
+02401628,1946-06-04,1946,1943-10-30,assignee,1,Budd Wheel Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.996,0.995
+02405941,1946-08-20,1946,1943-10-19,inventor,1,George Clausing,George,,Clausing,,,,Portsmouth,,Ohio,,,United States,38.753376,-82.949466,city,Census,3964304,US,0.996,0.996
+02405941,1946-08-20,1946,1943-10-19,assignee,1,Vulcan Corporation,,,,,,,Portsmouth,,Ohio,,,United States,38.753376,-82.949466,city,Census,3964304,US,0.999,0.996
+02406785,1946-09-03,1946,1945-01-08,inventor,1,Norman R. Atwood,Norman,R.,Atwood,,,,St. Johnsbury,,Vermont,,,United States,44.419494,-72.0156532,city,Nominatim,5062125,US,0.973,0.996
+02407751,1946-09-17,1946,1943-10-07,inventor,1,Robert J. Stewart,Robert,J.,Stewart,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.996,0.996
+02407751,1946-09-17,1946,1943-10-07,assignee,1,Crown Cork & Seal Company,,,,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.999,0.996
+02409369,1946-10-15,1946,1944-12-08,inventor,1,Anthony R. Lo Curto,Anthony,R.,Lo Curto,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.973,0.995
+02409407,1946-10-15,1946,1943-02-22,inventor,1,Arthur F. Turner,Arthur,F.,Turner,,,,Brighton,,New York,,,United States,43.118498,-77.580976,city,Census,3608257,US,0.995,0.995
+02409407,1946-10-15,1946,1943-02-22,assignee,1,Bausch & Lomb Optical Company,,,,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.997,0.995
+02413633,1946-12-31,1946,1945-05-03,inventor,1,Clifton M. Jones,Clifton,M.,Jones,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.961,0.995
+02413990,1947-01-07,1947,1943-01-25,inventor,1,Eric P. Muntz,Eric,P.,Muntz,,,,Montreal,,,Quebec,,Canada,45.5031824,-73.5698065,city,Nominatim,,CA,0.961,0.995
+02414397,1947-01-14,1947,1944-11-02,inventor,1,Francis Peto Dudley Scott,Francis,Peto Dudley,Scott,,,,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.996,0.996
+02414397,1947-01-14,1947,1944-11-02,assignee,1,Prior Stokers Limited,,,,,,,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.999,0.996
+02415637,1947-02-11,1947,1945-10-02,inventor,1,Benjamin R. Jones,Benjamin,R.,Jones,,,,Jamestown,,New York,,,United States,42.097603,-79.236135,city,Census,3638264,US,0.961,0.995
+02415780,1947-02-11,1947,1944-10-14,inventor,1,Paul C. Wolf,Paul,C.,Wolf,,,,Pearl River,,New York,,,United States,41.061561,-74.007832,city,Census,3656902,US,0.961,0.995
+02416199,1947-02-18,1947,1943-11-24,inventor,1,George W. Nagel,George,W.,Nagel,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.995,0.995
+02416199,1947-02-18,1947,1943-11-24,assignee,1,Westinghouse Electric Corporation,,,,,,,East Pittsburgh,,Pennsylvania,,,United States,40.3957108,-79.8384391,city,Nominatim,4221712,US,0.997,0.995
+02416391,1947-02-25,1947,1945-08-18,inventor,1,Charles R. Hixson,Charles,R.,Hixson,,,,Phoenixville,,Pennsylvania,,,United States,40.1303822,-75.5149128,city,Nominatim,4260120,US,0.995,0.995
+02416391,1947-02-25,1947,1945-08-18,assignee,1,Wyeth Incorporated,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.997,0.995
+02417448,1947-03-18,1947,1944-11-25,inventor,1,Auguste Louis Marie Antoine Rouy,Auguste,Louis Marie Antoine,Rouy,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.961,0.995
+02419408,1947-04-22,1947,1944-11-14,inventor,1,William Arthur Lightowler,William,Arthur,Lightowler,,,,Coventry,,,,,United Kingdom,52.4081812,-1.510477,city,Nominatim,,GB,0.996,0.996
+02419408,1947-04-22,1947,1944-11-14,assignee,1,The Maudslay Motor Company Limited,,,,,,,Coventry,,,,,United Kingdom,52.4081812,-1.510477,city,Nominatim,,GB,0.999,0.996
+02420064,1947-05-06,1947,1944-02-28,inventor,1,Edward John Boddy,Edward,John,Boddy,,,,London,,,England,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.996,0.996
+02420064,1947-05-06,1947,1944-02-28,assignee,1,The Fairey Aviation Company Limited,,,,,,,Hayes,,,Middlesex,,United Kingdom,51.5077154,-0.4181471,city,Nominatim,,GB,0.999,0.996
+02420706,1947-05-20,1947,1944-10-09,inventor,1,Dwight E. Haven,Dwight,E.,Haven,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.962,0.996
+02420706,1947-05-20,1947,1944-10-09,inventor,2,Carl W. Soderblom,Carl,W.,Soderblom,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.962,0.996
+02423740,1947-07-08,1947,1943-07-17,inventor,1,Josef Vesely,Josef,,Vesely,,,Winchmore Hill,London,,,England,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.962,0.996
+02426730,1947-09-02,1947,1945-09-11,inventor,1,Alberto De Vita,Alberto,,De Vita,,,,Buenos Aires,,,,,Argentina,-34.6095579,-58.3887904,city,Nominatim,,AR,0.973,0.995
+02427457,1947-09-16,1947,1944-10-16,inventor,1,Rudolf E. Huck,Rudolf,E.,Huck,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.962,0.996
+02429899,1947-10-28,1947,1946-01-05,inventor,1,Clarence W. Sondern,Clarence,W.,Sondern,,,,Mendham,,New Jersey,,,United States,40.775941,-74.6009617,city,Nominatim,3445330,US,0.995,0.996
+02429899,1947-10-28,1947,1946-01-05,inventor,2,Richard H. Herbine,Richard,H.,Herbine,,,,Montville,,New Jersey,,,United States,40.9148209,-74.383763,city,Nominatim,3402747670,US,0.996,0.996
+02429899,1947-10-28,1947,1946-01-05,assignee,1,"White Laboratories, Incorporated",,,,,,,Newark,,New Jersey,,,United States,40.72422,-74.172574,city,Census,3451000,US,0.999,0.996
+02434852,1948-01-20,1948,1946-10-16,inventor,1,Harold F. Jackson,Harold,F.,Jackson,,,,Springfield,,Ohio,,,United States,39.928908,-83.794241,city,Census,3974118,US,0.995,0.995
+02434852,1948-01-20,1948,1946-10-16,assignee,1,The Ohio Steel Foundry Company,,,,,,,Lima,,Ohio,,,United States,40.740679,-84.112091,city,Census,3943554,US,0.997,0.995
+02435365,1948-02-03,1948,1944-06-15,inventor,1,Ernest K. Post,Ernest,K.,Post,,,,Collingswood,,New Jersey,,,United States,39.9181686,-75.071284,city,Nominatim,3414260,US,0.973,0.996
+02436602,1948-02-24,1948,1946-11-12,inventor,1,Ernst Walter Rickmeyer,Ernst,Walter,Rickmeyer,,,,Berkeley,,Illinois,,,United States,41.889116,-87.911471,city,Census,1705404,US,0.996,0.996
+02436602,1948-02-24,1948,1946-11-12,assignee,1,Jefferson Electric Company,,,,,,,Bellwood,,Illinois,,,United States,41.882901,-87.87617,city,Census,1704975,US,0.999,0.996
+02438584,1948-03-30,1948,1945-12-22,inventor,1,Meredith M. Stewart,Meredith,M.,Stewart,,,,Beacon,,New York,,,United States,41.50324,-73.964735,city,Census,3605100,US,0.996,0.996
+02438584,1948-03-30,1948,1945-12-22,assignee,1,The Texas Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02440007,1948-04-20,1948,1945-09-14,inventor,1,Herman M. Frank,Herman,M.,Frank,,,,New Britain,,Connecticut,,,United States,41.676555,-72.786161,city,Census,0950370,US,0.995,0.995
+02440007,1948-04-20,1948,1945-09-14,assignee,1,The North & Judd Manufacturing Company,,,,,,,New Britain,,Connecticut,,,United States,41.676555,-72.786161,city,Census,0950370,US,0.997,0.995
+02444617,1948-07-06,1948,1944-08-05,inventor,1,Joseph V. Samuels,Joseph,V.,Samuels,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.996,0.996
+02444617,1948-07-06,1948,1944-08-05,assignee,1,Odis Will Chenault,Odis,Will,Chenault,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.999,0.996
+02445263,1948-07-13,1948,1946-07-17,inventor,1,Roy E. Farmer,Roy,E.,Farmer,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.996,0.995
+02445263,1948-07-13,1948,1946-07-17,assignee,1,Ford Motor Company,,,,,,,Dearborn,,Michigan,,,United States,42.313057,-83.211488,city,Census,2621000,US,0.996,0.995
+02447389,1948-08-17,1948,1947-06-07,inventor,1,Earl M. Borchers,Earl,M.,Borchers,,,,Rockford,,Illinois,,,United States,42.2593,-89.063478,city,Census,1765000,US,0.995,0.995
+02447389,1948-08-17,1948,1947-06-07,assignee,1,American Cabinet Hardware Corporation,,,,,,,Rockford,,Illinois,,,United States,42.2593,-89.063478,city,Census,1765000,US,0.997,0.995
+02452529,1948-10-26,1948,1945-09-17,inventor,1,Jacob Louis Snoek,Jacob,Louis,Snoek,,,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.995,0.995
+02452529,1948-10-26,1948,1945-09-17,assignee,1,Hartford National Bank & Trust Co.,,,,,,,Hartford,,Connecticut,,,United States,41.765933,-72.681579,city,Census,0937000,US,0.997,0.995
+02452686,1948-11-02,1948,1946-04-24,inventor,1,Frederick W. Sampson,Frederick,W.,Sampson,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02452686,1948-11-02,1948,1946-04-24,assignee,1,General Motors Corporation,,,,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.999,0.996
+02452869,1948-11-02,1948,1947-05-03,inventor,1,Donald L. Richards,Donald,L.,Richards,,,,Portland,,Oregon,,,United States,45.536951,-122.649971,city,Census,4159000,US,0.961,0.995
+02455363,1948-12-07,1948,1944-05-04,inventor,1,Arne Gudheim,Arne,,Gudheim,,,,Winchester,,Massachusetts,,,United States,42.452752,-71.144319,city,Census,2580545,US,0.996,0.996
+02455363,1948-12-07,1948,1944-05-04,assignee,1,Lever Brothers Company,,,,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.999,0.996
+02455965,1948-12-14,1948,1943-03-25,inventor,1,George Wohlberg,George,,Wohlberg,,,,Annapolis,,Maryland,,,United States,38.972152,-76.505332,city,Census,2401600,US,0.973,0.996
+02457427,1948-12-28,1948,1946-03-01,inventor,1,Merl R. Wolfard,Merl,R.,Wolfard,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.973,0.996
+02459402,1949-01-18,1949,1944-02-26,inventor,1,Eric H. Zahn,Eric,H.,Zahn,,,,Pound Ridge,,New York,,,United States,41.2087066,-73.5748483,city,Nominatim,3611959685,US,0.995,0.995
+02459402,1949-01-18,1949,1944-02-26,assignee,1,"Austenal Laboratories, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02463790,1949-03-08,1949,1946-06-05,inventor,1,Pleasant G. Moore,Pleasant,G.,Moore,,,,Granite Falls,,North Carolina,,,United States,35.797235,-81.424353,city,Census,3727420,US,0.973,0.996
+02464059,1949-03-08,1949,1945-03-10,inventor,1,Delmar G. Roos,Delmar,G.,Roos,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.995,0.995
+02464059,1949-03-08,1949,1945-03-10,inventor,2,Walter F. Benning,Walter,F.,Benning,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.995,0.995
+02464059,1949-03-08,1949,1945-03-10,assignee,1,"Willys-Overland Motors, Inc.",,,,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.997,0.995
+02465374,1949-03-29,1949,1944-03-20,inventor,1,Howard H. Haman,Howard,H.,Haman,,,,Three Oaks,,Michigan,,,United States,41.798529,-86.613904,city,Census,2679720,US,0.996,0.996
+02465374,1949-03-29,1949,1944-03-20,inventor,2,William E. Schmidt,William,E.,Schmidt,,,,Three Oaks,,Michigan,,,United States,41.798529,-86.613904,city,Census,2679720,US,0.996,0.996
+02465374,1949-03-29,1949,1944-03-20,assignee,1,The Warren Featherbone Co.,,,,,,,Three Oaks,,Michigan,,,United States,41.798529,-86.613904,city,Census,2679720,US,0.999,0.996
+02471210,1949-05-24,1949,1946-03-05,inventor,1,Hartwell Griffin,Hartwell,,Griffin,,,,Paxton,,Massachusetts,,,United States,42.3114716,-71.9274772,city,Nominatim,2502752420,US,0.973,0.996
+02473461,1949-06-14,1949,1945-05-19,inventor,1,Frank O. White,Frank,O.,White,,,,Edmundston,,,New Brunswick,,Canada,47.3637203,-68.3288825,city,Nominatim,,CA,0.962,0.996
+02474644,1949-06-28,1949,1946-08-03,inventor,1,Thomas G. Aitcheson,Thomas,G.,Aitcheson,,,,Kenmore,,New York,,,United States,42.964633,-78.87129,city,Census,3639232,US,0.989,0.996
+02474644,1949-06-28,1949,1946-08-03,inventor,2,Albin A. Gradisar,Albin,A.,Gradisar,,,,Buffalo,,New York,,,United States,42.892492,-78.859686,city,Census,3611000,US,0.996,0.996
+02474644,1949-06-28,1949,1946-08-03,assignee,1,American Optical Company,,,,,,,Southbridge,,Massachusetts,,,United States,42.059737,-72.033908,city,Census,2563345,US,0.999,0.996
+02476447,1949-07-19,1949,1946-03-23,inventor,1,Charles E. Lucke,Charles,E.,Lucke,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.996
+02476447,1949-07-19,1949,1946-03-23,assignee,1,Worthington Pump and Machinery Corp.,,,,,,,Harrison,,New Jersey,,,United States,40.742978,-74.152911,city,Census,3430210,US,0.999,0.996
+02481597,1949-09-13,1949,1946-11-19,inventor,1,Oscar H. Johnson,Oscar,H.,Johnson,,,,Medina,,New York,,,United States,43.219742,-78.387874,city,Census,3646415,US,0.995,0.995
+02481597,1949-09-13,1949,1946-11-19,assignee,1,"Merck & Co., Inc.",,,,,,,Rahway,,New Jersey,,,United States,40.607152,-74.280531,city,Census,3461530,US,0.997,0.995
+02484793,1949-10-11,1949,1946-01-10,inventor,1,Henry C. Nissen,Henry,C.,Nissen,,,,Stratford,,Connecticut,,,United States,41.1923646,-73.1304917,city,Nominatim,0912074190,US,0.995,0.995
+02484793,1949-10-11,1949,1946-01-10,assignee,1,The Singer Manufacturing Company,,,,,,,Elizabeth,,New Jersey,,,United States,40.666367,-74.193503,city,Census,3421000,US,0.997,0.995
+02484964,1949-10-18,1949,1946-01-04,inventor,1,Otto C. Sare,Otto,C.,Sare,,,,Indianapolis,,Indiana,,,United States,39.776664,-86.145935,city,Census,1836003,US,0.961,0.995
+02485836,1949-10-25,1949,1947-09-10,inventor,1,"Hugh C. MacConnell, Jr.",Hugh,C.,MacConnell,Jr.,,,West Hartford,,Connecticut,,,United States,41.766568,-72.754944,city,Census,0982660,US,0.996,0.996
+02485836,1949-10-25,1949,1947-09-10,assignee,1,Hartford-Empire Company,,,,,,,Hartford,,Connecticut,,,United States,41.765933,-72.681579,city,Census,0937000,US,0.999,0.996
+02488722,1949-11-22,1949,1946-11-14,inventor,1,Hamit H. Gurkan,Hamit,H.,Gurkan,,,,Ankara,,,,,Turkey,39.9207759,32.8540497,city,Nominatim,,TR,0.974,0.997
+02489001,1949-11-22,1949,1947-01-25,inventor,1,James Leslie Younghusband,James,Leslie,Younghusband,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.973,0.996
+02493142,1950-01-03,1950,1946-09-09,inventor,1,Frederick C. Hutton,Frederick,C.,Hutton,,,,Dallas,,Texas,,,United States,32.793333,-96.766513,city,Census,4819000,US,0.973,0.996
+02495598,1950-01-24,1950,1945-12-19,inventor,1,Leland C. Parker,Leland,C.,Parker,,,,Elmira,,New York,,,United States,42.093388,-76.80961,city,Census,3624229,US,0.995,0.995
+02495598,1950-01-24,1950,1945-12-19,assignee,1,Bendix Aviation Corporation,,,,,,,Elmira Heights,,New York,,,United States,42.12669,-76.825566,city,Census,3624251,US,0.997,0.995
+02499086,1950-02-28,1950,1947-06-19,inventor,1,Betty W. Birnkrant,Betty,W.,Birnkrant,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.973,0.996
+02499086,1950-02-28,1950,1947-06-19,inventor,2,Samuel H. Birnkrant,Samuel,H.,Birnkrant,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.973,0.996
+02499609,1950-03-07,1950,1945-12-07,inventor,1,John Anthony Riordan,John,Anthony,Riordan,,,,Kermit,,Texas,,,United States,31.853912,-103.092386,city,Census,4839004,US,0.973,0.996
+02502041,1950-03-28,1950,1946-11-20,inventor,1,Howard M. Geyer,Howard,M.,Geyer,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.998,0.997
+02502041,1950-03-28,1950,1946-11-20,inventor,2,Howard Carson,Howard,,Carson,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.998,0.997
+02502041,1950-03-28,1950,1946-11-20,assignee,1,General Motors Corporation,,,,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.999,0.997
+02504532,1950-04-18,1950,1946-07-26,inventor,1,Benedict D. Kahan,Benedict,D.,Kahan,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.973,0.996
+02504587,1950-04-18,1950,1946-05-14,inventor,1,Seculdino Rey,Seculdino,,Rey,,,,Ramos Mejia,,,,,Argentina,-34.6481661,-58.5622869,city,Nominatim,,AR,0.973,0.996
+02508167,1950-05-16,1950,1944-05-26,inventor,1,Maurice F. Jones,Maurice,F.,Jones,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.996,0.996
+02508167,1950-05-16,1950,1944-05-26,assignee,1,Westinghouse Electric Corporation,,,,,,,East Pittsburgh,,Pennsylvania,,,United States,40.3957108,-79.8384391,city,Nominatim,4221712,US,0.999,0.996
+02509625,1950-05-30,1950,1945-02-01,inventor,1,Walter F. Benning,Walter,F.,Benning,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.995,0.995
+02509625,1950-05-30,1950,1945-02-01,assignee,1,Mack Manufacturing Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02513757,1950-07-04,1950,1947-10-11,inventor,1,John Walter Speaker,John,Walter,Speaker,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.973,0.995
+02522300,1950-09-12,1950,1947-03-11,inventor,1,Grant M. Richard,Grant,M.,Richard,,,,Glendale,,California,,,United States,34.181393,-118.24583,city,Census,0630000,US,0.961,0.995
+02523930,1950-09-26,1950,1945-05-05,inventor,1,Herman A. Unke,Herman,A.,Unke,,,,Parma Heights,,Ohio,,,United States,41.383386,-81.761273,city,Census,3961028,US,0.973,0.996
+02524405,1950-10-03,1950,1947-09-22,inventor,1,Ernest N. Storrs,Ernest,N.,Storrs,,,,Asbury Park,,New Jersey,,,United States,40.222884,-74.010232,city,Census,3401960,US,0.961,0.995
+02525168,1950-10-10,1950,1945-10-08,inventor,1,Arthur B. Dodge,Arthur,B.,Dodge,,,,Lancaster,,Pennsylvania,,,United States,40.042061,-76.30099,city,Census,4241216,US,0.973,0.996
+02542306,1951-02-20,1951,1947-09-30,inventor,1,Alexander P. Brown,Alexander,P.,Brown,,,Beechhurst,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.962,0.996
+02542666,1951-02-20,1951,1944-10-20,inventor,1,William D. Hall,William,D.,Hall,,,,Elkins,,West Virginia,,,United States,38.923719,-79.85426,city,Census,5424580,US,0.973,0.996
+02542822,1951-02-20,1951,1947-09-27,inventor,1,Richard L. Longini,Richard,L.,Longini,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.996,0.995
+02542822,1951-02-20,1951,1947-09-27,assignee,1,Westinghouse Electric Corporation,,,,,,,East Pittsburgh,,Pennsylvania,,,United States,40.3957108,-79.8384391,city,Nominatim,4221712,US,0.996,0.995
+02546499,1951-03-27,1951,1949-03-05,inventor,1,William K. T. Gleim,William,K. T.,Gleim,,,,Orland Park,,Illinois,,,United States,41.608145,-87.85929,city,Census,1756640,US,0.996,0.995
+02546499,1951-03-27,1951,1949-03-05,assignee,1,Universal Oil Products Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.995
+02550845,1951-05-01,1951,1948-06-08,inventor,1,Chester W. Metzgar,Chester,W.,Metzgar,,,,Easton,,Pennsylvania,,,United States,40.685971,-75.218548,city,Census,4221648,US,0.996,0.995
+02550845,1951-05-01,1951,1948-06-08,assignee,1,Ingersoll-Rand Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+02553615,1951-05-22,1951,1943-03-19,inventor,1,George F. Wales,George,F.,Wales,,,,Kenmore,,New York,,,United States,42.964633,-78.87129,city,Census,3639232,US,0.973,0.996
+02554587,1951-05-29,1951,1948-01-14,inventor,1,Robert Minkow,Robert,,Minkow,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.973,0.995
+02556900,1951-06-12,1951,1948-02-24,inventor,1,Forrest L. Buschhorn,Forrest,L.,Buschhorn,,,,Oklahoma City,,Oklahoma,,,United States,35.4729886,-97.5170536,city,Nominatim,4055000,US,0.973,0.996
+02564170,1951-08-14,1951,1949-10-06,inventor,1,Maynard H. Nusbaum,Maynard,H.,Nusbaum,,,,Elkhart,,Indiana,,,United States,41.692081,-85.962567,city,Census,1820728,US,0.995,0.996
+02564170,1951-08-14,1951,1949-10-06,inventor,2,Donald L. Beall,Donald,L.,Beall,,,,Goshen,,Indiana,,,United States,41.573884,-85.829986,city,Census,1828386,US,0.996,0.996
+02568374,1951-09-18,1951,1948-12-31,inventor,1,Islyn Thomas,Islyn,,Thomas,,,,Newark,,New Jersey,,,United States,40.72422,-74.172574,city,Census,3451000,US,0.995,0.995
+02568374,1951-09-18,1951,1948-12-31,assignee,1,Thomas Manufacturing Corp.,,,,,,,Newark,,New Jersey,,,United States,40.72422,-74.172574,city,Census,3451000,US,0.997,0.995
+02568473,1951-09-18,1951,1947-11-18,inventor,1,Preston T. Tucker,Preston,T.,Tucker,,,,Ypsilanti,,Michigan,,,United States,42.244354,-83.62116,city,Census,2689140,US,0.996,0.996
+02568473,1951-09-18,1951,1947-11-18,assignee,1,Tucker Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+02571064,1951-10-09,1951,1945-11-01,inventor,1,Charles F. Schaefer,Charles,F.,Schaefer,,,,Westport,,Connecticut,,,United States,41.143351,-73.360253,city,Census,0919083500,US,0.973,0.996
+02573335,1951-10-30,1951,1948-03-26,inventor,1,Robert H. Hodgins,Robert,H.,Hodgins,,,,Vancouver,,,British Columbia,,Canada,49.2608724,-123.113952,city,Nominatim,,CA,0.981,0.996
+02573335,1951-10-30,1951,1948-03-26,inventor,2,Clifford J. McGillivray,Clifford,J.,McGillivray,,,,New Westminster,,,British Columbia,,Canada,49.2067726,-122.9108818,city,Nominatim,,CA,0.981,0.996
+02576957,1951-12-04,1951,1946-10-02,inventor,1,Morris Mattikow,Morris,,Mattikow,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.973,0.996
+02585292,1952-02-12,1952,1950-08-17,inventor,1,Wilford J. Zimmerschied,Wilford,J.,Zimmerschied,,,,Hammond,,Indiana,,,United States,41.618736,-87.494949,city,Census,1831000,US,0.996,0.995
+02585292,1952-02-12,1952,1950-08-17,inventor,2,Robert C. Arnold,Robert,C.,Arnold,,,,Park Forest,,Illinois,,,United States,41.481679,-87.686797,city,Census,1757732,US,0.996,0.995
+02585292,1952-02-12,1952,1950-08-17,assignee,1,Standard Oil Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.995
+02586192,1952-02-19,1952,1948-10-26,inventor,1,Ruth K. Weaver,Ruth,K.,Weaver,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.995,0.996
+02586192,1952-02-19,1952,1948-10-26,inventor,2,Lewis E. Thatcher,Lewis,E.,Thatcher,,,,Berwyn,,Illinois,,,United States,41.843333,-87.790926,city,Census,1705573,US,0.996,0.996
+02586192,1952-02-19,1952,1948-10-26,assignee,1,"Gaylord Products, Incorporated",,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+02588804,1952-03-11,1952,1949-10-05,inventor,1,William E. Cope,William,E.,Cope,,,,Sebring,,Ohio,,,United States,40.920003,-81.025268,city,Census,3971220,US,0.995,0.995
+02588804,1952-03-11,1952,1949-10-05,assignee,1,Frank M. Kinnard,Frank,M.,Kinnard,,,,Sebring,,Ohio,,,United States,40.920003,-81.025268,city,Census,3971220,US,0.997,0.995
+02590726,1952-03-25,1952,1949-01-10,inventor,1,"Marion B. Sawyer, Sr.",Marion,B.,Sawyer,Sr.,,,Whittier,,California,,,United States,33.966827,-118.020122,city,Census,0685292,US,0.973,0.996
+02594142,1952-04-22,1952,1947-07-15,inventor,1,Henry H. Feldstein,Henry,H.,Feldstein,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.995,0.996
+02594142,1952-04-22,1952,1947-07-15,inventor,2,Harry R. Kilby,Harry,R.,Kilby,,,,East Cleveland,,Ohio,,,United States,41.530657,-81.578516,city,Census,3923380,US,0.996,0.996
+02594142,1952-04-22,1952,1947-07-15,assignee,1,Henry H. Feldstein,Henry,H.,Feldstein,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.999,0.996
+02597523,1952-05-20,1952,1950-07-13,inventor,1,Michael J. Quillinan,Michael,J.,Quillinan,,,,Bronx,,New York,,,United States,40.8466508,-73.8785937,city,Nominatim,3600508510,US,0.973,0.995
+02598482,1952-05-27,1952,1950-02-28,inventor,1,Harry Abrams,Harry,,Abrams,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.961,0.995
+02603935,1952-07-22,1952,1949-02-16,inventor,1,Joseph Davis Pirtle,Joseph,,Pirtle,,,,Siren,,Wisconsin,,,United States,45.777829,-92.383151,city,Census,5574175,US,0.974,0.997
+02604578,1952-07-22,1952,1948-01-16,inventor,1,Otis B. Sutton,Otis,B.,Sutton,,,,Canton,,Ohio,,,United States,40.80765,-81.367228,city,Census,3912000,US,0.995,0.995
+02604578,1952-07-22,1952,1948-01-16,assignee,1,The Hoover Company,,,,,,,North Canton,,Ohio,,,United States,40.874177,-81.397228,city,Census,3956294,US,0.997,0.995
+02614046,1952-10-14,1952,1950-04-01,inventor,1,Sanford Joseph Werbin,Sanford,Joseph,Werbin,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.996
+02614046,1952-10-14,1952,1950-04-01,assignee,1,"Stein, Hall & Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02617772,1952-11-11,1952,1950-06-17,inventor,1,Vincent J. Keenan,Vincent,J.,Keenan,,,,Ardmore,,Pennsylvania,,,United States,40.003242,-75.294739,city,Census,4202896,US,0.996,0.996
+02617772,1952-11-11,1952,1950-06-17,assignee,1,The Atlantic Refining Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.999,0.996
+02619324,1952-11-25,1952,1948-02-02,inventor,1,Ross Bassinger,Ross,,Bassinger,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.973,0.996
+02621379,1952-12-16,1952,1950-11-04,inventor,1,John R. Betz,John,R.,Betz,,,,Sunman,,Indiana,,,United States,39.237281,-85.093112,city,Census,1874168,US,0.973,0.995
+02623404,1952-12-30,1952,1950-09-06,inventor,1,Georges Xavier Lens,Georges,Xavier,Lens,,,,Antwerp,,,,,Belgium,51.2211097,4.3997081,city,Nominatim,,BE,0.996,0.996
+02623404,1952-12-30,1952,1950-09-06,assignee,1,International Standard Electric Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02627466,1953-02-03,1953,1950-05-23,inventor,1,Jean L. Lewis,Jean,L.,Lewis,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.996,0.996
+02627466,1953-02-03,1953,1950-05-23,assignee,1,Sidney Feinberg,Sidney,,Feinberg,,,,Roselle,,New Jersey,,,United States,40.6527033,-74.2579418,city,Nominatim,3464620,US,0.999,0.996
+02627466,1953-02-03,1953,1950-05-23,assignee,2,Benjamin H. Fogelson,Benjamin,H.,Fogelson,,,,Roselle,,New Jersey,,,United States,40.6527033,-74.2579418,city,Nominatim,3464620,US,0.999,0.996
+02631145,1953-03-10,1953,1951-04-10,inventor,1,Donald F. Othmer,Donald,F.,Othmer,,,,Coudersport,,Pennsylvania,,,United States,41.7728108,-78.0192691,city,Nominatim,4216448,US,0.962,0.996
+02631145,1953-03-10,1953,1951-04-10,inventor,2,Morris B. Jacobs,Morris,B.,Jacobs,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.962,0.996
+02631145,1953-03-10,1953,1951-04-10,inventor,3,Nathan Wishnefsky,Nathan,,Wishnefsky,,,,Brooklyn,,New York,,,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.962,0.996
+02632920,1953-03-31,1953,1951-05-31,inventor,1,Carl J. Koehler,Carl,J.,Koehler,,,,Tonawanda,,New York,,,United States,43.011935,-78.883443,city,Census,3674166,US,0.973,0.996
+02633355,1953-03-31,1953,1948-07-06,inventor,1,Richard F. Wills,Richard,F.,Wills,,,,Miami,,Oklahoma,,,United States,36.887738,-94.870913,city,Census,4048000,US,0.995,0.995
+02633355,1953-03-31,1953,1948-07-06,assignee,1,"Color Research, Inc.",,,,,,,Miami,,Oklahoma,,,United States,36.887738,-94.870913,city,Census,4048000,US,0.997,0.995
+02635001,1953-04-14,1953,1946-11-09,inventor,1,Edward R. Slinkman,Edward,R.,Slinkman,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.961,0.995
+02635029,1953-04-14,1953,1949-06-13,inventor,1,Nicholas J. Fokakis,Nicholas,J.,Fokakis,,,,Birmingham,,Alabama,,,United States,33.527174,-86.797036,city,Census,0107000,US,0.973,0.996
+02640661,1953-06-02,1953,1948-08-31,inventor,1,Matthew E. Lee,Matthew,E.,Lee,,,,South Bend,,Indiana,,,United States,41.676643,-86.268809,city,Census,1871000,US,0.973,0.996
+02643171,1953-06-23,1953,1951-05-04,inventor,1,Edward C. Sterba,Edward,C.,Sterba,,,,Western Springs,,Illinois,,,United States,41.802278,-87.900556,city,Census,1780242,US,0.973,0.996
+02645155,1953-07-14,1953,1950-09-12,inventor,1,Albrecht Wilhelm Tronnier,Albrecht,Wilhelm,Tronnier,,,,Gottingen,,,,,Germany,51.5328328,9.9351811,city,Nominatim,,DE,0.995,0.995
+02645155,1953-07-14,1953,1950-09-12,assignee,1,Voigtlander & Sohn Aktiengesellschaft,,,,,,,Braunschweig,,,,,Germany,52.2646577,10.5236066,city,Nominatim,,DE,0.997,0.995
+02648235,1953-08-11,1953,1949-08-31,inventor,1,James M. Leake,James,M.,Leake,,,,Monroe,,Michigan,,,United States,41.916586,-83.384324,city,Census,2655020,US,0.961,0.995
+02650163,1953-08-25,1953,1947-05-21,inventor,1,Eleanor F. Horsey,Eleanor,F.,Horsey,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.995,0.995
+02650163,1953-08-25,1953,1947-05-21,inventor,2,William Donald Thompson,William,Donald,Thompson,,,,Hockessin,,Delaware,,,United States,39.7839,-75.680711,city,Census,1035850,US,0.995,0.995
+02650163,1953-08-25,1953,1947-05-21,assignee,1,Hercules Powder Company,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.997,0.995
+02651817,1953-09-15,1953,1950-08-18,inventor,1,Charles C. Moler,Charles,C.,Moler,,,,Hartford City,,Indiana,,,United States,40.4511541,-85.369972,city,Nominatim,1832242,US,0.996,0.996
+02651817,1953-09-15,1953,1950-08-18,assignee,1,Overhead Door Corporation,,,,,,,Hartford City,,Indiana,,,United States,40.4511541,-85.369972,city,Nominatim,1832242,US,0.999,0.996
+02653107,1953-09-22,1953,1950-03-30,inventor,1,Warren B. Blumenthal,Warren,B.,Blumenthal,,,,Niagara Falls,,New York,,,United States,43.092841,-79.014743,city,Census,3651055,US,0.998,0.996
+02653107,1953-09-22,1953,1950-03-30,assignee,1,National Lead Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.998,0.996
+02657808,1953-11-03,1953,1950-10-12,inventor,1,Paul A. Mankin,Paul,A.,Mankin,,,,Fort Wayne,,Indiana,,,United States,41.088193,-85.142791,city,Census,1825000,US,0.996,0.996
+02657808,1953-11-03,1953,1950-10-12,assignee,1,"Bowser, Inc.",,,,,,,Fort Wayne,,Indiana,,,United States,41.088193,-85.142791,city,Census,1825000,US,0.999,0.996
+02665291,1954-01-05,1954,1951-06-29,inventor,1,Bryant Charles Fischback,Bryant,Charles,Fischback,,,,Walnut Creek,,California,,,United States,37.902666,-122.040479,city,Census,0683346,US,0.996,0.996
+02665291,1954-01-05,1954,1951-06-29,assignee,1,The Dow Chemical Company,,,,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.999,0.996
+02670722,1954-03-02,1954,1951-04-28,inventor,1,André Huet,André,,Huet,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.973,0.996
+02675583,1954-04-20,1954,1949-12-28,inventor,1,George A. Scherry,George,A.,Scherry,,,,Berkeley,,Illinois,,,United States,41.889116,-87.911471,city,Census,1705404,US,0.993,0.995
+02675583,1954-04-20,1954,1949-12-28,assignee,1,Grayhill,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+02675951,1954-04-20,1954,1949-11-21,inventor,1,Santiago Domenech Oriol,Santiago,Domenech,Oriol,,,,Barcelona,,,,,Spain,41.3825802,2.177073,city,Nominatim,,ES,0.973,0.996
+02681978,1954-06-22,1954,1950-07-25,inventor,1,Burton Franklin,Burton,,Franklin,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.995,0.995
+02681978,1954-06-22,1954,1950-07-25,assignee,1,"Tropic-Aire, Inc.",,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+02682148,1954-06-29,1954,1947-12-02,inventor,1,Ralph C. Brierly,Ralph,C.,Brierly,,,,Narberth,,Pennsylvania,,,United States,40.0084456,-75.26046,city,Nominatim,4252664,US,0.961,0.995
+02685466,1954-08-03,1954,1951-08-21,inventor,1,William R. Middleton,William,R.,Middleton,,,,Jacksonville,,Florida,,,United States,30.336864,-81.661603,city,Census,1235000,US,0.973,0.996
+02686630,1954-08-17,1954,1950-08-16,inventor,1,John B. Burrowes,John,B.,Burrowes,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02686630,1954-08-17,1954,1950-08-16,assignee,1,The Lau Blower Company,,,,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.999,0.996
+02690897,1954-10-05,1954,1950-11-27,inventor,1,"Robert E. Clark, Jr.",Robert,E.,Clark,Jr.,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.973,0.995
+02693086,1954-11-02,1954,1952-11-24,inventor,1,Prosper C. Caruthers,Prosper,C.,Caruthers,,,,Kilgore,,Texas,,,United States,32.396669,-94.860013,city,Census,4839124,US,0.995,0.995
+02693086,1954-11-02,1954,1952-11-24,inventor,2,Oscar F. Tallman,Oscar,F.,Tallman,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.995,0.995
+02693086,1954-11-02,1954,1952-11-24,assignee,1,James R. Kearney Corporation,,,,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.997,0.995
+02693356,1954-11-02,1954,1953-05-06,inventor,1,Frederick P. Hofferth,Frederick,P.,Hofferth,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.961,0.995
+02694398,1954-11-16,1954,1953-06-26,inventor,1,Marlin J. La Drigue,Marlin,J.,La Drigue,,,,Traverse City,,Michigan,,,United States,44.7606481,-85.6165976,city,Nominatim,2680340,US,0.961,0.995
+02697671,1954-12-21,1954,1952-02-27,inventor,1,Joseph B. Brennan,Joseph,B.,Brennan,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.961,0.995
+02697772,1954-12-21,1954,1952-05-12,inventor,1,Charles M. Kinghorn,Charles,M.,Kinghorn,,,,Rye,,New York,,,United States,40.944738,-73.686374,city,Census,3664309,US,0.996,0.996
+02697772,1954-12-21,1954,1952-05-12,assignee,1,Kaiser Aluminum & Chemical Corporation,,,,,,,Oakland,,California,,,United States,37.769846,-122.22569,city,Census,0653000,US,0.999,0.996
+02698939,1955-01-11,1955,1952-06-09,inventor,1,Cornelius J. Geimer,Cornelius,J.,Geimer,,,,Sturgis,,Michigan,,,United States,41.798252,-85.418795,city,Census,2676960,US,0.995,0.995
+02698939,1955-01-11,1955,1952-06-09,assignee,1,Freeman Manufacturing Company,,,,,,,Sturgis,,Michigan,,,United States,41.798252,-85.418795,city,Census,2676960,US,0.997,0.995
+02700956,1955-02-01,1955,1953-06-22,inventor,1,David E. Morgan,David,E.,Morgan,,,,Pennsauken,,New Jersey,,,United States,39.9562238,-75.0579502,city,Nominatim,3400757660,US,0.996,0.996
+02700956,1955-02-01,1955,1953-06-22,assignee,1,Warren Webster & Company,,,,,,,Camden,,New Jersey,,,United States,39.936787,-75.106644,city,Census,3410000,US,0.999,0.996
+02701938,1955-02-15,1955,1951-11-30,inventor,1,Arthur J. Murray,Arthur,J.,Murray,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.961,0.995
+02705202,1955-03-29,1955,1952-03-01,inventor,1,George J. Strezynski,George,J.,Strezynski,,,,Poughkeepsie,,New York,,,United States,41.694595,-73.919869,city,Census,3659641,US,0.996,0.996
+02705202,1955-03-29,1955,1952-03-01,assignee,1,The De Laval Separator Company,,,,,,,Poughkeepsie,,New York,,,United States,41.694595,-73.919869,city,Census,3659641,US,0.999,0.996
+02707754,1955-05-03,1955,1952-02-19,inventor,1,Wilhelm Ludwig,Wilhelm,,Ludwig,,,,Dusseldorf,,,,,Germany,51.2254018,6.7763137,city,Nominatim,,DE,0.973,0.995
+02708047,1955-05-10,1955,1951-03-05,inventor,1,Ralph E. Seidle,Ralph,E.,Seidle,,,,Martinsville,,Virginia,,,United States,36.683527,-79.863647,city,Census,5149784,US,0.962,0.996
+02708436,1955-05-17,1955,1951-03-12,inventor,1,Wade H. Foster,Wade,H.,Foster,,,,Bad Axe,,Michigan,,,United States,43.804919,-82.998319,city,Census,2604740,US,0.973,0.996
+02709309,1955-05-31,1955,1953-08-07,inventor,1,Richard T. Stacey,Richard,T.,Stacey,,,,Bamberg,,South Carolina,,,United States,33.300136,-81.031222,city,Census,4503790,US,0.973,0.995
+02709599,1955-05-31,1955,1952-04-28,inventor,1,Charles J. Mann,Charles,J.,Mann,,,,Traverse City,,Michigan,,,United States,44.7606481,-85.6165976,city,Nominatim,2680340,US,0.973,0.996
+02709881,1955-06-07,1955,1951-03-07,inventor,1,William A. Goss,William,A.,Goss,,,,Zanesville,,Ohio,,,United States,39.957027,-82.011954,city,Census,3988084,US,0.973,0.996
+02709881,1955-06-07,1955,1951-03-07,assignee,1,Detroit Harvester Company,,,,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.835,0.996
+02720809,1955-10-18,1955,1952-09-05,inventor,1,Charles J. Ozment,Charles,J.,Ozment,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.961,0.995
+02721372,1955-10-25,1955,1951-06-30,inventor,1,Roberto Levi,Roberto,,Levi,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+02721372,1955-10-25,1955,1951-06-30,assignee,1,"North American Philips Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+02721993,1955-10-25,1955,1952-11-25,inventor,1,Lewis A. Medlar,Lewis,A.,Medlar,,,,Oreland,,Pennsylvania,,,United States,40.114972,-75.180401,city,Census,4257024,US,0.996,0.996
+02721993,1955-10-25,1955,1952-11-25,assignee,1,Fox Products Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.999,0.996
+02724287,1955-11-22,1955,1952-11-08,inventor,1,Richard B. Knoth,Richard,B.,Knoth,,,,Oak Park,,Illinois,,,United States,41.887164,-87.78994,city,Census,1754885,US,0.995,0.995
+02724287,1955-11-22,1955,1952-11-08,assignee,1,"Western Electric Company, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02731033,1956-01-17,1956,1953-04-06,inventor,1,Walter L. Cable,Walter,L.,Cable,,,,Teaneck,,New Jersey,,,United States,40.8860164,-74.0072568,city,Nominatim,3400372360,US,0.996,0.996
+02731033,1956-01-17,1956,1953-04-06,assignee,1,Bendix Avia-tion Corporation,,,,,,,Teterboro,,New Jersey,,,United States,40.8598219,-74.0593075,city,Nominatim,3472480,US,0.999,0.996
+02739468,1956-03-27,1956,1952-02-08,inventor,1,Harold R. Wilcox,Harold,R.,Wilcox,,,,Maynard,,Massachusetts,,,United States,42.425955,-71.456256,city,Census,2539660,US,0.995,0.995
+02739468,1956-03-27,1956,1952-02-08,assignee,1,"Riggs & Lombard, Inc.",,,,,,,Lowell,,Massachusetts,,,United States,42.638995,-71.32102,city,Census,2537000,US,0.997,0.995
+02740063,1956-03-27,1956,1952-05-23,inventor,1,Hendrik Groendijk,Hendrik,,Groendijk,,,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.996,0.996
+02740063,1956-03-27,1956,1952-05-23,inventor,2,Klaas Rodenhuis,Klaas,,Rodenhuis,,,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.996,0.996
+02740063,1956-03-27,1956,1952-05-23,inventor,3,Jacobus Victor Casper Marie Bruijsten,Jacobus,Victor Casper Marie,Bruijsten,,,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.996,0.996
+02740063,1956-03-27,1956,1952-05-23,assignee,1,Hartford National Bank and Trust Company,,,,,,,Hartford,,Connecticut,,,United States,41.765933,-72.681579,city,Census,0937000,US,0.999,0.996
+02740732,1956-04-03,1956,1951-07-16,inventor,1,David B. Peck,David,B.,Peck,,,,Williamstown,,Massachusetts,,,United States,42.708906,-73.201361,city,Census,2579950,US,0.996,0.996
+02740732,1956-04-03,1956,1951-07-16,inventor,2,Preston Robinson,Preston,,Robinson,,,,Williamstown,,Massachusetts,,,United States,42.708906,-73.201361,city,Census,2579950,US,0.996,0.996
+02740732,1956-04-03,1956,1951-07-16,assignee,1,Sprague Electric Company,,,,,,,North Adams,,Massachusetts,,,United States,42.675565,-73.118114,city,Census,2546225,US,0.999,0.996
+02749003,1956-06-05,1956,1951-06-02,inventor,1,Willy E. Zimmermann,Willy,E.,Zimmermann,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.982,0.996
+02755006,1956-07-17,1956,1951-10-03,inventor,1,Sollie W. Small,Sollie,W.,Small,,,,Newark,,New Jersey,,,United States,40.72422,-74.172574,city,Census,3451000,US,0.973,0.996
+02755006,1956-07-17,1956,1951-10-03,inventor,2,David Herman,David,,Herman,,,,Newark,,New Jersey,,,United States,40.72422,-74.172574,city,Census,3451000,US,0.973,0.996
+02763961,1956-09-25,1956,1953-12-15,inventor,1,Ernst Trommsdorff,Ernst,,Trommsdorff,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.995,0.995
+02763961,1956-09-25,1956,1953-12-15,inventor,2,Gerhard Abel,Gerhard,,Abel,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.995,0.995
+02763961,1956-09-25,1956,1953-12-15,inventor,3,Theodor Volker,Theodor,,Volker,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.995,0.995
+02763961,1956-09-25,1956,1953-12-15,assignee,1,Rohm & Haas G. m. b. H.,,,,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.997,0.995
+02765301,1956-10-02,1956,1952-05-26,inventor,1,Francis W. Cashion,Francis,W.,Cashion,,,,Hamburg,,New York,,,United States,42.723357,-78.834804,city,Census,3631643,US,0.995,0.995
+02765301,1956-10-02,1956,1952-05-26,assignee,1,Allied Chemical & Dye Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02765704,1956-10-09,1956,1953-07-07,inventor,1,André Mottu,André,,Mottu,,,,Geneva,,,,,Switzerland,46.2017559,6.1466014,city,Nominatim,,CH,0.995,0.995
+02765704,1956-10-09,1956,1953-07-07,assignee,1,Societe Genevoise d'Instruments de Physique,,,,,,,Geneva,,,,,Switzerland,46.2017559,6.1466014,city,Nominatim,,CH,0.997,0.995
+02765730,1956-10-09,1956,1951-12-26,inventor,1,John R. Richards,John,R.,Richards,,,,Riverside,,California,,,United States,33.938143,-117.393168,city,Census,0662000,US,0.996,0.996
+02765730,1956-10-09,1956,1951-12-26,assignee,1,Food Machinery and Chemical Corporation,,,,,,,San Jose,,California,,,United States,37.296011,-121.814552,city,Census,0668000,US,0.999,0.996
+02767090,1956-10-16,1956,1954-06-04,inventor,1,Isaac R. Dunlap,Isaac,R.,Dunlap,,,,Cranbury,,New Jersey,,,United States,40.31345,-74.520233,city,Census,3415520,US,0.996,0.996
+02767090,1956-10-16,1956,1954-06-04,assignee,1,The Dow Chemical Company,,,,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.999,0.996
+02768177,1956-10-23,1956,1952-01-23,inventor,1,Giacinto- Diotti,Giacinto-,,Diotti,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.996,0.996
+02768177,1956-10-23,1956,1952-01-23,assignee,1,"Snia Viscosa, Societa Nazionale Industria Applicazioni. Viscosa, Societa: per Azioni",,,,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.999,0.996
+02769961,1956-11-06,1956,1953-12-18,inventor,1,John Chesney,John,,Chesney,,,,Roselle Park,,New Jersey,,,United States,40.6645469,-74.2643133,city,Nominatim,3464650,US,0.996,0.995
+02769961,1956-11-06,1956,1953-12-18,assignee,1,General Instrument Corporation,,,,,,,Elizabeth,,New Jersey,,,United States,40.666367,-74.193503,city,Census,3421000,US,0.996,0.995
+02774293,1956-12-18,1956,1953-03-27,inventor,1,Louis J. Jenn,Louis,J.,Jenn,,,,Indianapolis,,Indiana,,,United States,39.776664,-86.145935,city,Census,1836003,US,0.982,0.997
+02778823,1957-01-22,1957,1954-08-23,inventor,1,Leslie G. S. Brooker,Leslie,G. S.,Brooker,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.283,0.996
+02778823,1957-01-22,1957,1954-08-23,inventor,2,Earl J. Van Lare,Earl,J.,Van Lare,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.283,0.996
+02778823,1957-01-22,1957,1954-08-23,assignee,1,Eastman Kodak Company,,,,,,,Rochester,,Kentucky,,,United States,37.20863,-86.89237,city,Census,2165982,US,0.982,0.996
+02786678,1957-03-26,1957,1955-04-04,inventor,1,Otto T. Fink,Otto,T.,Fink,,,,Bismarck,,North Dakota,,,United States,46.814572,-100.768568,city,Census,3807200,US,0.961,0.995
+02787721,1957-04-02,1957,1954-12-07,inventor,1,Joseph Tudge,Joseph,,Tudge,,,,Walkden,,,,,United Kingdom,53.5242276,-2.3984426,city,Nominatim,,GB,0.995,0.996
+02787721,1957-04-02,1957,1954-12-07,assignee,1,Metropolitan-Vickers Electrical Company Limited,,,,,,,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.999,0.996
+02787943,1957-04-09,1957,1954-04-07,inventor,1,James E. Browning,James,E.,Browning,,,,San Antonio,,Texas,,,United States,29.462809,-98.524635,city,Census,4865000,US,0.973,0.996
+02789685,1957-04-23,1957,1954-02-05,inventor,1,Olaf John Barclay Orwin,Olaf,John Barclay,Orwin,,,Quinton,Birmingham,,,England,,United Kingdom,52.4948994,-1.8518439,city,Nominatim,,GB,0.995,0.995
+02789685,1957-04-23,1957,1954-02-05,assignee,1,Fisher & Ludlow Limited,,,,,,,Birmingham,,,England,,United Kingdom,52.4948994,-1.8518439,city,Nominatim,,GB,0.997,0.995
+02790073,1957-04-23,1957,1955-08-01,inventor,1,Charles W. Curtis,Charles,W.,Curtis,,,,Manhattan Beach,,California,,,United States,33.90087,-118.420715,city,Census,0645400,US,0.996,0.996
+02790073,1957-04-23,1957,1955-08-01,assignee,1,Hughes Aircraft Company,,,,,,,Culver City,,California,,,United States,34.0211224,-118.396466,city,Nominatim,0617568,US,0.999,0.996
+02798232,1957-07-09,1957,1954-07-07,inventor,1,Tore Ericsson,Tore,,Ericsson,,,,Djursholm,,,,,Sweden,59.3973535,18.0880625,city,Nominatim,,SE,0.996,0.996
+02798232,1957-07-09,1957,1954-07-07,assignee,1,Aktiebolaget Sangfabriken,,,,,,,Stockholm,,,,,Sweden,59.3251172,18.0710935,city,Nominatim,,SE,1.0,0.996
+02798752,1957-07-09,1957,1953-04-27,inventor,1,Franz Doll,Franz,,Doll,,,,Essen,,,,,Germany,51.4582235,7.0158171,city,Nominatim,,DE,0.995,0.996
+02798752,1957-07-09,1957,1953-04-27,assignee,1,"Koppers Company, Inc.",,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.996
+02799542,1957-07-16,1957,1955-01-07,inventor,1,Edward J. Raska,Edward,J.,Raska,,,,North Riverside,,Illinois,,,United States,41.846142,-87.826283,city,Census,1754144,US,0.989,0.995
+02799542,1957-07-16,1957,1955-01-07,inventor,2,Louis R. Baldino,Louis,R.,Baldino,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.995,0.995
+02799542,1957-07-16,1957,1955-01-07,assignee,1,Continental X-Ray Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+02803844,1957-08-27,1957,1955-04-22,inventor,1,Bernard S. Clendenin,Bernard,S.,Clendenin,,,,Los Angeles,,California,,,United States,34.019394,-118.410825,city,Census,0644000,US,0.973,0.996
+02804125,1957-08-27,1957,1955-03-07,inventor,1,Herman Edward Adams,Herman,Edward,Adams,,,,Indianapolis,,Indiana,,,United States,39.776664,-86.145935,city,Census,1836003,US,0.973,0.995
+02804213,1957-08-27,1957,1953-03-25,inventor,1,Gerald B. Fox,Gerald,B.,Fox,,,,Troy,,Ohio,,,United States,40.041012,-84.222355,city,Census,3977588,US,0.995,0.996
+02804213,1957-08-27,1957,1953-03-25,inventor,2,Lewis E. Glezen,Lewis,E.,Glezen,,,,Shaker Heights,,Ohio,,,United States,41.47609,-81.549197,city,Census,3971682,US,0.996,0.996
+02804213,1957-08-27,1957,1953-03-25,assignee,1,The Hobart Manufacturing Company,,,,,,,Troy,,Ohio,,,United States,40.041012,-84.222355,city,Census,3977588,US,0.999,0.996
+02810648,1957-10-22,1957,1952-08-07,inventor,1,Harris D. Hineline,Harris,D.,Hineline,,,,Mount Vernon,,New York,,,United States,40.913105,-73.829317,city,Census,3649121,US,0.996,0.996
+02810648,1957-10-22,1957,1952-08-07,assignee,1,General Anilime & Film Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02814959,1957-12-03,1957,1956-02-20,inventor,1,Floyd L. Dodge,Floyd,L.,Dodge,,,,Waltham,,Massachusetts,,,United States,42.388921,-71.242268,city,Census,2572600,US,0.996,0.996
+02814959,1957-12-03,1957,1956-02-20,assignee,1,The Wade Tool Co.,,,,,,,Waltham,,Massachusetts,,,United States,42.388921,-71.242268,city,Census,2572600,US,0.999,0.996
+02830835,1958-04-15,1958,1955-08-17,inventor,1,"Ralph S. Woodruff, Sr.",Ralph,S.,Woodruff,Sr.,,,Point Pleasant,,New Jersey,,,United States,40.0831714,-74.0681931,city,Nominatim,3459880,US,0.973,0.996
+02831686,1958-04-22,1958,1955-09-12,inventor,1,Michael K. Ivor,Michael,K.,Ivor,,,,Phoenix,,Arizona,,,United States,33.572154,-112.090132,city,Census,0455000,US,0.961,0.995
+02834438,1958-05-13,1958,1955-05-19,inventor,1,Robert E. Riddle,Robert,E.,Riddle,,,,St. Marys,,Georgia,,,United States,30.7203759,-81.5485714,city,Nominatim,1367984,US,0.961,0.995
+02834438,1958-05-13,1958,1955-05-19,inventor,2,George R. Lee,George,R.,Lee,,,,St. Marys,,Georgia,,,United States,30.7203759,-81.5485714,city,Nominatim,1367984,US,0.961,0.995
+02835593,1958-05-20,1958,1957-09-23,inventor,1,Irving I. Rusoff,Irving,I.,Rusoff,,,,Park Ridge,,New Jersey,,,United States,41.035965,-74.0415551,city,Nominatim,3456130,US,0.996,0.995
+02835593,1958-05-20,1958,1957-09-23,assignee,1,General Foods Corporation,,,,,,,White Plains,,New York,,,United States,41.0238,-73.751048,city,Census,3681677,US,0.996,0.995
+02836006,1958-05-27,1958,1952-02-28,inventor,1,Raymond Beck,Raymond,,Beck,,,,Knox,,Pennsylvania,,,United States,41.2345058,-79.5372696,city,Nominatim,4240272,US,0.981,0.996
+02836519,1958-05-27,1958,1956-01-16,inventor,1,Joseph P. Rath,Joseph,P.,Rath,,,,Denver,,Colorado,,,United States,39.76185,-104.881105,city,Census,0820000,US,0.973,0.996
+02837239,1958-06-03,1958,1955-07-28,inventor,1,Axel R. Scholin,Axel,R.,Scholin,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.988,0.996
+02841830,1958-07-08,1958,1954-03-08,inventor,1,Robert B. Burris,Robert,B.,Burris,,,,Evansville,,Indiana,,,United States,37.987737,-87.534705,city,Census,1822000,US,0.996,0.996
+02841830,1958-07-08,1958,1954-03-08,assignee,1,Faultless Caster Corporation,,,,,,,Evansville,,Indiana,,,United States,37.987737,-87.534705,city,Census,1822000,US,0.999,0.996
+02844976,1958-07-29,1958,1955-01-21,inventor,1,Alexander J. Kasevich,Alexander,J.,Kasevich,,,,Manchester,,Connecticut,,,United States,41.77963,-72.520157,city,Census,0944690,US,0.996,0.996
+02844976,1958-07-29,1958,1955-01-21,assignee,1,The United Tool and Die Company,,,,,,,Hartford,,Connecticut,,,United States,41.765933,-72.681579,city,Census,0937000,US,0.999,0.996
+02846064,1958-08-05,1958,1956-06-06,inventor,1,William Rowe,William,,Rowe,,,,Lewiston,,Maine,,,United States,44.089513,-70.172095,city,Census,2338740,US,0.996,0.996
+02846064,1958-08-05,1958,1956-06-06,assignee,1,"Bonafide Mills, Inc.",,,,,,,Lisbon,,Maine,,,United States,44.029707,-70.107521,city,Census,2340000,US,0.999,0.996
+02848367,1958-08-19,1958,1956-01-17,inventor,1,William Lawrence Williams,William,Lawrence,Williams,,,,New City,,New York,,,United States,41.1509835,-73.9897782,city,Nominatim,3650100,US,0.995,0.996
+02848367,1958-08-19,1958,1956-01-17,inventor,2,Leon Ellenbogen,Leon,,Ellenbogen,,,,Spring Valley,,New York,,,United States,41.114567,-74.048712,city,Census,3670420,US,0.996,0.996
+02848367,1958-08-19,1958,1956-01-17,inventor,3,Lester Otmar Olsen,Lester,Otmar,Olsen,,,,Bergenfield,,New Jersey,,,United States,40.9275987,-73.9973608,city,Nominatim,3405170,US,0.996,0.996
+02848367,1958-08-19,1958,1956-01-17,assignee,1,American Cyanamid Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02861150,1958-11-18,1958,1954-12-22,inventor,1,Kenneth W. Swain,Kenneth,W.,Swain,,,,Hampton Falls,,New Hampshire,,,United States,42.9164147,-70.8646837,city,Nominatim,3301533460,US,0.995,0.995
+02861150,1958-11-18,1958,1954-12-22,assignee,1,The Chase-Shawmut Company,,,,,,,Newburyport,,Massachusetts,,,United States,42.812141,-70.886646,city,Census,2545245,US,0.997,0.995
+02862440,1958-12-02,1958,1956-03-01,inventor,1,Gladys J. Oakes,Gladys,J.,Oakes,,,,Baton Rouge,,Louisiana,,,United States,30.442174,-91.130894,city,Census,2205000,US,0.973,0.996
+02866898,1958-12-30,1958,1956-03-29,inventor,1,Williani J. Race,Williani,J.,Race,,,,Franklin Park,,Illinois,,,United States,41.935983,-87.879197,city,Census,1727702,US,0.995,0.995
+02866898,1958-12-30,1958,1956-03-29,assignee,1,"Motorola, Inc.",,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+02870014,1959-01-20,1959,1957-01-09,inventor,1,Leslie G. S. Brooker,Leslie,G. S.,Brooker,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.995,0.995
+02870014,1959-01-20,1959,1957-01-09,inventor,2,Earl J. Van Lare,Earl,J.,Van Lare,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.995,0.995
+02870014,1959-01-20,1959,1957-01-09,assignee,1,Eastman Kodak Company,,,,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.997,0.995
+02870340,1959-01-20,1959,1955-11-02,inventor,1,Jacobus Fransen,Jacobus,,Fransen,,,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.995,0.995
+02870340,1959-01-20,1959,1955-11-02,assignee,1,"North American Philips Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02882591,1959-04-21,1959,1955-10-17,inventor,1,Harry C. Grossman,Harry,C.,Grossman,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.973,0.996
+02887097,1959-05-19,1959,1955-09-19,inventor,1,"Thomas W. Huffman, Sr.",Thomas,W.,Huffman,Sr.,,,Odessa,,Texas,,,United States,31.880461,-102.345314,city,Census,4853388,US,0.973,0.995
+02887097,1959-05-19,1959,1955-09-19,inventor,2,"Thomas W. Huffman, Jr.",Thomas,W.,Huffman,Jr.,,,Odessa,,Texas,,,United States,31.880461,-102.345314,city,Census,4853388,US,0.973,0.995
+02889878,1959-06-09,1959,1956-03-07,inventor,1,William J. White,William,J.,White,,,,Fort Lauderdale,,Florida,,,United States,26.141227,-80.146731,city,Census,1224000,US,0.961,0.995
+02889878,1959-06-09,1959,1956-03-07,inventor,2,Louis Besterda,Louis,,Besterda,,,,Fort Lauderdale,,Florida,,,United States,26.141227,-80.146731,city,Census,1224000,US,0.961,0.995
+02891578,1959-06-23,1959,1956-01-09,inventor,1,Robert R. Dahl,Robert,R.,Dahl,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.996
+02891578,1959-06-23,1959,1956-01-09,inventor,2,Howard L. Erickson,Howard,L.,Erickson,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.996
+02891578,1959-06-23,1959,1956-01-09,assignee,1,The Dole Valve Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+02893336,1959-07-07,1959,1956-06-29,inventor,1,Michael A. Chinnici,Michael,A.,Chinnici,,,,Teaneck,,New Jersey,,,United States,40.8860164,-74.0072568,city,Nominatim,3400372360,US,0.995,0.995
+02893336,1959-07-07,1959,1956-06-29,assignee,1,Peerless Sewing Machine Company Incorporated,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02901350,1959-08-25,1959,1954-10-12,inventor,1,Jerome Stewart Goldhammer,Jerome,Stewart,Goldhammer,,,,Levittown,,New York,,,United States,40.72399,-73.512709,city,Census,3642081,US,0.973,0.996
+02904570,1959-09-15,1959,1956-03-27,inventor,1,Hugh E. Ramsden,Hugh,E.,Ramsden,,,,Scotch Plains,,New Jersey,,,United States,40.65538,-74.3898732,city,Nominatim,3403966060,US,0.995,0.995
+02904570,1959-09-15,1959,1956-03-27,assignee,1,Metal & Thermit Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02909672,1959-10-20,1959,1957-10-28,inventor,1,Frederic P. Emery,Frederic,P.,Emery,,,,Williamsville,,New York,,,United States,42.95825,-78.73952,city,Census,3682084,US,0.996,0.996
+02909672,1959-10-20,1959,1957-10-28,assignee,1,Westinghouse Electric Corporation,,,,,,,East Pittsburgh,,Pennsylvania,,,United States,40.3957108,-79.8384391,city,Nominatim,4221712,US,0.999,0.996
+02910535,1959-10-27,1959,1955-06-13,inventor,1,Renat Terlecki,Renat,,Terlecki,,,,Taplow,,,England,,United Kingdom,51.5304391,-0.6889289,city,Nominatim,,GB,0.961,0.995
+02910535,1959-10-27,1959,1955-06-13,inventor,2,Robert Owen Carter,Robert,Owen,Carter,,,,Woodford Green,,,England,,United Kingdom,51.6085806,0.0212014,city,Nominatim,,GB,0.961,0.995
+02912007,1959-11-10,1959,1953-04-15,inventor,1,Clarence Johnson,Clarence,,Johnson,,,,South Euclid,,Ohio,,,United States,41.523957,-81.524485,city,Census,3973264,US,0.961,0.995
+02916101,1959-12-08,1959,1957-02-25,inventor,1,Israel A. Naman,Israel,A.,Naman,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.982,0.997
+02918090,1959-12-22,1959,1955-12-29,inventor,1,De Witt L. Shelly,De Witt,L.,Shelly,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.996,0.996
+02918090,1959-12-22,1959,1955-12-29,assignee,1,Westinghouse Air Brake Company,,,,,,,Wilmerding,,Pennsylvania,,,United States,40.3909023,-79.8100473,city,Nominatim,4285496,US,0.999,0.996
+02921946,1960-01-19,1960,1954-09-30,inventor,1,George R. Krsek,George,R.,Krsek,,,,Danville,,Pennsylvania,,,United States,40.9664806,-76.6131474,city,Nominatim,4218136,US,0.995,0.995
+02921946,1960-01-19,1960,1954-09-30,assignee,1,"Merck & Co., Inc.",,,,,,,Rahway,,New Jersey,,,United States,40.607152,-74.280531,city,Census,3461530,US,0.997,0.995
+02923001,1960-01-26,1960,1954-10-26,inventor,1,Mervyn Morgan,Mervyn,,Morgan,,,,Chelmsford,,,,,England,51.7345329,0.4730532,city,Nominatim,,GB,0.996,0.996
+02923001,1960-01-26,1960,1954-10-26,inventor,2,William Oliver Agar,William,Oliver,Agar,,,,Danbury,,,,,England,51.7109,0.5783785,city,Nominatim,,GB,0.996,0.996
+02923001,1960-01-26,1960,1954-10-26,assignee,1,Marconi's Wireless Telegraph Company Limited,,,,,,,London,,,,,England,51.5074456,-0.1277653,city,Nominatim,,GB,0.999,0.996
+02923126,1960-02-02,1960,1956-01-09,inventor,1,Michel Precoul,Michel,,Precoul,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.995
+02923126,1960-02-02,1960,1956-01-09,assignee,1,Societe Technique de Recherches Industrielles et Mecaniques,,,,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.995
+02938629,1960-05-31,1960,1955-07-28,inventor,1,Clinton A. Holiingsworth,Clinton,A.,Holiingsworth,,,,Lakeland,,Florida,,,United States,28.055496,-81.954772,city,Census,1238250,US,0.993,0.996
+02938629,1960-05-31,1960,1955-07-28,inventor,2,Charles J. McDonaid,Charles,J.,McDonaid,,,,Plant City,,Florida,,,United States,28.01633,-82.1234803,city,Nominatim,1257550,US,0.996,0.996
+02938629,1960-05-31,1960,1955-07-28,assignee,1,"Smith-Doug‑lass Company, Incorporated",,,,,,,Norfolk,,Virginia,,,United States,36.923015,-76.244641,city,Census,5157000,US,1.0,0.996
+02938756,1960-05-31,1960,1958-09-29,inventor,1,Alfred M. Loeb,Alfred,M.,Loeb,,,,Trevose,,Pennsylvania,,,United States,40.150936,-74.981984,city,Census,4277456,US,0.998,0.997
+02938756,1960-05-31,1960,1958-09-29,assignee,1,The Franklin Institute,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.999,0.997
+02944279,1960-07-12,1960,1958-05-28,inventor,1,Eugene R. Parse,Eugene,R.,Parse,,"Rte. 1, Box 548",,Waupaca,,Wisconsin,,,United States,44.350048,-89.070003,city,Census,5584375,US,0.973,0.996
+02944279,1960-07-12,1960,1958-05-28,inventor,2,Claude J. Parse,Claude,J.,Parse,,"Rte. 4, Box 219",,Waupaca,,Wisconsin,,,United States,44.350048,-89.070003,city,Census,5584375,US,0.973,0.996
+02947203,1960-08-02,1960,1954-07-07,inventor,1,Carlo Ausenda,Carlo,,Ausenda,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.998,0.996
+02947203,1960-08-02,1960,1954-07-07,inventor,2,Roberto Dessalles,Roberto,,Dessalles,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.998,0.996
+02947203,1960-08-02,1960,1954-07-07,assignee,1,Compagnia Italiana Forme Acciaio S.p.A.,,,,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.998,0.996
+02947383,1960-08-02,1960,1956-06-07,inventor,1,Franz Schytil,Franz,,Schytil,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.996,0.996
+02947383,1960-08-02,1960,1956-06-07,inventor,2,Hubert Krollmann,Hubert,,Krollmann,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.996,0.996
+02947383,1960-08-02,1960,1956-06-07,assignee,1,"Metallgesellschaft, A.G.",,,,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.999,0.996
+02949367,1960-08-16,1960,1957-10-17,inventor,1,Lawrence S. Goldmeier,Lawrence,S.,Goldmeier,,6312 Anderson St.,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.973,0.996
+02949636,1960-08-23,1960,1958-07-14,inventor,1,Robert E. Mastin,Robert,E.,Mastin,,,,Ridgewood,,New Jersey,,,United States,40.981591,-74.113506,city,Census,3463000,US,0.996,0.996
+02949636,1960-08-23,1960,1958-07-14,assignee,1,La Favorite Rubber Manufacturing Co.,,,,,,,Hawthorne,,New Jersey,,,United States,40.9492649,-74.1537549,city,Nominatim,3430570,US,0.999,0.996
+02950742,1960-08-30,1960,1959-05-11,inventor,1,Claude 0. Weikei,Claude,0.,Weikei,,1438 Velma Ave.,,Santa Rosa,,California,,,United States,38.445824,-122.706181,city,Census,0670098,US,0.961,0.995
+02955279,1960-10-04,1960,1955-02-11,inventor,1,Hendrik W. Bode,Hendrik,W.,Bode,,,,Summit,,New Jersey,,,United States,40.715622,-74.364684,city,Census,3471430,US,0.995,0.996
+02955279,1960-10-04,1960,1955-02-11,inventor,2,Herbert J. McSkimin,Herbert,J.,McSkimin,,,,Basking Ridge,,New Jersey,,,United States,40.706547,-74.557631,city,Census,3403340,US,0.996,0.996
+02955279,1960-10-04,1960,1955-02-11,assignee,1,"Beli Telephone Laboratories, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+02956391,1960-10-18,1960,1956-09-26,inventor,1,Georg Demmel,Georg,,Demmel,,,Berlin-Siemensstadt,Berlin,,,,,Germany,52.5173885,13.3951309,city,Nominatim,,DE,0.153,0.996
+02956391,1960-10-18,1960,1956-09-26,inventor,2,Wilhelm Wirth,Wilhelm,,Wirth,,,Berlin-Siemensstadt,Berlin,,,,,Germany,52.5173885,13.3951309,city,Nominatim,,DE,0.153,0.996
+02956391,1960-10-18,1960,1956-09-26,assignee,1,Siemens-Schuckertwerke Aktiengesellschaft,,,,,,,Berlin,,,,,Germany,52.5173885,13.3951309,city,Nominatim,,DE,0.999,0.996
+02966048,1960-12-27,1960,1958-04-17,inventor,1,Constantin Goossev,Constantin,,Goossev,,737 E. 9th St.,,Erie,,Pennsylvania,,,United States,42.116594,-80.073503,city,Census,4224000,US,0.973,0.996
+02969532,1961-01-24,1961,1957-01-08,inventor,1,Francis Leonard Ebel,Francis,Leonard,Ebel,,,,Hayes,,,England,,United Kingdom,51.5077154,-0.4181471,city,Nominatim,,GB,0.996,0.996
+02969532,1961-01-24,1961,1957-01-08,assignee,1,Fairey Aviation Limited,,,,,,,Hayes,,,England,,United Kingdom,51.5077154,-0.4181471,city,Nominatim,,GB,0.999,0.996
+02970251,1961-01-31,1961,1956-07-10,inventor,1,William R. Wickerham,William,R.,Wickerham,,,,Buffalo,,New York,,,United States,42.892492,-78.859686,city,Census,3611000,US,0.996,0.996
+02970251,1961-01-31,1961,1956-07-10,assignee,1,Westinghouse Electric Corporation,,,,,,,East Pittsburgh,,Pennsylvania,,,United States,40.3957108,-79.8384391,city,Nominatim,4221712,US,0.999,0.996
+02970624,1961-02-07,1961,1959-03-18,inventor,1,Arnold W. Lundell,Arnold,W.,Lundell,,,,Byram,,Connecticut,,,United States,41.001096,-73.65412,city,Census,0910660,US,0.996,0.996
+02970624,1961-02-07,1961,1959-03-18,assignee,1,"Globe Slicing Machine Co., Inc.",,,,,,,Stamford,,Connecticut,,,United States,41.079611,-73.54608,city,Census,0973000,US,0.999,0.996
+02971551,1961-02-14,1961,1958-01-06,inventor,1,Carl A. Rietz,Carl,A.,Rietz,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.995,0.995
+02971551,1961-02-14,1961,1958-01-06,assignee,1,Rietz Manufacturing Co.,,,,,,,Santa Rosa,,California,,,United States,38.445824,-122.706181,city,Census,0670098,US,0.997,0.995
+02975356,1961-03-14,1961,1956-06-19,inventor,1,Benjamin Cooper,Benjamin,,Cooper,,,,Waynesboro,,Virginia,,,United States,38.067157,-78.90142,city,Census,5183680,US,0.995,0.995
+02975356,1961-03-14,1961,1956-06-19,inventor,2,Carter Sinclair,Carter,,Sinclair,,,,Waynesboro,,Virginia,,,United States,38.067157,-78.90142,city,Census,5183680,US,0.995,0.995
+02975356,1961-03-14,1961,1956-06-19,assignee,1,General Electric Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+02978133,1961-04-04,1961,1960-02-29,inventor,1,Alfred J. Huck,Alfred,J.,Huck,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.996,0.996
+02978133,1961-04-04,1961,1960-02-29,assignee,1,Knapp Monarch Company,,,,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.999,0.996
+02983113,1961-05-09,1961,1959-04-22,inventor,1,Gene Koch,Gene,,Koch,,3800 Coburg Road,,Eugene,,Oregon,,,United States,44.056848,-123.119019,city,Census,4123850,US,0.973,0.996
+02989677,1961-06-20,1961,1959-03-17,inventor,1,Meyer Marks,Meyer,,Marks,,,,Clarendon Hills,,Illinois,,,United States,41.798448,-87.957239,city,Census,1714572,US,0.996,0.996
+02989677,1961-06-20,1961,1959-03-17,assignee,1,Admiral Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+02990155,1961-06-27,1961,1959-03-30,inventor,1,Eric P. Selinder,Eric,P.,Selinder,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.996,0.996
+02990155,1961-06-27,1961,1959-03-30,assignee,1,Minneapolis-Honeywell Regulator Company,,,,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.999,0.996
+02992200,1961-07-11,1961,1957-06-14,inventor,1,George P. Maly,George,P.,Maly,,,,Fullerton,,California,,,United States,33.885716,-117.928025,city,Census,0628000,US,0.995,0.995
+02992200,1961-07-11,1961,1957-06-14,assignee,1,Union Oil Company of California,,,,,,,Los Angeles,,California,,,United States,34.019394,-118.410825,city,Census,0644000,US,0.997,0.995
+02993005,1961-07-18,1961,1957-09-03,inventor,1,Milton Kosmin,Milton,,Kosmin,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02993005,1961-07-18,1961,1957-09-03,inventor,2,John W. Andersen,John,W.,Andersen,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.996,0.996
+02993005,1961-07-18,1961,1957-09-03,assignee,1,Monsanto Chemical Company,,,,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.999,0.996
+03002853,1961-10-03,1961,1959-12-07,inventor,1,Gustaf Bristol Heijmer,Gustaf,Bristol,Heijmer,,Vastra Lanvagen 35,,Enebyberg,,,,,Sweden,59.4312339,18.0395789,city,Nominatim,,SE,0.961,0.995
+03011274,1961-12-05,1961,1958-02-19,inventor,1,John E. Richter,John,E.,Richter,,,,San Jose,,California,,,United States,37.296011,-121.814552,city,Census,0668000,US,0.995,0.995
+03011274,1961-12-05,1961,1958-02-19,assignee,1,Curtiss-Wright Corporation,,,,,,,South Bend,,Indiana,,,United States,41.676643,-86.268809,city,Census,1871000,US,0.997,0.995
+03014376,1961-12-26,1961,1954-09-23,inventor,1,Theodore W. Kenyon,Theodore,W.,Kenyon,,,,Old Lyme,,Connecticut,,,United States,41.3162517,-72.3296192,city,Nominatim,0913057040,US,0.998,0.997
+03014376,1961-12-26,1961,1954-09-23,assignee,1,Aeroflex Laboratories Incorporated,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.997
+03018922,1962-01-30,1962,1958-02-07,inventor,1,Johm Williamson,Johm,,Williamson,,440 S. Keyser,,Holgate,,Ohio,,,United States,41.249289,-84.129246,city,Census,3935854,US,0.973,0.996
+03020779,1962-02-13,1962,1959-03-25,inventor,1,"John R. Winter, Jr.",John,R.,Winter,Jr.,18012 Wildemere Ave.,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.973,0.996
+03024049,1962-03-06,1962,1960-05-23,inventor,1,Nicolai H. Tranas,Nicolai,H.,Tranas,,"Rte. 1, Box 376",,Laramie,,Wyoming,,,United States,41.311544,-105.606884,city,Census,5645050,US,0.995,0.995
+03024049,1962-03-06,1962,1960-05-23,assignee,1,Milbur M Brandt,Milbur,M.,Brandt,,,,Fox Park,,Wyoming,,,United States,41.080132,-106.153386,city,Census,5629400,US,0.997,0.995
+03024184,1962-03-06,1962,1958-09-29,inventor,1,"Robert J. Bowes, Jr.",Robert,J.,Bowes,Jr.,,,Seneca Falls,,New York,,,United States,42.911607,-76.797058,city,Census,3666322,US,0.996,0.996
+03024184,1962-03-06,1962,1958-09-29,inventor,2,Donald R. Peacock,Donald,R.,Peacock,,,,Seneca Falls,,New York,,,United States,42.911607,-76.797058,city,Census,3666322,US,0.996,0.996
+03024184,1962-03-06,1962,1958-09-29,assignee,1,Sylvania Electric Products Inc.,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.999,0.996
+03025135,1962-03-13,1962,1959-06-11,inventor,1,Lester A. Kenworthy,Lester,A.,Kenworthy,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.995,0.995
+03025135,1962-03-13,1962,1959-06-11,assignee,1,The Glidden Company,,,,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.997,0.995
+03025735,1962-03-20,1962,1958-10-24,inventor,1,George W. MacArthur,George,W.,MacArthur,,,,Farmington,,Michigan,,,United States,42.461379,-83.378385,city,Census,2627380,US,0.973,0.996
+03028726,1962-04-10,1962,1959-12-23,inventor,1,George F. Jenkins,George,F.,Jenkins,,,,Bloomington,,Minnesota,,,United States,44.829666,-93.315217,city,Census,2706616,US,0.995,0.997
+03028726,1962-04-10,1962,1959-12-23,inventor,2,Roman Smulka,Roman,,Smulka,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.998,0.997
+03028726,1962-04-10,1962,1959-12-23,assignee,1,Minneapolis-Honey-well Regulator Company,,,,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.999,0.997
+03034357,1962-05-15,1962,1959-07-15,inventor,1,George T. Brown,George,T.,Brown,,,,Albuquerque,,New Mexico,,,United States,35.10478,-106.646809,city,Census,3502000,US,0.973,0.995
+03036032,1962-05-22,1962,1957-11-25,inventor,1,Stanley A. Mardock,Stanley,A.,Mardock,,,,Concord,,California,,,United States,37.972184,-122.001587,city,Census,0616000,US,0.996,0.996
+03036032,1962-05-22,1962,1957-11-25,inventor,2,Clyde W. Davis,Clyde,W.,Davis,,,,Williamsburg,,Virginia,,,United States,37.269481,-76.708193,city,Census,5186160,US,0.996,0.996
+03036032,1962-05-22,1962,1957-11-25,inventor,3,Forrest A. Ehlers,Forrest,A.,Ehlers,,,,Walnut Creek,,California,,,United States,37.902666,-122.040479,city,Census,0683346,US,0.996,0.996
+03036032,1962-05-22,1962,1957-11-25,assignee,1,The Dow Chemical Company,,,,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.999,0.996
+03053273,1962-09-11,1962,1958-12-02,inventor,1,Marion J. Schreiner,Marion,J.,Schreiner,,,,Tiffin,,Ohio,,,United States,41.116422,-83.179478,city,Census,3976778,US,0.961,0.995
+03054749,1962-09-18,1962,1960-06-10,inventor,1,Edward O. Bennett,Edward,O.,Bennett,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.996,0.996
+03054749,1962-09-18,1962,1960-06-10,inventor,2,Edward B. Hodge,Edward,B.,Hodge,,,,Terre Haute,,Indiana,,,United States,39.464152,-87.376036,city,Census,1875428,US,0.996,0.996
+03054749,1962-09-18,1962,1960-06-10,assignee,1,Commercial Solvents Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03057766,1962-10-09,1962,1957-09-23,inventor,1,John W. Dickey,John,W.,Dickey,,,,Ridgewood,,New Jersey,,,United States,40.981591,-74.113506,city,Census,3463000,US,0.996,0.996
+03057766,1962-10-09,1962,1957-09-23,assignee,1,"Reeves Brothers, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03062140,1962-11-06,1962,1959-06-22,inventor,1,Homer L. Bishop,Homer,L.,Bishop,,,,Dayton,,Ohio,,,United States,39.784743,-84.199632,city,Census,3921000,US,0.995,0.995
+03062140,1962-11-06,1962,1959-06-22,assignee,1,Bista Inc.,,,,,,,West Carrollton,,Ohio,,,United States,39.669742,-84.25549,city,Census,3983090,US,0.997,0.995
+03063481,1962-11-13,1962,1961-08-07,inventor,1,Bert D. Sutherland,Bert,D.,Sutherland,,,,Pontiac,,Michigan,,,United States,42.649228,-83.287363,city,Census,2665440,US,0.998,0.996
+03063481,1962-11-13,1962,1961-08-07,assignee,1,Lee R. Sutherland,Lee,R.,Sutherland,,,,Pontiac,,Michigan,,,United States,42.649228,-83.287363,city,Census,2665440,US,0.998,0.996
+03071827,1963-01-08,1963,1960-05-05,inventor,1,"Harold S. Van Buren, Jr.",Harold,S.,Van Buren,Jr.,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.995,0.995
+03071827,1963-01-08,1963,1960-05-05,assignee,1,United-Carr Fastener Corporation,,,,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.997,0.995
+03074302,1963-01-22,1963,1959-10-01,inventor,1,Edward Coulon,Edward,,Coulon,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.995,0.995
+03074302,1963-01-22,1963,1959-10-01,inventor,2,Harry May,Harry,,May,,,,Lombard,,Illinois,,,United States,41.873844,-88.015491,city,Census,1744407,US,0.995,0.995
+03074302,1963-01-22,1963,1959-10-01,assignee,1,Vogel Tool & Die Corporation,,,,,,,Melrose Park,,Illinois,,,United States,41.902995,-87.863644,city,Census,1748242,US,0.997,0.995
+03077694,1963-02-19,1963,1961-08-17,inventor,1,Walter W. Cox,Walter,W.,Cox,,3703 SW. 59th Ave.,,Miami,,Florida,,,United States,25.775163,-80.208615,city,Census,1245000,US,0.973,0.995
+03079108,1963-02-26,1963,1960-09-14,inventor,1,Victor L. Falkner,Victor,L.,Falkner,,,,St. Paul,,Minnesota,,,United States,44.9497487,-93.0931028,city,Nominatim,2758000,US,0.996,0.995
+03079108,1963-02-26,1963,1960-09-14,inventor,2,Russell C. Hendrick,Russell,C.,Hendrick,,,,St. Paul,,Minnesota,,,United States,44.9497487,-93.0931028,city,Nominatim,2758000,US,0.996,0.995
+03079108,1963-02-26,1963,1960-09-14,inventor,3,Robert C. K. Lee,Robert,C. K.,Lee,,,,Fridley,,Minnesota,,,United States,45.084246,-93.26005,city,Census,2722814,US,0.996,0.995
+03079108,1963-02-26,1963,1960-09-14,assignee,1,Minneapolis-Honeywell Regulator Company,,,,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.999,0.995
+03083546,1963-04-02,1963,1961-09-14,inventor,1,Robert F. Turek,Robert,F.,Turek,,,,Windsor Locks,,Connecticut,,,United States,41.92779,-72.651616,city,Census,0987140,US,0.995,0.995
+03083546,1963-04-02,1963,1961-09-14,assignee,1,United Aircraft Corporation,,,,,,,East Hartford,,Connecticut,,,United States,41.760695,-72.607646,city,Census,0922700,US,0.997,0.995
+03088300,1963-05-07,1963,1959-10-21,inventor,1,James H. Elliott,James,H.,Elliott,,,,Greensburg,,Pennsylvania,,,United States,40.311155,-79.544431,city,Census,4231200,US,0.996,0.996
+03088300,1963-05-07,1963,1959-10-21,assignee,1,Pittsburgh Plate Glass Company,,,,,,,Pittsburgh,Allegheny,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.996
+03093705,1963-06-11,1963,1961-08-01,inventor,1,"William E. Gienn, Jr.",William,E.,Gienn,Jr.,,,Scotia,,New York,,,United States,42.832014,-73.960402,city,Census,3665893,US,0.996,0.996
+03093705,1963-06-11,1963,1961-08-01,assignee,1,General Electric Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03103269,1963-09-10,1963,1960-10-12,inventor,1,Levio P. Bernard,Levio,P.,Bernard,,,,Vestal,,New York,,,United States,42.0850703,-76.053813,city,Nominatim,3600777255,US,0.998,0.997
+03103269,1963-09-10,1963,1960-10-12,assignee,1,Business Machines Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.997
+03106414,1963-10-08,1963,1958-12-03,inventor,1,Melville F. Peters,Melville,F.,Peters,,,,Livingston,,New Jersey,,,United States,40.7959335,-74.3148713,city,Nominatim,3401340890,US,0.996,0.996
+03106414,1963-10-08,1963,1958-12-03,assignee,1,Joseph J. Mascuch,Joseph,J.,Mascuch,,,,Millburn,,New Jersey,,,United States,40.7244443,-74.3069069,city,Nominatim,3401346380,US,0.999,0.996
+03107601,1963-10-22,1963,1958-09-02,inventor,1,Richard L. Longmire,Richard,L.,Longmire,,,,Fresno,,California,,,United States,36.782684,-119.793359,city,Census,0627000,US,0.961,0.995
+03109183,1963-11-05,1963,1962-07-30,inventor,1,Lewis R. Overmyer,Lewis,R.,Overmyer,,4128 Cottage Ave.,,Mishawaka,,Indiana,,,United States,41.676606,-86.165356,city,Census,1849932,US,0.973,0.996
+03111474,1963-11-19,1963,1957-08-28,inventor,1,Ronald Haynes,Ronald,,Haynes,,,,Sheffield,,,,,United Kingdom,53.3806626,-1.4702278,city,Nominatim,,GB,0.996,0.996
+03111474,1963-11-19,1963,1957-08-28,assignee,1,Babcock & Wilcox Limited,,,,,,,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.999,0.996
+03114974,1963-12-24,1963,1962-06-15,inventor,1,Paul A. Braginetz,Paul,A.,Braginetz,,1609 Armstrong Ave.,,Staunton,,Virginia,,,United States,38.157978,-79.061876,city,Census,5175216,US,0.996,0.996
+03114974,1963-12-24,1963,1962-06-15,assignee,1,Arthur Berman,,,,,,,Harrisburg,,Pennsylvania,,,United States,40.275891,-76.88502,city,Census,4232800,US,0.999,0.996
+03115702,1963-12-31,1963,1960-11-14,inventor,1,Alfred Frank Scutt,Alfred,Frank,Scutt,,,Ealing,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.996,0.996
+03115702,1963-12-31,1963,1960-11-14,inventor,2,Alan Arthur Bourne,Alan,Arthur,Bourne,,,,Harrow,,,England,,United Kingdom,51.5968271,-0.3373046,city,Nominatim,,GB,0.996,0.996
+03115702,1963-12-31,1963,1960-11-14,assignee,1,"Johnson, Matthey & Company Limited",,,,,,,London,,,England,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.999,0.996
+03117143,1964-01-07,1964,1962-11-23,inventor,1,Paul B. Soliman,Paul,B.,Soliman,,,,Wilmette,,Illinois,,,United States,42.077323,-87.728621,city,Census,1782075,US,0.996,0.995
+03117143,1964-01-07,1964,1962-11-23,assignee,1,G. D. Searle & Co.,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.995
+03119389,1964-01-28,1964,1961-07-17,inventor,1,Stephen Ritzcovan,Stephen,,Ritzcovan,,525 Leavenworth St.,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.961,0.995
+03121751,1964-02-18,1964,1959-10-06,inventor,1,George Kesslin,George,,Kesslin,,,,Teaneck,,New Jersey,,,United States,40.8860164,-74.0072568,city,Nominatim,3400372360,US,0.996,0.995
+03121751,1964-02-18,1964,1959-10-06,inventor,2,Alvin Charles Fiisik,Alvin,Charles,Fiisik,,,,Teaneck,,New Jersey,,,United States,40.8860164,-74.0072568,city,Nominatim,3400372360,US,0.996,0.995
+03121751,1964-02-18,1964,1959-10-06,inventor,3,Robert Wesley Handy,Robert,Wesley,Handy,,,,Stony Point,,New York,,,United States,41.229379,-73.997646,city,Census,3671663,US,0.996,0.995
+03121751,1964-02-18,1964,1959-10-06,assignee,1,"hay-Fries Chemicals, Inc.",,,,,,,West Haverstraw,,New York,,,United States,41.206306,-73.986782,city,Census,3680203,US,0.996,0.995
+03131283,1964-04-28,1964,1961-12-28,inventor,1,Arthur E. Dawson,Arthur,E.,Dawson,,,Meyersville R.D.,Gillette,,New Jersey,,,United States,40.695179,-74.456871,city,Census,3426220,US,0.996,0.996
+03131283,1964-04-28,1964,1961-12-28,assignee,1,"Air Reduction Company, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03132061,1964-05-05,1964,1962-06-22,inventor,1,John P. Walsh,John,P.,Walsh,,,,Conneaut,,Ohio,,,United States,41.927299,-80.568382,city,Census,3918350,US,0.996,0.996
+03132061,1964-05-05,1964,1962-06-22,inventor,2,Harold F. Bishop,Harold,F.,Bishop,,,,Conneaut,,Ohio,,,United States,41.927299,-80.568382,city,Census,3918350,US,0.996,0.996
+03132061,1964-05-05,1964,1962-06-22,assignee,1,Exomet Incorporated,,,,,,,Conneaut,,Ohio,,,United States,41.927299,-80.568382,city,Census,3918350,US,0.999,0.996
+03133270,1964-05-12,1964,1960-08-24,inventor,1,George J. David,George,J.,David,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.996
+03133270,1964-05-12,1964,1960-08-24,assignee,1,"Automatic Electric Laboratories, Inc.",,,,,,,Northlake,,Illinois,,,United States,41.914317,-87.905483,city,Census,1753871,US,0.999,0.996
+03135572,1964-06-02,1964,1961-08-24,inventor,1,Herbert C. Curtis,Herbert,C.,Curtis,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.111,0.996
+03135572,1964-06-02,1964,1961-08-24,inventor,2,Andrew Sande,Andrew,,Sande,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.111,0.996
+03135572,1964-06-02,1964,1961-08-24,assignee,1,Curtis Development & Mfg. Co.,,,,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.999,0.996
+03136710,1964-06-09,1964,1960-09-07,inventor,1,George A. Dubey,George,A.,Dubey,,,,Appleton,,Wisconsin,,,United States,44.278873,-88.388284,city,Census,5502375,US,0.995,0.995
+03136710,1964-06-09,1964,1960-09-07,assignee,1,Sulphite Products Corporation,,,,,,,Appleton,,Wisconsin,,,United States,44.278873,-88.388284,city,Census,5502375,US,0.997,0.995
+03137263,1964-06-16,1964,1963-04-29,inventor,1,Joseph D. Sainte-Claire,Joseph,D.,Sainte-Claire,,5920 Wadsworth Ave.,,Highland,,California,,,United States,34.113473,-117.165729,city,Census,0633588,US,0.973,0.996
+03143920,1964-08-11,1964,1958-04-07,inventor,1,Jerry D. Hawkins,Jerry,D.,Hawkins,,16 Lake Shore Drive,,Massapequa,,New York,,,United States,40.668302,-73.471515,city,Census,3645986,US,0.961,0.995
+03144405,1964-08-11,1964,1961-08-30,inventor,1,Randali E. Beinke,Randali,E.,Beinke,,,,Warren,,Michigan,,,United States,42.492904,-83.025001,city,Census,2684000,US,0.996,0.996
+03144405,1964-08-11,1964,1961-08-30,assignee,1,General Motors Corporation,,,,,,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.999,0.996
+03146193,1964-08-25,1964,1960-04-04,inventor,1,Edward J. Sullivan,Edward,J.,Sullivan,,,,Bay City,,Michigan,,,United States,43.5962107,-83.8881711,city,Nominatim,2606020,US,0.995,0.996
+03146193,1964-08-25,1964,1960-04-04,assignee,1,The Dow Chemical Company,,,,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.999,0.996
+03148576,1964-09-15,1964,1962-04-02,inventor,1,Jacob T. Kunz,Jacob,T.,Kunz,,,,Collegeville,,Pennsylvania,,,United States,40.1854712,-75.4512163,city,Nominatim,4215192,US,0.995,0.995
+03148576,1964-09-15,1964,1962-04-02,assignee,1,"Schulmerich Electronics, Inc.",,,,,,,Sellersville,,Pennsylvania,,,United States,40.3542858,-75.3050079,city,Nominatim,4269248,US,0.997,0.995
+03151512,1964-10-06,1964,1960-10-21,inventor,1,Walter Charczenko,Walter,,Charczenko,,,,Gardiner,,Maine,,,United States,44.195091,-69.793771,city,Census,2327085,US,0.973,0.996
+03164360,1965-01-05,1965,1962-12-26,inventor,1,Robert R. Stafford,Robert,R.,Stafford,,"Rte. 4, Box 177D",,Eugene,,Oregon,,,United States,44.056848,-123.119019,city,Census,4123850,US,0.961,0.995
+03172846,1965-03-09,1965,1960-03-14,inventor,1,Gene Hirs,Gene,,Hirs,,17208 Greenview Road,,Detroit,,Michigan,,,United States,42.383037,-83.102237,city,Census,2622000,US,0.973,0.995
+03178722,1965-04-13,1965,1963-02-05,inventor,1,Bruno Lukaszewski,Bruno,,Lukaszewski,,,,Toronto,,,Ontario,,Canada,43.6534817,-79.3839347,city,Nominatim,,CA,0.961,0.995
+03178722,1965-04-13,1965,1963-02-05,inventor,2,Peter Lukaszewski,Peter,,Lukaszewski,,,,Toronto,,,Ontario,,Canada,43.6534817,-79.3839347,city,Nominatim,,CA,0.961,0.995
+03182796,1965-05-11,1965,1962-05-17,inventor,1,Stanley F. Reed,Stanley,F.,Reed,,,,McLean,,Virginia,,,United States,38.943545,-77.192913,city,Census,5148376,US,0.995,0.995
+03182796,1965-05-11,1965,1962-05-17,inventor,2,George W. Cook,George,W.,Cook,,,,Yardley,,Pennsylvania,,,United States,40.242506,-74.8389704,city,Nominatim,4286920,US,0.995,0.995
+03182796,1965-05-11,1965,1962-05-17,assignee,1,"Pitney-Bowes, Inc.",,,,,,,Stamford,,Connecticut,,,United States,41.079611,-73.54608,city,Census,0973000,US,0.997,0.995
+03185175,1965-05-25,1965,1962-12-03,inventor,1,John R. Plate,John,R.,Plate,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.996,0.996
+03185175,1965-05-25,1965,1962-12-03,assignee,1,Allis-Chalmers Manufacturing Company,,,,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.999,0.996
+03186884,1965-06-01,1965,1961-04-21,inventor,1,Edward Fokko de Haan,Edward,Fokko,de Haan,,Emmasingel,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.996,0.996
+03186884,1965-06-01,1965,1961-04-21,inventor,2,Jehannes Josephus Antonius Jonkers,Jehannes,Josephus Antonius,Jonkers,,Emmasingel,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.996,0.996
+03186884,1965-06-01,1965,1961-04-21,assignee,1,"North American Philips Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03190158,1965-06-22,1965,1964-02-11,inventor,1,Joseph Snyderman,Joseph,,Snyderman,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.996,0.996
+03190158,1965-06-22,1965,1964-02-11,assignee,1,"John Eppler Machine Works, Inc.",,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.999,0.996
+03196176,1965-07-20,1965,1962-03-07,inventor,1,Wilson W. Howell,Wilson,W.,Howell,,,,Pampa,,Texas,,,United States,35.547853,-100.96503,city,Census,4854912,US,0.996,0.996
+03196176,1965-07-20,1965,1962-03-07,assignee,1,Celanese Corporation of America,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03203114,1965-08-31,1965,1962-10-19,inventor,1,Alfred William Adler,Alfred,William,Adler,,5 Belgrade Terrace,,West Orange,,New Jersey,,,United States,40.7987113,-74.2390353,city,Nominatim,3401379800,US,0.961,0.995
+03208713,1965-09-28,1965,1963-07-29,inventor,1,Reinhold Eichhorn,Reinhold,,Eichhorn,,Joshua Green Bldg.,,Seattle,,Washington,,,United States,47.619335,-122.351538,city,Census,5363000,US,0.961,0.995
+03208713,1965-09-28,1965,1963-07-29,inventor,2,Fred A. Frost,Fred,A.,Frost,,Shafer Bldg.,,Seattle,,Washington,,,United States,47.619335,-122.351538,city,Census,5363000,US,0.961,0.995
+03213023,1965-10-19,1965,1963-03-11,inventor,1,Thomas Robert Hopkins,Thomas,Robert,Hopkins,,,,Merriam,,Kansas,,,United States,39.017607,-94.693955,city,Census,2046000,US,0.985,0.995
+03213023,1965-10-19,1965,1963-03-11,inventor,2,Arthur N. Arakelian,Arthur,N.,Arakelian,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.985,0.995
+03213023,1965-10-19,1965,1963-03-11,inventor,3,Alan Rhodes,Alan,,Rhodes,,,,Willoughby,,Ohio,,,United States,41.645285,-81.414353,city,Census,3985484,US,0.993,0.995
+03213023,1965-10-19,1965,1963-03-11,assignee,1,The Lubrizol Corporation,,,,,,,Wickliffe,,Ohio,,,United States,41.606322,-81.468028,city,Census,3985036,US,0.997,0.995
+03214938,1965-11-02,1965,1963-01-02,inventor,1,George A. Zotos,George,A.,Zotos,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.996,0.996
+03214938,1965-11-02,1965,1963-01-02,assignee,1,Martin Marietta Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03215485,1965-11-02,1965,1963-11-12,inventor,1,Otto Senn,Otto,,Senn,,,,Arlesheim,,,Basel-Land,,Switzerland,47.4931125,7.6202048,city,Nominatim,,CH,0.996,0.995
+03215485,1965-11-02,1965,1963-11-12,assignee,1,Sandoz Ltd. (also known as Sandoz A.G.),,,,,,,Basel,,,,,Switzerland,47.5581077,7.5878261,city,Nominatim,,CH,0.996,0.995
+03222634,1965-12-07,1965,1962-07-27,inventor,1,Kenneth W. Foster,Kenneth,W.,Foster,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.995,0.995
+03222634,1965-12-07,1965,1962-07-27,assignee,1,Shell Oil Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03236289,1966-02-22,1966,1963-01-10,inventor,1,Guy E. Dixon,Guy,E.,Dixon,,1090 E. 17th St.,,Hialeah,,Florida,,,United States,25.869941,-80.302865,city,Census,1230000,US,0.961,0.995
+03236289,1966-02-22,1966,1963-01-10,assignee,1,"PanelFold Doors, Inc.",,,,,1090 E. 17th St.,,Hialeah,,Florida,,,United States,25.869941,-80.302865,city,Census,1230000,US,0.674,0.995
+03238432,1966-03-01,1966,1962-03-09,inventor,1,Donald J. Amberger,Donald,J.,Amberger,,,,Hauppauge,,New York,,,United States,40.822351,-73.210701,city,Census,3632732,US,0.998,0.997
+03238432,1966-03-01,1966,1962-03-09,assignee,1,Sperry Rand Corporation,,,,,,,Great Neck,,New York,,,United States,40.802368,-73.733099,city,Census,3630169,US,0.999,0.997
+03240582,1966-03-15,1966,1962-06-29,inventor,1,William A. Stutske,William,A.,Stutske,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.995,0.995
+03240582,1966-03-15,1966,1962-06-29,assignee,1,Owens-Illinois Glass Company,,,,,,,Toledo,,Ohio,,,United States,41.664071,-83.581861,city,Census,3977000,US,0.999,0.995
+03258505,1966-06-28,1966,1964-07-30,inventor,1,George Stewart Mill,George,Stewart,Mill,,,,Pasadena,,Texas,,,United States,29.654996,-95.151055,city,Census,4856000,US,0.996,0.995
+03258505,1966-06-28,1966,1964-07-30,assignee,1,Shell Oil Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+03262076,1966-07-19,1966,1964-04-28,inventor,1,Michiyuki Uenohara,Michiyuki,,Uenohara,,,,Scotch Plains,,New Jersey,,,United States,40.65538,-74.3898732,city,Nominatim,3403966060,US,0.995,0.995
+03262076,1966-07-19,1966,1964-04-28,assignee,1,"Bell Telephone Laboratories, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03262283,1966-07-26,1966,1964-12-18,inventor,1,Frank A. Taylor,Frank,A.,Taylor,,,,West Palm Beach,,Florida,,,United States,26.745114,-80.127038,city,Census,1276600,US,0.995,0.996
+03262283,1966-07-26,1966,1964-12-18,inventor,2,A. Yates Dowell,A.,Yates,Dowell,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.111,0.996
+03262283,1966-07-26,1966,1964-12-18,inventor,3,"A. Yates Dowell, Jr.",A.,Yates,Dowell,Jr.,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.111,0.996
+03263160,1966-07-26,1966,1962-11-28,inventor,1,William M. Dolan,William,M.,Dolan,,,,Danbury,,Connecticut,,,United States,41.398741,-73.478103,city,Census,0918430,US,0.996,0.995
+03263160,1966-07-26,1966,1962-11-28,inventor,2,George H. McLaughlin,George,H.,McLaughlin,,,,Danbury,,Connecticut,,,United States,41.398741,-73.478103,city,Census,0918430,US,0.996,0.995
+03263160,1966-07-26,1966,1962-11-28,inventor,3,Arthur A. Brant,Arthur,A.,Brant,,,,Ridgefield,,Connecticut,,,United States,41.269688,-73.492611,city,Census,0963900,US,0.996,0.995
+03263160,1966-07-26,1966,1962-11-28,assignee,1,Newmont Mining Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+03263076,1966-07-28,1966,1963-10-07,inventor,1,Oscar F. Magnus,Oscar,F.,Magnus,,,,Tinley Park,,Illinois,,,United States,41.568579,-87.804217,city,Census,1775484,US,0.995,0.996
+03263076,1966-07-28,1966,1963-10-07,inventor,2,Joseph P. Kleinkort,Joseph,P.,Kleinkort,,,,Wilmette,,Illinois,,,United States,42.077323,-87.728621,city,Census,1782075,US,0.996,0.996
+03263076,1966-07-28,1966,1963-10-07,assignee,1,American Brake Shoe Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03271425,1966-09-06,1966,1964-10-13,inventor,1,Paul D. Klimstra,Paul,D.,Klimstra,,,,Northbrook,,Illinois,,,United States,42.128745,-87.835162,city,Census,1753481,US,0.993,0.996
+03271425,1966-09-06,1966,1964-10-13,assignee,1,G. D. Searle & Co.,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03273360,1966-09-20,1966,1963-10-08,inventor,1,Peter A. Mahler,Peter,A.,Mahler,,,,High Point,,North Carolina,,,United States,35.990803,-79.992713,city,Census,3731400,US,0.996,0.996
+03273360,1966-09-20,1966,1963-10-08,assignee,1,The Singer Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03284758,1966-11-08,1966,1964-05-19,inventor,1,"Ferdinand Klumpp, Jr.",Ferdinand,,Klumpp,Jr.,,,Union,,New Jersey,,,United States,40.696539,-74.269291,city,Census,3474478,US,0.996,0.996
+03284758,1966-11-08,1966,1964-05-19,assignee,1,Heyman Manufacturing Company,,,,,,,Kenilworth,,New Jersey,,,United States,40.6771374,-74.2870715,city,Nominatim,3436690,US,0.999,0.996
+03290330,1966-12-06,1966,1965-10-11,inventor,1,Maximilian I. Fremery,Maximilian,I.,Fremery,,,,Oakland,,California,,,United States,37.769846,-122.22569,city,Census,0653000,US,0.995,0.996
+03290330,1966-12-06,1966,1965-10-11,inventor,2,George A. Gillies,George,A.,Gillies,,,,Berkeley,,California,,,United States,37.865673,-122.298725,city,Census,0606000,US,0.996,0.996
+03290330,1966-12-06,1966,1965-10-11,assignee,1,Shell Oil Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03294632,1966-12-27,1966,1964-08-31,inventor,1,George M. Wagner,George,M.,Wagner,,,,Lewiston,,New York,,,United States,43.17193,-79.040674,city,Census,3642147,US,0.996,0.996
+03294632,1966-12-27,1966,1964-08-31,assignee,1,Hooker Chemical Corporation,,,,,,,Niagara Falls,,New York,,,United States,43.092841,-79.014743,city,Census,3651055,US,0.999,0.996
+03295010,1966-12-27,1966,1966-05-25,inventor,1,Robert H. Clayton,Robert,H.,Clayton,,,,Fort Wayne,,Indiana,,,United States,41.088193,-85.142791,city,Census,1825000,US,0.996,0.996
+03295010,1966-12-27,1966,1966-05-25,assignee,1,International Telephone and Telegraph Corporation,,,,,,,Nutley,,New Jersey,,,United States,40.8223223,-74.1598663,city,Nominatim,3401353680,US,0.999,0.996
+03301721,1967-01-31,1967,1961-01-18,inventor,1,Frederic C. McCoy,Frederic,C.,McCoy,,,,Beacon,,New York,,,United States,41.50324,-73.964735,city,Census,3605100,US,0.985,0.995
+03301721,1967-01-31,1967,1961-01-18,inventor,2,Edwin C. Knowles,Edwin,C.,Knowles,,,,Poughkeepsie,,New York,,,United States,41.694595,-73.919869,city,Census,3659641,US,0.995,0.995
+03301721,1967-01-31,1967,1961-01-18,assignee,1,Texaco Inc.,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03311286,1967-03-28,1967,1965-07-29,inventor,1,Charles S. Giacoppe,Charles,S.,Giacoppe,,490 Wanoosnoc Road,,Fitchburg,,Massachusetts,,01420,United States,42.601977,-71.81587,city,Census,2523875,US,0.961,0.995
+03311657,1967-03-28,1967,1964-09-01,inventor,1,Donald P. Graham,Donald,P.,Graham,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.996,0.996
+03311657,1967-03-28,1967,1964-09-01,assignee,1,E. I. du Pont de Nemours and Company,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.999,0.996
+03313041,1967-04-11,1967,1964-04-06,inventor,1,Carl Weigang,Carl,,Weigang,,Hauptstrasse 10,,Neubiberg,,,Munich,,Germany,48.0769935,11.6615136,city,Nominatim,,DE,0.973,0.996
+03318383,1967-05-09,1967,1964-10-27,inventor,1,Purdy Lee Sisson,Purdy,Lee,Sisson,,,,Oklahoma City,,Oklahoma,,,United States,35.4729886,-97.5170536,city,Nominatim,4055000,US,0.996,0.996
+03318383,1967-05-09,1967,1964-10-27,assignee,1,"Par-A-Gone, Inc.",,,,,,,Mount Gilead,,Ohio,,,United States,40.554047,-82.827904,city,Census,3952738,US,0.999,0.996
+03318484,1967-05-09,1967,1965-05-17,inventor,1,John P. Modderno,John,P.,Modderno,,,,Gambrills,,Maryland,,,United States,39.092835,-76.651133,city,Census,2431350,US,0.995,0.995
+03318484,1967-05-09,1967,1965-05-17,assignee,1,"Modern- Lab., Inc.",,,,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.999,0.995
+03334309,1967-08-01,1967,1966-02-01,inventor,1,Howard E. Murphy,Howard,E.,Murphy,,,,Redwood City,,California,,,United States,37.4863239,-122.232523,city,Nominatim,0660102,US,0.996,0.996
+03334309,1967-08-01,1967,1966-02-01,inventor,2,Louis J. Kabell,Louis,J.,Kabell,,,,Palo Alto,,California,,,United States,37.39652,-122.143088,city,Census,0655282,US,0.996,0.996
+03334309,1967-08-01,1967,1966-02-01,assignee,1,Fairchild Camera and Instrument Corporation,,,,,,,Syosset,,New York,,,United States,40.815682,-73.502025,city,Census,3672554,US,0.999,0.996
+03336584,1967-08-15,1967,1964-07-02,inventor,1,Edward W. Kaiser,Edward,W.,Kaiser,,2011 W. Arthur,,Chicago,,Illinois,,60645,United States,41.837045,-87.684939,city,Census,1714000,US,0.973,0.996
+03343103,1967-09-19,1967,1966-01-05,inventor,1,Kenneth R. Schoniger,Kenneth,R.,Schoniger,,,,Tampa,,Florida,,,United States,27.970086,-82.479673,city,Census,1271000,US,0.995,0.995
+03343103,1967-09-19,1967,1966-01-05,assignee,1,Trak Microwave Corporation,,,,,,,Tampa,,Florida,,,United States,27.970086,-82.479673,city,Census,1271000,US,0.997,0.995
+03344339,1967-09-26,1967,1964-05-08,inventor,1,John Baude,John,,Baude,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.996,0.996
+03344339,1967-09-26,1967,1964-05-08,assignee,1,Allis-Chalmers Manufacturing Company,,,,,,,Milwaukee,,Wisconsin,,,United States,43.063348,-87.966695,city,Census,5553000,US,0.999,0.996
+03347309,1967-10-17,1967,1966-06-16,inventor,1,Arnold H. Redding,Arnold,H.,Redding,,,,Los Altos Hills,,California,,,United States,37.366808,-122.13865,city,Census,0643294,US,0.973,0.996
+03347309,1967-10-17,1967,1966-06-16,inventor,2,Robert A. Markley,Robert,A.,Markley,,,,Export,,Pennsylvania,,,United States,40.4181235,-79.625599,city,Nominatim,4224432,US,0.962,0.996
+03347309,1967-10-17,1967,1966-06-16,inventor,3,Walter D. Pouchot,Walter,D.,Pouchot,,,,Monroeville,,Pennsylvania,,,United States,40.426324,-79.761379,city,Census,4250528,US,0.981,0.996
+03350263,1967-10-31,1967,1964-10-19,inventor,1,Lars Bengt Jordansson,Lars,Bengt,Jordansson,,,,Karlstad,,,,,Sweden,59.3809146,13.5027631,city,Nominatim,,SE,0.995,0.995
+03350263,1967-10-31,1967,1964-10-19,inventor,2,Per Borje Wahlstrôm,Per,Borje,Wahlstrôm,,,,Karlstad,,,,,Sweden,59.3809146,13.5027631,city,Nominatim,,SE,0.995,0.995
+03350263,1967-10-31,1967,1964-10-19,assignee,1,Aktiebolaget Karlstads Mekaniska Werkstad,,,,,,,Karlstad,,,,,Sweden,59.3809146,13.5027631,city,Nominatim,,SE,0.997,0.995
+03351335,1967-11-07,1967,1965-06-25,inventor,1,William E. Slagley,William,E.,Slagley,,,,Crown Point,,Indiana,,,United States,41.409108,-87.34695,city,Census,1816138,US,0.995,0.996
+03351335,1967-11-07,1967,1965-06-25,assignee,1,Inland Steel Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03354576,1967-11-28,1967,1965-07-28,inventor,1,Edna Gralnick,Edna,,Gralnick,,120 E. 81st St.,,New York,,New York,,10028,United States,40.662712,-73.938677,city,Census,3651000,US,0.961,0.995
+03362137,1968-01-09,1968,1966-12-14,inventor,1,George B. Richards III.,George,B.,Richards,III.,,,Lake Forest,,Illinois,,,United States,42.23535,-87.857305,city,Census,1741105,US,0.212,0.995
+03362137,1968-01-09,1968,1966-12-14,assignee,1,Liquid Controls Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+03362139,1968-01-09,1968,1965-12-17,inventor,1,Hugh C. Williamson,Hugh,C.,Williamson,,,,Columbus,,Ohio,,,United States,39.985531,-82.985594,city,Census,3918000,US,0.996,0.996
+03362139,1968-01-09,1968,1965-12-17,assignee,1,Westinghouse Electric Corporation,,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.996
+03371589,1968-03-05,1968,1965-06-21,inventor,1,Julian Hill Whittlesey,Julian,Hill,Whittlesey,,122 E. 65th St.,,New York,,New York,,10021,United States,40.662712,-73.938677,city,Census,3651000,US,0.961,0.995
+03385985,1968-05-28,1968,1965-10-18,inventor,1,Richard B. Henderson,Richard,B.,Henderson,,,,Nashua,,New Hampshire,,,United States,42.749074,-71.490544,city,Census,3350260,US,0.996,0.996
+03385985,1968-05-28,1968,1965-10-18,assignee,1,"Sanders Associates, Inc.",,,,,,,Nashua,,New Hampshire,,,United States,42.749074,-71.490544,city,Census,3350260,US,0.999,0.996
+03386975,1968-06-04,1968,1964-05-22,inventor,1,Walter Marconi,Walter,,Marconi,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.996,0.996
+03386975,1968-06-04,1968,1964-05-22,inventor,2,Sebastiano Cesca,Sebastiano,,Cesca,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.996,0.996
+03386975,1968-06-04,1968,1964-05-22,inventor,3,Giorgio Della Fortuna,Giorgio,,Della Fortuna,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.996,0.996
+03386975,1968-06-04,1968,1964-05-22,assignee,1,SNAM S.p.A.,,,,,,,Milan,,,,,Italy,45.4641943,9.1896346,city,Nominatim,,IT,0.999,0.996
+03392281,1968-07-09,1968,1964-10-13,inventor,1,Harold F. Sherwood,Harold,F.,Sherwood,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.996,0.996
+03392281,1968-07-09,1968,1964-10-13,assignee,1,Eastman Kodak Company,,,,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.999,0.996
+03392490,1968-07-16,1968,1966-02-14,inventor,1,Heinz Rami,Heinz,,Rami,,,,Vienna,,,,,Austria,48.2083537,16.3725042,city,Nominatim,,AT,0.996,0.996
+03392490,1968-07-16,1968,1966-02-14,assignee,1,"Simmering-Graz-Pauker Aktiengesellschaft fir Maschinen-, Kessel-und Waggonbau",,,,,,,Vienna,,,,,Austria,48.2083537,16.3725042,city,Nominatim,,AT,0.999,0.996
+03396822,1968-08-13,1968,1967-03-02,inventor,1,"Nicholas R. Guilbert, Jr.",Nicholas,R.,Guilbert,Jr.,,,Glenside,,Pennsylvania,,,United States,40.103249,-75.151877,city,Census,4229808,US,0.996,0.995
+03396822,1968-08-13,1968,1967-03-02,assignee,1,"Guilbert, Incorporated",,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.996,0.995
+03397671,1968-08-20,1968,1965-03-22,inventor,1,"Maurice D. Hartman, Jr.",Maurice,D.,Hartman,Jr.,,,Harleysville,,Pennsylvania,,,United States,40.278403,-75.387857,city,Census,4232616,US,0.995,0.996
+03397671,1968-08-20,1968,1965-03-22,inventor,2,"Raymond Finkelston, Jr.",Raymond,,Finkelston,Jr.,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.996,0.996
+03397671,1968-08-20,1968,1965-03-22,assignee,1,Sparks Corporation,,,,,,,Harleysville,,Pennsylvania,,,United States,40.278403,-75.387857,city,Census,4232616,US,0.999,0.996
+03398482,1968-08-27,1968,1966-06-13,inventor,1,"Claud Frederick, Jr.",Claud,,Frederick,Jr.,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.996,0.996
+03398482,1968-08-27,1968,1966-06-13,assignee,1,The Steelcraft Manufacturing Company,,,,,,,Rossmoyne,,Ohio,,,United States,39.215253,-84.388774,city,Census,3968714,US,0.999,0.996
+03399245,1968-08-27,1968,1966-01-28,inventor,1,Spencer L. Knapp,Spencer,L.,Knapp,,,,Texas City,,Texas,,,United States,29.396013,-94.9175485,city,Nominatim,4872392,US,0.996,0.996
+03399245,1968-08-27,1968,1966-01-28,assignee,1,Monsanto Company,,,,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.999,0.996
+03402351,1968-09-17,1968,1965-05-20,inventor,1,Fred L. Kradel,Fred,L.,Kradel,,,,Greensburg,,Pennsylvania,,,United States,40.311155,-79.544431,city,Census,4231200,US,0.995,0.995
+03402351,1968-09-17,1968,1965-05-20,assignee,1,I-T-E Circuit Breaker Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.997,0.995
+03406556,1968-10-22,1968,1966-03-15,inventor,1,C Walton Musser,C,Walton,Musser,,,,Palos Verdes Estates,,California,,,United States,33.774271,-118.425754,city,Census,0655380,US,0.998,0.996
+03406556,1968-10-22,1968,1966-03-15,assignee,1,United Shoe Machinery Corporation,,,,,,,Flemington,,New Jersey,,,United States,40.5130953,-74.8591333,city,Nominatim,3423700,US,0.998,0.996
+03410946,1968-11-12,1968,1967-04-17,inventor,1,Elmer D. Dilling,Elmer,D.,Dilling,,,,Toronto,,Ohio,,,United States,40.457934,-80.60963,city,Census,3977112,US,0.995,0.996
+03410946,1968-11-12,1968,1967-04-17,inventor,2,Karl S. Snow,Karl,S.,Snow,,,,Boulder City,,Nevada,,,United States,35.9787649,-114.8337574,city,Nominatim,3206500,US,0.995,0.996
+03410946,1968-11-12,1968,1967-04-17,assignee,1,Titanium Metals Corporation of America,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03424012,1969-01-28,1969,1966-11-07,inventor,1,Georg Hirmann,Georg,,Hirmann,,,,Zurich,,,,,Switzerland,47.3744489,8.5410422,city,Nominatim,,CH,0.996,0.996
+03424012,1969-01-28,1969,1966-11-07,assignee,1,Polyprodukte AG,,,,,,,Zurich,,,,,Switzerland,47.3744489,8.5410422,city,Nominatim,,CH,0.999,0.996
+03426355,1969-02-04,1969,1966-08-17,inventor,1,William Roderick Over,William,Roderick,Over,,,,Harrisburg,,Pennsylvania,,,United States,40.275891,-76.88502,city,Census,4232800,US,0.996,0.996
+03426355,1969-02-04,1969,1966-08-17,assignee,1,AMP Incorporated,,,,,,,Harrisburg,,Pennsylvania,,,United States,40.275891,-76.88502,city,Census,4232800,US,0.999,0.996
+03431097,1969-03-04,1969,1965-12-14,inventor,1,Adolfo MacCragh,Adolfo,,MacCragh,,,,Ellicott City,,Maryland,,,United States,39.2757359,-76.8317417,city,Nominatim,2426000,US,0.993,0.995
+03431097,1969-03-04,1969,1965-12-14,inventor,2,Moises G. Sanchez,Moises,G.,Sanchez,,,,Severna Park,,Maryland,,,United States,39.086633,-76.564883,city,Census,2471200,US,0.993,0.995
+03431097,1969-03-04,1969,1965-12-14,inventor,3,Jean G. Smith,Jean,G.,Smith,,,,Baltimore,,Maryland,,,United States,39.300032,-76.610476,city,Census,2404000,US,0.993,0.995
+03431097,1969-03-04,1969,1965-12-14,assignee,1,W. R. Grace & Co.,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03433527,1969-03-18,1969,1967-04-17,inventor,1,Frank M. Ré,Frank,M.,Ré,,,,Holyoke,,Massachusetts,,,United States,42.211658,-72.642448,city,Census,2530840,US,0.996,0.996
+03433527,1969-03-18,1969,1967-04-17,assignee,1,"Dual Manufacturing & Engineering, Incorporated",,,,,,,Holyoke,,Massachusetts,,,United States,42.211658,-72.642448,city,Census,2530840,US,0.999,0.996
+03442487,1969-05-06,1969,1965-10-24,inventor,1,Robert S. Blackburn,Robert,S.,Blackburn,,,,Huntington Beach,,California,,,United States,33.698007,-118.003834,city,Census,0636000,US,0.996,0.996
+03442487,1969-05-06,1969,1965-10-24,assignee,1,McDonnell Douglas Corporation,,,,,,,Santa Monica,,California,,,United States,34.010911,-118.498245,city,Census,0670000,US,0.999,0.996
+03443855,1969-05-13,1969,1964-03-09,inventor,1,Edwin H. Land,Edwin,H.,Land,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.989,0.995
+03443855,1969-05-13,1969,1964-03-09,inventor,2,Howard G. Rogers,Howard,G.,Rogers,,,,Weston,,Massachusetts,,,United States,42.3667625,-71.3031132,city,Nominatim,2501777255,US,0.993,0.995
+03443855,1969-05-13,1969,1964-03-09,assignee,1,Polaroid Corporation,,,,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.997,0.995
+03458199,1969-07-29,1969,1967-07-24,inventor,1,John H. Nelson,John,H.,Nelson,,,,Pleasant Hill,,California,,,United States,37.954163,-122.075772,city,Census,0657764,US,0.973,0.995
+03462317,1969-08-19,1969,1965-10-12,inventor,1,James R. Baum,James,R.,Baum,,,,Scottsdale,,Arizona,,,United States,33.684272,-111.861448,city,Census,0465000,US,0.995,0.996
+03462317,1969-08-19,1969,1965-10-12,inventor,2,Raymond J. Jimenez,Raymond,J.,Jimenez,,,,Phoenix,,Arizona,,,United States,33.572154,-112.090132,city,Census,0455000,US,0.995,0.996
+03462317,1969-08-19,1969,1965-10-12,assignee,1,"Motorola, Inc.",,,,,,,Franklin Park,,Illinois,,,United States,41.935983,-87.879197,city,Census,1727702,US,0.999,0.996
+03466840,1969-09-16,1969,1967-06-30,inventor,1,"Omar Hansen, Jr.",Omar,,Hansen,Jr.,,,Bluffton,,Indiana,,,United States,40.743479,-85.172111,city,Census,1806220,US,0.996,0.996
+03466840,1969-09-16,1969,1967-06-30,inventor,2,Carl Littlefield,Carl,,Littlefield,,,,Bluffton,,Indiana,,,United States,40.743479,-85.172111,city,Census,1806220,US,0.996,0.996
+03466840,1969-09-16,1969,1967-06-30,inventor,3,Allen R. Haddix,Allen,R.,Haddix,,,,Bluffton,,Indiana,,,United States,40.743479,-85.172111,city,Census,1806220,US,0.996,0.996
+03466840,1969-09-16,1969,1967-06-30,assignee,1,"Franklin Electric Company, Inc.",,,,,,,Bluffton,,Indiana,,,United States,40.743479,-85.172111,city,Census,1806220,US,0.999,0.996
+03473066,1969-10-14,1969,1967-08-25,inventor,1,"Clayton W. Bates, Jr.",Clayton,W.,Bates,Jr.,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.996,0.996
+03473066,1969-10-14,1969,1967-08-25,inventor,2,Ronald L. Bell,Ronald,L.,Bell,,,,Woodside,,California,,,United States,37.42215,-122.258593,city,Census,0686440,US,0.996,0.996
+03473066,1969-10-14,1969,1967-08-25,assignee,1,Varian Associates,,,,,,,Palo Alto,,California,,,United States,37.39652,-122.143088,city,Census,0655282,US,0.999,0.996
+03477399,1969-11-11,1969,1969-02-19,inventor,1,Ernst Becker,Ernst,,Becker,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.996,0.996
+03477399,1969-11-11,1969,1969-02-19,inventor,2,Karl Notz,Karl,,Notz,,,,Kulmbach,,,,,Germany,50.1071246,11.4581813,city,Nominatim,,DE,0.996,0.996
+03477399,1969-11-11,1969,1969-02-19,assignee,1,Quick-Rotan Becker & Co.,,,,,,,Darmstadt,,,,,Germany,49.872775,8.651177,city,Nominatim,,DE,0.999,0.996
+03477767,1969-11-11,1969,1967-12-19,inventor,1,Gordon I. McNeil,Gordon,I.,McNeil,,330 E. Perry St.,,Port Clinton,,Ohio,,43452,United States,41.509718,-82.938339,city,Census,3964150,US,0.973,0.996
+03480622,1969-11-25,1969,1967-05-08,inventor,1,Derek Harold Richard Barton,Derek,Harold,Barton,,,,London,,,,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.995,0.996
+03480622,1969-11-25,1969,1967-05-08,assignee,1,"Research Institute for Medicine and Chemistry, Inc.",,,,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.999,0.996
+03481223,1969-12-02,1969,1968-05-22,inventor,1,Douglas A. Fraser,Douglas,A.,Fraser,,29 Summer St.,,Sudbury,,Massachusetts,,01776,United States,42.3834278,-71.4161725,city,Nominatim,2501768260,US,0.973,0.996
+03488958,1970-01-13,1970,1968-06-13,inventor,1,Fritz Ostwald,Fritz,,Ostwald,,,,Buchschlag,,,,,Germany,50.0218342,8.6683279,city,Nominatim,,DE,0.996,0.996
+03488958,1970-01-13,1970,1968-06-13,inventor,2,Heinrich Michel,Heinrich,,Michel,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.996,0.996
+03488958,1970-01-13,1970,1968-06-13,assignee,1,Alfred Teves G.m.b.H.,,,,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.999,0.996
+03493550,1970-02-03,1970,1967-07-03,inventor,1,Joseph Michael Schmitt,Joseph,Michael,Schmitt,,,,Ridgefield,,Connecticut,,,United States,41.269688,-73.492611,city,Census,0963900,US,0.995,0.996
+03493550,1970-02-03,1970,1967-07-03,inventor,2,Jeffrey Rufus Sherry,Jeffrey,Rufus,Sherry,,,,Danbury,,Connecticut,,,United States,41.398741,-73.478103,city,Census,0918430,US,0.996,0.996
+03493550,1970-02-03,1970,1967-07-03,assignee,1,American Cyanamid Company,,,,,,,Stamford,,Connecticut,,,United States,41.079611,-73.54608,city,Census,0973000,US,0.999,0.996
+03495877,1970-02-17,1970,1968-02-01,inventor,1,Sune Gunnar Morne,Sune,Gunnar,Morne,,,,Asmundtorp,,,,,Sweden,55.8855959,12.9471949,city,Nominatim,,SE,0.996,0.996
+03495877,1970-02-17,1970,1968-02-01,assignee,1,Paul Bergsoe & Son AB,,,,,Gasverksgatan,,Landskrona,,,,,Sweden,55.8698007,12.8296734,city,Nominatim,,SE,0.999,0.996
+03502928,1970-03-24,1970,1967-02-23,inventor,1,Lucien F. Guyot,Lucien,F.,Guyot,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.996
+03502928,1970-03-24,1970,1967-02-23,inventor,2,Bertrand M. Driard,Bertrand,M.,Driard,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.996
+03502928,1970-03-24,1970,1967-02-23,assignee,1,Compagnie Francaise Thomson-Houston-Hotchkiss Brandt,,,,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.999,0.996
+03508655,1970-04-28,1970,1967-02-03,inventor,1,Louis A. Kamentsky,Louis,A.,Kamentsky,,,,Briarcliff Manor,,New York,,,United States,41.140333,-73.847504,city,Census,3608103,US,0.996,0.996
+03508655,1970-04-28,1970,1967-02-03,assignee,1,International Business Machines Corporation,,,,,,,Armonk,,New York,,,United States,41.133462,-73.719279,city,Census,3602649,US,0.999,0.996
+03508776,1970-04-28,1970,1968-10-14,inventor,1,Homer N. Grillot,Homer,N.,Grillot,,,,Naperville,,Illinois,,,United States,41.749173,-88.162019,city,Census,1751622,US,0.996,0.996
+03508776,1970-04-28,1970,1968-10-14,assignee,1,International Harvester Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03517383,1970-06-23,1970,1967-03-20,inventor,1,Kenneth Edward Hughes,Kenneth,Edward,Hughes,,4904 W. Vaughn Ave.,,Merced,,California,,95340,United States,37.31138,-120.470408,city,Census,0646898,US,0.961,0.995
+03523390,1970-08-11,1970,1968-05-10,inventor,1,John McAulay Jr.,John,,McAulay,Jr.,,,Ardsley,,New York,,,United States,41.013479,-73.839289,city,Census,3602506,US,0.995,0.995
+03523390,1970-08-11,1970,1968-05-10,assignee,1,Otis Elevator Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03524883,1970-08-18,1970,1968-07-15,inventor,1,Paul W. Kersnar,Paul,W.,Kersnar,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.996,0.996
+03524883,1970-08-18,1970,1968-07-15,inventor,2,Samuel Taormina,Samuel,,Taormina,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.996,0.996
+03524883,1970-08-18,1970,1968-07-15,assignee,1,Progressive Products Co.,,,,,,,San Francisco,,California,,,United States,37.727239,-123.032229,city,Census,0667000,US,0.999,0.996
+03530965,1970-09-29,1970,1969-04-09,inventor,1,John Hart Wilson,John,Hart,Wilson,,P.O. Box 1031,,Wichita Falls,,Texas,,76307,United States,33.906654,-98.525848,city,Census,4879000,US,0.961,0.995
+03530965,1970-09-29,1970,1969-04-09,assignee,1,Wilson Manufacturing Co.,,,,,P.O. Box 1031,,Wichita Falls,,Texas,,76307,United States,33.906654,-98.525848,city,Census,4879000,US,0.674,0.995
+03531379,1970-09-29,1970,1965-07-28,inventor,1,Arthur Leslie Peach,Arthur,Leslie,Peach,,,,St. Petersburg,,Florida,,,United States,27.7712264,-82.6340259,city,Nominatim,1263000,US,0.995,0.995
+03531379,1970-09-29,1970,1965-07-28,assignee,1,"Micral Industries, Inc.",,,,,,,St. Petersburg,,Florida,,,United States,27.7712264,-82.6340259,city,Nominatim,1263000,US,0.997,0.995
+03532679,1970-10-06,1970,1969-04-07,inventor,1,Robert Steckler,Robert,,Steckler,,9 E. Hamill Road,,Baltimore,,Maryland,,21210,United States,39.300032,-76.610476,city,Census,2404000,US,0.973,0.995
+03533669,1970-10-13,1970,1969-01-06,inventor,1,Herbert H. Steglich,Herbert,H.,Steglich,,,,Wilmette,,Illinois,,,United States,42.077323,-87.728621,city,Census,1782075,US,0.993,0.996
+03533669,1970-10-13,1970,1969-01-06,assignee,1,Zenith Radio Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03535965,1970-10-27,1970,1968-05-06,inventor,1,Herman J. Baldwin,Herman,J.,Baldwin,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.996,0.995
+03535965,1970-10-27,1970,1968-05-06,assignee,1,The Cincinnati Milling Machine Co.,,,,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.997,0.995
+03552219,1971-01-05,1971,1969-04-18,inventor,1,Josef Berg,Josef,,Berg,,,Cologne-Kalk,Cologne,,,,,Germany,50.938361,6.959974,city,Nominatim,,DE,0.283,0.996
+03552219,1971-01-05,1971,1969-04-18,assignee,1,Klockner-Humboldt-Deutz Aktiengesellschaft,,,,,,Cologne-Deutz,Cologne,,,,,Germany,50.938361,6.959974,city,Nominatim,,DE,0.995,0.996
+03559872,1971-02-02,1971,1969-03-13,inventor,1,Pierre Jean Riboud,Pierre,Jean,Riboud,,,,Levallois-Perret,,,,,France,48.892956,2.2881683,city,Nominatim,,FR,0.996,0.995
+03559872,1971-02-02,1971,1969-03-13,assignee,1,Societe Anonyme Lincrusta,,,,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.995
+03567378,1971-03-02,1971,1967-09-18,inventor,1,Lockwood W. Ferris,Lockwood,W.,Ferris,,,,Salt Lake City,,Utah,,,United States,40.7596198,-111.886797,city,Nominatim,4967000,US,0.996,0.996
+03567378,1971-03-02,1971,1967-09-18,assignee,1,National Lead Company,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03567481,1971-03-02,1971,1968-06-05,inventor,1,William L. Craig,William,L.,Craig,,,,Westport,,Connecticut,,,United States,41.143351,-73.360253,city,Census,0919083500,US,0.996,0.995
+03567481,1971-03-02,1971,1968-06-05,assignee,1,"R. T. Vanderbilt Company, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.996,0.995
+03592442,1971-07-13,1971,1968-11-25,inventor,1,Frank Zumbo,Frank,,Zumbo,,1938 E. Ist St.,,Brooklyn,,New York,,11223,United States,40.6526006,-73.9497211,city,Nominatim,3604710022,US,0.962,0.996
+03599575,1971-08-17,1971,1969-06-09,inventor,1,Frank R. Yurkoski,Frank,R.,Yurkoski,,,,Bridgeton,,Missouri,,,United States,38.773317,-90.416997,city,Census,2908398,US,0.996,0.996
+03599575,1971-08-17,1971,1969-06-09,inventor,2,Philip J. De Frank,Philip,J.,De Frank,,,,Hazelwood,,Missouri,,,United States,38.794706,-90.396002,city,Census,2931276,US,0.996,0.996
+03599575,1971-08-17,1971,1969-06-09,assignee,1,"ACF Industries, Incorporated",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+03604796,1971-09-14,1971,1969-01-10,inventor,1,Masaya Ogawa,Masaya,,Ogawa,,,,Osaka,,,Japan,,Japan,34.6937569,135.5014539,city,Nominatim,,JP,0.998,0.996
+03604796,1971-09-14,1971,1969-01-10,assignee,1,Minoltracamera Kabushiki Kaisha,,,,,,,Osaka,,,Japan,,Japan,34.6937569,135.5014539,city,Nominatim,,JP,0.998,0.996
+03604824,1971-09-14,1971,1970-04-27,inventor,1,Leslie C. Hardison,Leslie,C.,Hardison,,,,Norwalk,,Connecticut,,,United States,41.092739,-73.419796,city,Census,0955990,US,0.996,0.996
+03604824,1971-09-14,1971,1970-04-27,assignee,1,Universal Oil Products Company,,,,,,,Des Plaines,,Illinois,,,United States,42.034398,-87.901136,city,Census,1719642,US,0.999,0.996
+03605036,1971-09-14,1971,1967-10-17,inventor,1,Bruce E. Barnaby,Bruce,E.,Barnaby,,,,Belmont,,California,,,United States,37.514398,-122.294475,city,Census,0605108,US,0.995,0.995
+03605036,1971-09-14,1971,1967-10-17,assignee,1,"Laser Sciences, Inc.",,,,,,,Bethel,,Connecticut,,,United States,41.360293,-73.413942,city,Census,0904790,US,0.997,0.995
+03605547,1971-09-20,1971,1969-04-10,inventor,1,David I. Millet,David,I.,Millet,,155 E. 4th St.,,New York,,New York,,10009,United States,40.662712,-73.938677,city,Census,3651000,US,0.973,0.996
+03607690,1971-09-21,1971,1968-04-17,inventor,1,John Weber Brant,John,Weber,Brant,,1780 B Devers Road,Colony Park Apts.,York,,Pennsylvania,,17404,United States,39.964798,-76.73184,city,Census,4287048,US,0.973,0.996
+03611108,1971-10-05,1971,1970-11-10,inventor,1,Tadakuma Susumu,Susumu,,Tadakuma,,,,Yokohama,,,Japan,,Japan,35.4503381,139.6343802,city,Nominatim,,JP,0.996,0.996
+03611108,1971-10-05,1971,1970-11-10,inventor,2,Tanaka Shigeru,Shigeru,,Tanaka,,,,Kamakura,,,Japan,,Japan,35.3192808,139.5469627,city,Nominatim,,JP,0.996,0.996
+03611108,1971-10-05,1971,1970-11-10,inventor,3,Kuniyoshi Masateru,Masateru,,Kuniyoshi,,,,Yokohama,,,Japan,,Japan,35.4503381,139.6343802,city,Nominatim,,JP,0.996,0.996
+03611108,1971-10-05,1971,1970-11-10,inventor,4,Inagaki Junpei,Junpei,,Inagaki,,,,Yokohama,,,Japan,,Japan,35.4503381,139.6343802,city,Nominatim,,JP,0.996,0.996
+03611108,1971-10-05,1971,1970-11-10,assignee,1,"Tokyo Shibaura Electric Co., Ltd.",,,,,,,Kawasaki-shi,,,Japan,,Japan,35.5306639,139.7037668,city,Nominatim,,JP,0.999,0.996
+03623780,1971-11-30,1971,1969-12-10,inventor,1,Ralph W. Kell,Ralph,W.,Kell,,,,Lincoln,,Nebraska,,,United States,40.810284,-96.674856,city,Census,3128000,US,0.996,0.996
+03623780,1971-11-30,1971,1969-12-10,assignee,1,The Goodyear Tire & Rubber Company,,,,,,,Akron,,Ohio,,,United States,41.080456,-81.521429,city,Census,3901000,US,0.999,0.996
+03631665,1972-01-04,1972,1970-02-05,inventor,1,Eric Thomas Scriven,Eric,Thomas,Scriven,,,,Wheathampstead,,,England,,United Kingdom,51.8126524,-0.2936637,city,Nominatim,,GB,0.995,0.995
+03631665,1972-01-04,1972,1970-02-05,inventor,2,Arthur Averil Paget,Arthur,Averil,Paget,,,,Harrogate,,,England,,United Kingdom,53.9921491,-1.5391039,city,Nominatim,,GB,0.995,0.995
+03631665,1972-01-04,1972,1970-02-05,assignee,1,Scriven & Paget Limited,,,,,,,London,,,England,,United Kingdom,51.5074456,-0.1277653,city,Nominatim,,GB,0.997,0.995
+03632916,1972-01-04,1972,1970-05-25,inventor,1,William J. Schaad,William,J.,Schaad,,,,Winnetka,,Illinois,,,United States,42.10621,-87.742764,city,Census,1782530,US,0.212,0.995
+03632916,1972-01-04,1972,1970-05-25,assignee,1,Indak Manufacturing Corp.,,,,,,,Northbrook,,Illinois,,,United States,42.128745,-87.835162,city,Census,1753481,US,0.997,0.995
+03637144,1972-01-25,1972,1970-06-24,inventor,1,Dale R. Smith,Dale,R.,Smith,,,,York,,Pennsylvania,,,United States,39.964798,-76.73184,city,Census,4287048,US,0.995,0.995
+03637144,1972-01-25,1972,1970-06-24,assignee,1,York Research & Development Corp.,,,,,,,Red Lion,,Pennsylvania,,,United States,39.9009334,-76.6058001,city,Nominatim,4263840,US,0.997,0.995
+03641378,1972-02-08,1972,1970-05-22,inventor,1,Jacques LeHenaff,Jacques,,LeHenaff,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.995
+03641378,1972-02-08,1972,1970-05-22,assignee,1,Compagnie Electro-Mecanique,,,,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.996,0.995
+03666205,1972-05-30,1972,1970-01-26,inventor,1,Jaroslav Cherniavskyj,Jaroslav,,Cherniavskyj,,,,Skokie,,Illinois,,,United States,42.03597,-87.739994,city,Census,1770122,US,0.996,0.996
+03666205,1972-05-30,1972,1970-01-26,inventor,2,Edward R. Prelletz,Edward,R.,Prelletz,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.996
+03666205,1972-05-30,1972,1970-01-26,inventor,3,Roland R. Rucinski,Roland,R.,Rucinski,,,,Villa Park,,Illinois,,,United States,41.885612,-87.978235,city,Census,1777993,US,0.996,0.996
+03666205,1972-05-30,1972,1970-01-26,assignee,1,Bell & Howell Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+03680382,1972-08-01,1972,1970-06-08,inventor,1,I. Clifford Vaiden,I.,Clifford,Vaiden,,,,Loves Park,,Illinois,,,United States,42.337843,-88.998649,city,Census,1745031,US,0.996,0.996
+03680382,1972-08-01,1972,1970-06-08,assignee,1,Barber-Colman Company,,,,,,,Rockford,,Illinois,,,United States,42.2593,-89.063478,city,Census,1765000,US,0.999,0.996
+03681893,1972-08-08,1972,1970-06-22,inventor,1,Raymond R. De Barge,Raymond,R.,De Barge,,,,Cromwell,,Connecticut,,,United States,41.5949942,-72.6455665,city,Nominatim,0913018080,US,0.996,0.996
+03681893,1972-08-08,1972,1970-06-22,assignee,1,Emhart Corporation,,,,,,,Bloomfield,,Connecticut,,,United States,41.8313002,-72.7370265,city,Nominatim,0911005910,US,0.999,0.996
+03694133,1972-09-26,1972,1971-06-03,inventor,1,Herman W. Wilkerson,Herman,W.,Wilkerson,,500 Cliff Drive,,Pasadena,,California,,91107,United States,34.160602,-118.137954,city,Census,0656000,US,0.961,0.995
+03697321,1972-10-10,1972,1968-06-20,inventor,1,Georg Eckert,Georg,,Eckert,,,,Munich,,,,,Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.995,0.995
+03697321,1972-10-10,1972,1968-06-20,inventor,2,Ginther Ciriack,Ginther,,Ciriack,,,,Berlin,,,,,Germany,52.5173885,13.3951309,city,Nominatim,,DE,0.995,0.995
+03697321,1972-10-10,1972,1968-06-20,assignee,1,Siemens Aktiengesellschaft,,,,,,,Berlin,,,,,Germany,52.5173885,13.3951309,city,Nominatim,,DE,0.997,0.995
+03700689,1972-10-24,1972,1970-12-10,inventor,1,Blaine Chase McKusick,Blaine,Chase,McKusick,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.996,0.996
+03700689,1972-10-24,1972,1970-12-10,assignee,1,E. I. du Pont de Nemours and Company,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.999,0.996
+03701951,1972-10-31,1972,1971-01-05,inventor,1,Friedrich Johann Krausser,Friedrich,Johann,Krausser,,,,Jericho,,New York,,,United States,40.787447,-73.541615,city,Census,3638539,US,0.996,0.996
+03701951,1972-10-31,1972,1971-01-05,assignee,1,Emerson Electric Co.,,,,,,,St. Louis,,Missouri,,,United States,38.6254063,-90.190009,city,Nominatim,2965000,US,0.999,0.996
+03703681,1972-11-21,1972,1971-05-14,inventor,1,Gary N. Johnson,Gary,N.,Johnson,,,,Rapid City,,South Dakota,,,United States,44.0806041,-103.228023,city,Nominatim,4652980,US,0.995,0.995
+03703681,1972-11-21,1972,1971-05-14,inventor,2,Larry E. Wilson,Larry,E.,Wilson,,,,Excelsior,,Minnesota,,,United States,44.902695,-93.56643,city,Census,2720078,US,0.995,0.995
+03703681,1972-11-21,1972,1971-05-14,assignee,1,Honeywell Inc.,,,,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.997,0.995
+03707599,1972-12-26,1972,1971-12-27,inventor,1,Morris E. Brown,Morris,E.,Brown,,,,Fairport,,New York,,,United States,43.099465,-77.443069,city,Census,3625076,US,0.995,0.995
+03707599,1972-12-26,1972,1971-12-27,assignee,1,Eastman Kodak Company,,,,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.997,0.995
+03710566,1973-01-16,1973,1971-10-15,inventor,1,Isao Masuyama,Isao,,Masuyama,,5075 Oaza Ishioka,,Ishioka,,,Japan,,Japan,36.1908398,140.2884101,city,Nominatim,,JP,0.973,0.996
+03711773,1973-01-16,1973,1970-07-09,inventor,1,Norris C. Hekimian,Norris,C.,Hekimian,,,,Rockville,,Maryland,,,United States,39.083666,-77.155585,city,Census,2467675,US,0.996,0.996
+03711773,1973-01-16,1973,1970-07-09,inventor,2,John L. Kelly,John,L.,Kelly,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.996,0.996
+03711773,1973-01-16,1973,1970-07-09,assignee,1,"Hekimian Laboratories, Inc.",,,,,,,Rockville,,Maryland,,,United States,39.083666,-77.155585,city,Census,2467675,US,0.999,0.996
+03716431,1973-02-13,1973,1970-05-14,inventor,1,John K. Townsend,John,K.,Townsend,,,,Torrance,,California,,,United States,33.830453,-118.356618,city,Census,0680000,US,0.996,0.996
+03716431,1973-02-13,1973,1970-05-14,inventor,2,Chester E. Sanford,Chester,E.,Sanford,,,,Lomita,,California,,,United States,33.793306,-118.317455,city,Census,0642468,US,0.996,0.996
+03716431,1973-02-13,1973,1970-05-14,assignee,1,Vistron Corporation,,,,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.999,0.996
+03719711,1973-03-06,1973,1970-10-19,inventor,1,Robert D. Temple,Robert,D.,Temple,,,,North College Hill,,Ohio,,,United States,39.217148,-84.55199,city,Census,3956322,US,0.996,0.995
+03719711,1973-03-06,1973,1970-10-19,assignee,1,The Procter & Gamble Company,,,,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.996,0.995
+03720266,1973-03-13,1973,1971-04-07,inventor,1,Ottis G. Byrd,Ottis,G.,Byrd,,,,Jackson,,Mississippi,,,United States,32.315834,-90.21285,city,Census,2836000,US,0.996,0.995
+03720266,1973-03-13,1973,1971-04-07,assignee,1,Cities Service Oil Company,,,,,,,Tulsa,,Oklahoma,,,United States,36.127949,-95.902316,city,Census,4075000,US,0.996,0.995
+03731085,1973-05-01,1973,1970-11-05,inventor,1,Sten-Lennart Bostrom,Sten-Lennart,,Bostrom,,,,Hagersten,,,,,Sweden,59.3039831,17.9671408,city,Nominatim,,SE,0.996,0.996
+03731085,1973-05-01,1973,1970-11-05,assignee,1,Dasy Inter S.A.,,,,,,,Geneva,,,,,Switzerland,46.2017559,6.1466014,city,Nominatim,,CH,0.999,0.996
+03771622,1973-11-13,1973,1972-03-30,inventor,1,Hiroyuki Hyakumura,Hiroyuki,,Hyakumura,,,,Yokohama,,,,,Japan,35.50841,139.6823893,city,Nominatim,,JP,0.973,0.996
+03771952,1973-11-13,1973,1972-04-17,inventor,1,William J. Holm,William,J.,Holm,,,,Springfield,,Vermont,,,United States,43.296641,-72.48187,city,Census,5069475,US,0.995,0.995
+03771952,1973-11-13,1973,1972-04-17,assignee,1,"Riggs & Lombard, Inc.",,,,,,,Lowell,,Massachusetts,,,United States,42.638995,-71.32102,city,Census,2537000,US,0.997,0.995
+03771967,1973-11-13,1973,1971-12-14,inventor,1,Hubert H. Nowak,Hubert,H.,Nowak,,,,Jackson,,Michigan,,,United States,42.243441,-84.404858,city,Census,2641420,US,0.995,0.995
+03771967,1973-11-13,1973,1971-12-14,assignee,1,Tenneco Inc.,,,,,,,Racine,,Wisconsin,,,United States,42.725569,-87.814224,city,Census,5566000,US,0.997,0.995
+03773633,1973-11-20,1973,1970-03-13,inventor,1,Aaron J. Teller,Aaron,J.,Teller,,,,Great Neck,,New York,,,United States,40.802368,-73.733099,city,Census,3630169,US,0.996,0.995
+03773633,1973-11-20,1973,1970-03-13,assignee,1,"Wellman-Lord, Inc.",,,,,,,Lakeland,,Florida,,,United States,28.055496,-81.954772,city,Census,1238250,US,0.996,0.995
+03774286,1973-11-27,1973,1972-04-24,inventor,1,Rodney R. Reed,Rodney,R.,Reed,,4107 Beckwith Road,,Modesto,,California,,95351,United States,37.637533,-121.003049,city,Census,0648354,US,0.961,0.995
+03775831,1973-12-04,1973,1972-07-20,inventor,1,John F. Cachat,John,F.,Cachat,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.996,0.996
+03775831,1973-12-04,1973,1972-07-20,assignee,1,"Park Ohio Industries, Inc.",,,,,,,Cleveland,,Ohio,,,United States,41.478462,-81.679435,city,Census,3916000,US,0.999,0.996
+03776768,1973-12-04,1973,1971-03-08,inventor,1,Hans Weitzel,Hans,,Weitzel,,,,Leverkusen,,,,,Germany,51.0324743,6.9881194,city,Nominatim,,DE,0.995,0.995
+03776768,1973-12-04,1973,1971-03-08,inventor,2,Hellmut Striegler,Hellmut,,Striegler,,,,Leverkusen,,,,,Germany,51.0324743,6.9881194,city,Nominatim,,DE,0.995,0.995
+03776768,1973-12-04,1973,1971-03-08,assignee,1,Bayer Aktiengesellschaft,,,,,,,Leverkusen,,,,,Germany,51.0324743,6.9881194,city,Nominatim,,DE,0.997,0.995
+03798334,1974-03-19,1974,1971-12-21,inventor,1,Roscoe T. Earl,Roscoe,T.,Earl,,,,Glenview,,Illinois,,,United States,42.085162,-87.827388,city,Census,1729938,US,0.996,0.996
+03798334,1974-03-19,1974,1971-12-21,inventor,2,Leonard M. Waldt,Leonard,M.,Waldt,,,,Springfield,,New Jersey,,,United States,40.706073,-74.312988,city,Census,3470018,US,0.996,0.996
+03798334,1974-03-19,1974,1971-12-21,assignee,1,"Baxter Laboratories, Inc.",,,,,,,Morton Grove,,Illinois,,,United States,42.042321,-87.789012,city,Census,1750647,US,0.999,0.996
+03803768,1974-04-16,1974,1971-09-17,inventor,1,Arthur K. Littwin,Arthur,K.,Littwin,,6555 No. Lemai,,Lincolnwood,,Illinois,,60646,United States,42.00543,-87.732959,city,Census,1743744,US,0.961,0.995
+03807458,1974-04-30,1974,1970-12-14,inventor,1,Louis G. Royston,Louis,G.,Royston,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.996,0.996
+03807458,1974-04-30,1974,1970-12-14,assignee,1,"Rayston Laboratories, Inc.",,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.996
+03809004,1974-05-07,1974,1972-09-18,inventor,1,William H. Leonheart,William,H.,Leonheart,,960 Washington St.,,San Carlos,,California,,94070,United States,37.499034,-122.267572,city,Census,0665070,US,0.973,0.996
+03810535,1974-05-14,1974,1973-03-05,inventor,1,Cornelius M. Phipps,Cornelius,M.,Phipps,,,,Glen Ellyn,,Illinois,,,United States,41.866715,-88.062711,city,Census,1729756,US,0.996,0.995
+03810535,1974-05-14,1974,1973-03-05,assignee,1,"Superior Toy Manufacturing Co., Inc.",,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.996,0.995
+03814335,1974-06-04,1974,1972-10-05,inventor,1,Dennis Fahey,Dennis,,Fahey,,,,Newcastle-Under-Lyme,,,,,United Kingdom,53.0102824,-2.2261012,city,Nominatim,,GB,0.996,0.996
+03814335,1974-06-04,1974,1972-10-05,inventor,2,David Cunningham-Smith,David,,Cunningham-Smith,,,,Harpenden,,,,,United Kingdom,51.8145103,-0.3549311,city,Nominatim,,GB,0.996,0.996
+03814335,1974-06-04,1974,1972-10-05,assignee,1,William Boulton Limited,,,,,,,Burslem,Staffordshire,,,,United Kingdom,53.0451032,-2.1961439,city,Nominatim,,GB,0.999,0.996
+03818295,1974-06-18,1974,1972-07-12,inventor,1,Herbert Poppinger,Herbert,,Poppinger,,,,Munich,,,,,Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.996,0.996
+03818295,1974-06-18,1974,1972-07-12,inventor,2,Gottfried Reger,Gottfried,,Reger,,,,Freising,,,,,Germany,48.4008273,11.7439565,city,Nominatim,,DE,0.996,0.996
+03818295,1974-06-18,1974,1972-07-12,assignee,1,Siemens Aktiengesellschaft,,,,,,,Munich,,,,,Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.999,0.996
+03824334,1974-07-16,1974,1971-07-23,inventor,1,Charles L. Jacobson,Charles,L.,Jacobson,,,,Pittsford,,New York,,,United States,43.090492,-77.51657,city,Census,3658354,US,0.993,0.995
+03824334,1974-07-16,1974,1971-07-23,inventor,2,John Tambert,John,,Tambert,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.993,0.995
+03824334,1974-07-16,1974,1971-07-23,inventor,3,Stanley J. Zurakowski,Stanley,J.,Zurakowski,,,,Fairport,,New York,,,United States,43.099465,-77.443069,city,Census,3625076,US,0.993,0.995
+03824334,1974-07-16,1974,1971-07-23,assignee,1,Xerox Corporation,,,,,,,Stamford,,Connecticut,,,United States,41.079611,-73.54608,city,Census,0973000,US,0.997,0.995
+03824683,1974-07-23,1974,1973-08-13,inventor,1,Ralph Gene Rhudy,Ralph,Gene,Rhudy,,,,Scotia,,New York,,,United States,42.832014,-73.960402,city,Census,3665893,US,0.996,0.996
+03824683,1974-07-23,1974,1973-08-13,assignee,1,General Electric Company,,,,,,,Schenectady,,New York,,,United States,42.802641,-73.9272,city,Census,3665508,US,0.999,0.996
+03833796,1974-09-03,1974,1971-10-13,inventor,1,Robert H. Fetner,Robert,H.,Fetner,,,,Atlanta,,Georgia,,,United States,33.762909,-84.422675,city,Census,1304000,US,0.996,0.996
+03833796,1974-09-03,1974,1971-10-13,inventor,2,"John C. Alderman, Jr.",John,C.,Alderman,Jr.,,,Atlanta,,Georgia,,,United States,33.762909,-84.422675,city,Census,1304000,US,0.996,0.996
+03833796,1974-09-03,1974,1971-10-13,assignee,1,Georgia Tech Research Institute,,,,,,,Atlanta,,Georgia,,,United States,33.762909,-84.422675,city,Census,1304000,US,0.999,0.996
+03837910,1974-09-24,1974,1971-10-04,inventor,1,Karel Van der Laan,Karel,,Van der Laan,,Emmasingel,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.995,0.995
+03837910,1974-09-24,1974,1971-10-04,inventor,2,Hans Peter Peloschek,Hans,Peter,Peloschek,,Emmasingel,,Eindhoven,,,,,Netherlands,51.4392648,5.478633,city,Nominatim,,NL,0.995,0.995
+03837910,1974-09-24,1974,1971-10-04,assignee,1,U.S. Philips Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03843607,1974-10-22,1974,1973-05-21,inventor,1,Jerry H. Hunsucker,Jerry,H.,Hunsucker,,,,Terre Haute,,Indiana,,,United States,39.464152,-87.376036,city,Census,1875428,US,0.996,0.995
+03843607,1974-10-22,1974,1973-05-21,assignee,1,Commercial Solvents Corporation,,,,,,,Terre Haute,,Indiana,,,United States,39.464152,-87.376036,city,Census,1875428,US,0.996,0.995
+03849212,1974-11-19,1974,1972-12-11,inventor,1,Donald R. Thornburg,Donald,R.,Thornburg,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.996,0.996
+03849212,1974-11-19,1974,1972-12-11,assignee,1,Westinghouse Electric Corporation,,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.996
+03861374,1975-01-21,1975,1973-05-29,inventor,1,James L. Dooley,James,L.,Dooley,,,,Santa Monica,,California,,,United States,34.010911,-118.498245,city,Census,0670000,US,0.996,0.995
+03861374,1975-01-21,1975,1973-05-29,inventor,2,Clarence J. Harasta,Clarence,J.,Harasta,,,,Los Angeles,,California,,,United States,34.019394,-118.410825,city,Census,0644000,US,0.996,0.995
+03861374,1975-01-21,1975,1973-05-29,assignee,1,McCullock Corporation,,,,,,,Los Angeles,,California,,,United States,34.019394,-118.410825,city,Census,0644000,US,0.996,0.995
+03874667,1975-04-01,1975,1973-12-26,inventor,1,Peter Christopher John Gallagher,Peter,Christopher John,Gallagher,,,,Hightstown,,New Jersey,,,United States,40.269559,-74.5232454,city,Nominatim,3431620,US,0.995,0.995
+03874667,1975-04-01,1975,1973-12-26,inventor,2,Gerald R. Kotler,Gerald,R.,Kotler,,,,Hightstown,,New Jersey,,,United States,40.269559,-74.5232454,city,Nominatim,3431620,US,0.995,0.995
+03874667,1975-04-01,1975,1973-12-26,assignee,1,"N L Industries, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+03880795,1975-04-29,1975,1973-02-09,inventor,1,Heinrich Haupt,Heinrich,,Haupt,,,,Krefeld,,,,,Germany,51.3331205,6.5623343,city,Nominatim,,DE,0.995,0.995
+03880795,1975-04-29,1975,1973-02-09,inventor,2,Hugh Vernaleken,Hugh,,Vernaleken,,,,Krefeld,,,,,Germany,51.3331205,6.5623343,city,Nominatim,,DE,0.995,0.995
+03880795,1975-04-29,1975,1973-02-09,assignee,1,Bayer Aktiengesellschaft,,,,,,,Leverkusen,,,,,Germany,51.0324743,6.9881194,city,Nominatim,,DE,0.997,0.995
+03881484,1975-05-06,1975,1973-07-05,inventor,1,"Charles F. Gidcumb, Jr.",Charles,F.,Gidcumb,Jr.,207 E. Maywood,,Morton,,Illinois,,61550,United States,40.61373,-89.4668,city,Census,1750621,US,0.962,0.996
+03881668,1975-05-06,1975,1973-08-27,inventor,1,George A. Poteat,George,A.,Poteat,,,,Greensboro,,North Carolina,,,United States,36.09485,-79.823624,city,Census,3728000,US,0.996,0.996
+03881668,1975-05-06,1975,1973-08-27,assignee,1,"Engineered Plastics, Incorporated",,,,,,,Gibsonville,,North Carolina,,,United States,36.102161,-79.543038,city,Census,3725980,US,0.999,0.996
+03889628,1975-06-17,1975,1973-08-13,inventor,1,Martin A. Usab,Martin,A.,Usab,,,,Santa Ana,,California,,,United States,33.736332,-117.8829,city,Census,0669000,US,0.995,0.995
+03889628,1975-06-17,1975,1973-08-13,assignee,1,Georg Fischer Aktiengesellschaft,,,,,,,Schaffhausen,,,,,Switzerland,47.6960491,8.634513,city,Nominatim,,CH,0.997,0.995
+03894497,1975-07-15,1975,1974-03-15,inventor,1,Risto Helke,Risto,,Helke,,,,Tampere,,,,,Finland,61.4977988,23.7616335,city,Nominatim,,FI,0.995,0.995
+03894497,1975-07-15,1975,1974-03-15,inventor,2,Jorma Petajisto,Jorma,,Petajisto,,,,Tampere,,,,,Finland,61.4977988,23.7616335,city,Nominatim,,FI,0.995,0.995
+03894497,1975-07-15,1975,1974-03-15,inventor,3,Hakan Romantschuk,Hakan,,Romantschuk,,,,Tampere,,,,,Finland,61.4977988,23.7616335,city,Nominatim,,FI,0.995,0.995
+03894497,1975-07-15,1975,1974-03-15,inventor,4,Tuomo Ruohola,Tuomo,,Ruohola,,,,Tampere,,,,,Finland,61.4977988,23.7616335,city,Nominatim,,FI,0.995,0.995
+03894497,1975-07-15,1975,1974-03-15,inventor,5,Antti Salonen,Antti,,Salonen,,,,Forssa,,,,,Finland,60.8145114,23.6240911,city,Nominatim,,FI,0.995,0.995
+03894497,1975-07-15,1975,1974-03-15,assignee,1,Oy Tampella AB,,,,,,,Tampere,,,,,Finland,61.4977988,23.7616335,city,Nominatim,,FI,0.996,0.995
+03896822,1975-07-29,1975,1973-04-30,inventor,1,Eli Zimmerman,Eli,,Zimmerman,,"159 W. 76th St., Apt. 5A",,New York,,New York,,10023,United States,40.662712,-73.938677,city,Census,3651000,US,0.973,0.996
+03900723,1975-08-19,1975,1974-05-28,inventor,1,Lewis R. Bethany,Lewis,R.,Bethany,,,,St. Paul,,Minnesota,,,United States,44.9497487,-93.0931028,city,Nominatim,2758000,US,0.995,0.995
+03900723,1975-08-19,1975,1974-05-28,inventor,2,Daniel J. Desmonds,Daniel,J.,Desmonds,,,,Roseville,,Minnesota,,,United States,45.015625,-93.153807,city,Census,2755852,US,0.995,0.995
+03900723,1975-08-19,1975,1974-05-28,inventor,3,Donald P. Tate,Donald,P.,Tate,,,,St. Paul,,Minnesota,,,United States,44.9497487,-93.0931028,city,Nominatim,2758000,US,0.995,0.995
+03900723,1975-08-19,1975,1974-05-28,assignee,1,Control Data Corporation,,,,,,,Minneapolis,,Minnesota,,,United States,44.963324,-93.26832,city,Census,2743000,US,0.997,0.995
+03903342,1975-09-02,1975,1973-04-30,inventor,1,"Clifford J. Roberts, Jr.",Clifford,J.,Roberts,Jr.,,,Turnersville,,New Jersey,,,United States,39.766445,-75.062002,city,Census,3474270,US,0.995,0.995
+03903342,1975-09-02,1975,1973-04-30,assignee,1,Scott Paper Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.997,0.995
+03907870,1975-09-23,1975,1973-09-20,inventor,1,Ko Kozuka,Ko,,Kozuka,,,,Takasago,,,,,Japan,34.7661373,134.7906805,city,Nominatim,,JP,0.995,0.995
+03907870,1975-09-23,1975,1973-09-20,inventor,2,Shigeru Kobayashi,Shigeru,,Kobayashi,,,,Akashi,,,,,Japan,34.6482884,134.993215,city,Nominatim,,JP,0.995,0.995
+03907870,1975-09-23,1975,1973-09-20,inventor,3,Akira Watanabe,Akira,,Watanabe,,,,Kobe,,,,,Japan,34.6932379,135.1943764,city,Nominatim,,JP,0.995,0.995
+03907870,1975-09-23,1975,1973-09-20,inventor,4,Yoshio Iki,Yoshio,,Iki,,,,Akashi,,,,,Japan,34.6482884,134.993215,city,Nominatim,,JP,0.995,0.995
+03907870,1975-09-23,1975,1973-09-20,inventor,5,Masaaki Yokoe,Masaaki,,Yokoe,,,,Takasago,,,,,Japan,34.7661373,134.7906805,city,Nominatim,,JP,0.995,0.995
+03907870,1975-09-23,1975,1973-09-20,assignee,1,Kanegafuchi Kagaku Kogyo Kabushiki Kaisha,,,,,,,Osaka,,,,,Japan,34.6937569,135.5014539,city,Nominatim,,JP,0.997,0.995
+03911564,1975-10-14,1975,1974-04-22,inventor,1,Leo Marcoux,Leo,,Marcoux,,,,Rehoboth,,Massachusetts,,,United States,41.8403786,-71.2494938,city,Nominatim,2500556375,US,0.996,0.996
+03911564,1975-10-14,1975,1974-04-22,assignee,1,Texas Instruments Incorporated,,,,,,,Dallas,,Texas,,,United States,32.793333,-96.766513,city,Census,4819000,US,0.999,0.996
+03918341,1975-11-11,1975,1974-03-25,inventor,1,David A. Bunger,David,A.,Bunger,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.998,0.996
+03918341,1975-11-11,1975,1974-03-25,assignee,1,D. H. Baldwin Company,,,,,,,Cincinnati,,Ohio,,,United States,39.140183,-84.505829,city,Census,3915000,US,0.998,0.996
+03933338,1976-01-20,1976,1974-10-21,inventor,1,David P. Herd,David,P.,Herd,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.996,0.996
+03933338,1976-01-20,1976,1974-10-21,inventor,2,John W. McCaskill,John,W.,McCaskill,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.996,0.996
+03933338,1976-01-20,1976,1974-10-21,inventor,3,Thomas W. Childers,Thomas,W.,Childers,,,,Mandeville,,Louisiana,,,United States,30.376735,-90.101067,city,Census,2248225,US,0.996,0.996
+03933338,1976-01-20,1976,1974-10-21,assignee,1,Exxon Production Research Company,,,,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.999,0.996
+03934494,1976-01-27,1976,1974-03-22,inventor,1,Henry N. Butler,Henry,N.,Butler,,"Highway 180 East, Rte. 3, Box 3",,Mineral Wells,,Texas,,76067,United States,32.823483,-98.078798,city,Census,4848684,US,0.962,0.996
+03938076,1976-02-10,1976,1974-03-05,inventor,1,Tadashi Hayashi,Tadashi,,Hayashi,,,,Yokosuka,,,,,Japan,35.2814779,139.6719597,city,Nominatim,,JP,0.995,0.995
+03938076,1976-02-10,1976,1974-03-05,assignee,1,"Nissan Motor Co., Ltd.",,,,,,,Yokohama,,,,,Japan,35.50841,139.6823893,city,Nominatim,,JP,0.997,0.995
+03938760,1976-02-17,1976,1972-09-27,inventor,1,Heinzjochen Hoppner,Heinzjochen,,Hoppner,,,,Neukeferloh,,,,,Germany,48.0964311,11.7601981,city,Nominatim,,DE,0.996,0.996
+03938760,1976-02-17,1976,1972-09-27,inventor,2,Hans-Jurgen Schwarzler,Hans-Jurgen,,Schwarzler,,,,Munich,,,,,Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.996,0.996
+03938760,1976-02-17,1976,1972-09-27,assignee,1,Vereinigte Flugtechnische Werke-Fokker GmbH,,,,,,,Bremen,,,,,Germany,53.0758196,8.8071646,city,Nominatim,,DE,0.999,0.996
+03938941,1976-02-17,1976,1974-09-09,inventor,1,Jaykishan C. Patel,Jaykishan,C.,Patel,,,,Clinton,,Iowa,,,United States,41.842365,-90.242816,city,Census,1914430,US,0.996,0.996
+03938941,1976-02-17,1976,1974-09-09,assignee,1,General Electric Company,,,,,,,Fort Wayne,,Indiana,,,United States,41.088193,-85.142791,city,Census,1825000,US,0.999,0.996
+03939601,1976-02-24,1976,1972-10-26,inventor,1,Samuel H. Kernell,Samuel,H.,Kernell,,1052 Railton,,Memphis,,Tennessee,,38111,United States,35.109164,-89.968511,city,Census,4748000,US,0.961,0.995
+03943503,1976-03-09,1976,1974-11-11,inventor,1,Jeremy Hugh Whitman,Jeremy,Hugh,Whitman,,,,Leatherhead,,,England,,United Kingdom,51.2955044,-0.32931,city,Nominatim,,GB,0.995,0.995
+03943503,1976-03-09,1976,1974-11-11,assignee,1,Unwin Electronics Ltd.,,,,,,,West Molesey,,,England,,United Kingdom,51.4047705,-0.3641342,city,Nominatim,,GB,0.997,0.995
+03949652,1976-04-13,1976,1974-05-01,inventor,1,Marten Geert Aalpoel,Marten,Geert,Aalpoel,,,,Nuenen,,,,,Netherlands,51.48603,5.544007,city,Nominatim,,NL,0.996,0.995
+03949652,1976-04-13,1976,1974-05-01,assignee,1,Arenco-P.M.B. B.V.,,,,,,,Best,,,,,Netherlands,51.5033671,5.3938665,city,Nominatim,,NL,0.996,0.995
+03950599,1976-04-13,1976,1974-02-21,inventor,1,"David A. Board, Jr.",David,A.,Board,Jr.,,,Laconia,,New Hampshire,,,United States,43.576535,-71.482263,city,Census,3340180,US,0.996,0.996
+03950599,1976-04-13,1976,1974-02-21,assignee,1,"New Hampshire Ball Bearings, Inc.",,,,,,,Laconia,,New Hampshire,,,United States,43.576535,-71.482263,city,Census,3340180,US,0.999,0.996
+03958356,1976-05-25,1976,1975-08-04,inventor,1,Andrew J. Clingan,Andrew,J.,Clingan,,2402 Phillips Lane,,Texarkana,,Texas,,75501,United States,33.449204,-94.085008,city,Census,4872368,US,0.973,0.996
+03983027,1976-09-28,1976,1974-07-01,inventor,1,John D. McCollum,John,D.,McCollum,,,,Munster,,Indiana,,,United States,41.54691,-87.504589,city,Census,1851912,US,0.995,0.995
+03983027,1976-09-28,1976,1974-07-01,inventor,2,Leonard M. Quick,Leonard,M.,Quick,,,,Naperville,,Illinois,,,United States,41.749173,-88.162019,city,Census,1751622,US,0.995,0.995
+03983027,1976-09-28,1976,1974-07-01,assignee,1,Standard Oil Company,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+03998376,1976-12-21,1976,1975-12-12,inventor,1,Walter E. Haines,Walter,E.,Haines,,,,Bloomfield Hills,,Michigan,,,United States,42.581359,-83.246418,city,Census,2609180,US,0.996,0.996
+03998376,1976-12-21,1976,1975-12-12,assignee,1,Estan Manufacturing Company,,,,,,,Troy,,Michigan,,,United States,42.583882,-83.145533,city,Census,2680700,US,0.999,0.996
+03998540,1976-12-21,1976,1975-11-24,inventor,1,Paul Weinstein,Paul,,Weinstein,,,,Rochester,,New York,,,United States,43.169927,-77.616891,city,Census,3663000,US,0.961,0.995
+03998540,1976-12-21,1976,1975-11-24,assignee,1,Xerox Corporation,,,,,,,Stamford,,Connecticut,,,United States,41.079611,-73.54608,city,Census,0973000,US,0.674,0.995
+04023977,1977-05-17,1977,1975-05-07,inventor,1,Andrew Mercurio,Andrew,,Mercurio,,,,Hatboro,,Pennsylvania,,,United States,40.1746252,-75.106825,city,Nominatim,4233088,US,0.993,0.995
+04023977,1977-05-17,1977,1975-05-07,inventor,2,Sheldon N. Lewis,Sheldon,N.,Lewis,,,,Willow Grove,,Pennsylvania,,,United States,40.147234,-75.116862,city,Census,4285408,US,0.993,0.995
+04023977,1977-05-17,1977,1975-05-07,assignee,1,Rohm and Haas Company,,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.997,0.995
+04025366,1977-05-24,1977,1975-08-22,inventor,1,Max Ruf,Max,,Ruf,,,,Obereisesheim,,,,,Germany,49.1968756,9.1981483,city,Nominatim,,DE,0.995,0.995
+04025366,1977-05-24,1977,1975-08-22,inventor,2,Johannes Steinwart,Johannes,,Steinwart,,,,Bad Friedrichshall II,,,,,Germany,49.2280136,9.2101479,city,Nominatim,,DE,0.995,0.995
+04025366,1977-05-24,1977,1975-08-22,assignee,1,Audi NSU Auto Union Aktiengesellschaff,,,,,,,Neckarsulm,,,,,Germany,49.1917156,9.2249261,city,Nominatim,,DE,0.997,0.995
+04025366,1977-05-24,1977,1975-08-22,assignee,2,Wankel GmbH,,,,,,,Lindau,,,Bodensee,,Germany,47.5728668,9.6961919,city,Nominatim,,DE,0.997,0.995
+04025458,1977-05-24,1977,1976-08-12,inventor,1,Dwight L. McKay,Dwight,L.,McKay,,,,Bartlesville,,Oklahoma,,,United States,36.737668,-95.948454,city,Census,4004450,US,0.995,0.995
+04025458,1977-05-24,1977,1976-08-12,assignee,1,Phillips Petroleum Company,,,,,,,Bartlesville,,Oklahoma,,,United States,36.737668,-95.948454,city,Census,4004450,US,0.997,0.995
+04027003,1977-05-31,1977,1975-10-30,inventor,1,William H. Dorrance,William,H.,Dorrance,,,,Ann Arbor,,Michigan,,,United States,42.276147,-83.73086,city,Census,2603000,US,0.995,0.995
+04027003,1977-05-31,1977,1975-10-30,inventor,2,Rane L. Curl,Rane,L.,Curl,,,,Ann Arbor,,Michigan,,,United States,42.276147,-83.73086,city,Census,2603000,US,0.995,0.995
+04027003,1977-05-31,1977,1975-10-30,assignee,1,"Organization Control Services, Inc.",,,,,,,Ann Arbor,,Michigan,,,United States,42.276147,-83.73086,city,Census,2603000,US,0.997,0.995
+04032128,1977-06-28,1977,1975-10-16,inventor,1,Holger Nicolaisen,Holger,,Nicolaisen,,,,Nordborg,,,,,Denmark,55.0553387,9.7470524,city,Nominatim,,DK,0.993,0.995
+04032128,1977-06-28,1977,1975-10-16,inventor,2,Leif Borge Tandrup,Leif,Borge,Tandrup,,,,Sonderborg,,,,,Denmark,54.9089186,9.7897999,city,Nominatim,,DK,0.993,0.995
+04032128,1977-06-28,1977,1975-10-16,assignee,1,Danfoss A/S,,,,,,,Nordborg,,,,,Denmark,55.0553387,9.7470524,city,Nominatim,,DK,0.997,0.995
+04037114,1977-07-19,1977,1975-10-23,inventor,1,Roger Green Stewart,Roger,Green,Stewart,,,,Neshanic Station,,New Jersey,,,United States,40.52827,-74.735443,city,Census,3450100,US,0.995,0.995
+04037114,1977-07-19,1977,1975-10-23,inventor,2,Marceano Seixo de Melo Paulino,Marceano,Seixo de Melo,Paulino,,,,Bound Brook,,New Jersey,,,United States,40.5684363,-74.5384889,city,Nominatim,3406790,US,0.995,0.995
+04037114,1977-07-19,1977,1975-10-23,assignee,1,RCA Corporation,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+04038044,1977-07-26,1977,1975-09-12,inventor,1,Bruce Hollis Garth,Bruce,Hollis,Garth,,,,Newark,,Delaware,,,United States,39.677649,-75.757479,city,Census,1050670,US,0.996,0.996
+04038044,1977-07-26,1977,1975-09-12,assignee,1,E.I. Du Pont de Nemours and Company,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.999,0.996
+04039220,1977-08-02,1977,1976-05-04,inventor,1,Bobby G. Stoops,Bobby,G.,Stoops,,,,Tulsa,,Oklahoma,,,United States,36.127949,-95.902316,city,Census,4075000,US,0.996,0.996
+04039220,1977-08-02,1977,1976-05-04,assignee,1,"Don R. Hinderliter, Inc.",,,,,,,Tulsa,,Oklahoma,,,United States,36.127949,-95.902316,city,Census,4075000,US,0.999,0.996
+04040161,1977-08-09,1977,1975-11-25,inventor,1,George W. Kelch,George,W.,Kelch,,,,Palm Beach,,Florida,,,United States,26.694843,-80.041863,city,Census,1254025,US,0.998,0.996
+04040161,1977-08-09,1977,1975-11-25,assignee,1,United Technologies Corporation,,,,,,,Hartford,,Connecticut,,,United States,41.765933,-72.681579,city,Census,0937000,US,0.998,0.996
+04047824,1977-09-13,1977,1976-03-31,inventor,1,Manfred Brokmann,Manfred,,Brokmann,,Silcherstr. 5,,Osnabrueck,,,,,Germany,52.2719595,8.047635,city,Nominatim,,DE,0.961,0.995
+04047824,1977-09-13,1977,1976-03-31,inventor,2,Kurt Sanders,Kurt,,Sanders,,Friedrichstr. 29,,Osnabrueck,,,,,Germany,52.2719595,8.047635,city,Nominatim,,DE,0.961,0.995
+04047824,1977-09-13,1977,1976-03-31,inventor,3,Dieter Sanders,Dieter,,Sanders,,Haneschweg 2,,Osnabrueck,,,,,Germany,52.2719595,8.047635,city,Nominatim,,DE,0.961,0.995
+04047824,1977-09-13,1977,1976-03-31,inventor,4,Hermann Westhoff,Hermann,,Westhoff,,Augustenburgerstr. 85a,,Osnabrueck,,,,,Germany,52.2719595,8.047635,city,Nominatim,,DE,0.961,0.995
+04048068,1977-09-13,1977,1974-01-09,inventor,1,Gene Hirs,Gene,,Hirs,,,,Livonia,,Michigan,,,United States,42.397183,-83.372319,city,Census,2649000,US,0.995,0.995
+04048068,1977-09-13,1977,1974-01-09,assignee,1,"Amsted Industries, Inc.",,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.997,0.995
+04048239,1977-09-13,1977,1976-04-13,inventor,1,William Edward Smith,William,Edward,Smith,,,,Schenectady,,New York,,,United States,42.802641,-73.9272,city,Census,3665508,US,0.998,0.996
+04048239,1977-09-13,1977,1976-04-13,assignee,1,General Electric Company,,,,,,,Pittsfield,,Massachusetts,,,United States,42.45184,-73.260685,city,Census,2553960,US,0.998,0.996
+04065070,1977-12-27,1977,1976-03-18,inventor,1,Regis V. Pilarski,Regis,V.,Pilarski,,,,Utica,,Michigan,,,United States,42.628745,-83.02333,city,Census,2681540,US,0.993,0.996
+04065070,1977-12-27,1977,1976-03-18,inventor,2,Gerald A. Yates,Gerald,A.,Yates,,,,Milford,,Michigan,,,United States,42.588539,-83.601648,city,Census,2653960,US,0.996,0.996
+04065070,1977-12-27,1977,1976-03-18,assignee,1,The Firestone Tire & Rubber Company,,,,,,,Akron,,Ohio,,,United States,41.080456,-81.521429,city,Census,3901000,US,0.999,0.996
+04073122,1978-02-14,1978,1976-04-16,inventor,1,Peter D. W. Areson,Peter,D. W.,Areson,,,,Boston,,Massachusetts,,,United States,42.338551,-71.018253,city,Census,2507000,US,0.995,0.995
+04073122,1978-02-14,1978,1976-04-16,assignee,1,Markem Corporation,,,,,,,Keene,,New Hampshire,,,United States,42.953842,-72.306875,city,Census,3339300,US,0.997,0.995
+04076016,1978-02-28,1978,1975-10-14,inventor,1,Maurice E. Phillips,Maurice,E.,Phillips,,182 Dellenberger Ave.,,Akron,,Ohio,,44312,United States,41.080456,-81.521429,city,Census,3901000,US,0.973,0.996
+04078319,1978-03-14,1978,1976-11-26,inventor,1,Conrad A. Mazeski,Conrad,A.,Mazeski,,201 W. Prospect Ave.,,Mount Prospect,,Illinois,,60056,United States,42.064202,-87.937364,city,Census,1751089,US,0.961,0.995
+04078319,1978-03-14,1978,1976-11-26,inventor,2,Ken Candelaria,Ken,,Candelaria,,201 W. Prospect Ave.,,Mount Prospect,,Illinois,,60056,United States,42.064202,-87.937364,city,Census,1751089,US,0.961,0.995
+04089141,1978-05-16,1978,1976-12-01,inventor,1,George Armand Heroux,George,Armand,Heroux,,617 Douglas Ave.,,Prescott,,Arizona,,86301,United States,34.592241,-112.446733,city,Census,0457380,US,0.961,0.995
+04092125,1978-05-30,1978,1976-12-27,inventor,1,Edgel P. Stambaugh,Edgel,P.,Stambaugh,,,,Worthington,,Ohio,,,United States,40.096908,-83.020216,city,Census,3986604,US,0.995,0.995
+04092125,1978-05-30,1978,1976-12-27,inventor,2,Satya P. Chauhan,Satya,P.,Chauhan,,,,Worthington,,Ohio,,,United States,40.096908,-83.020216,city,Census,3986604,US,0.995,0.995
+04092125,1978-05-30,1978,1976-12-27,assignee,1,Battelle Development Corporation,,,,,,,Columbus,,Ohio,,,United States,39.985531,-82.985594,city,Census,3918000,US,0.997,0.995
+04092206,1978-05-30,1978,1977-03-18,inventor,1,Rudolf Zodrow,Rudolf,,Zodrow,,,,Dusseldorf,,,,,Germany,51.2254018,6.7763137,city,Nominatim,,DE,0.998,0.996
+04092206,1978-05-30,1978,1977-03-18,assignee,1,Jagenberg-Werke Aktiengesellschaft,,,,,,,Dusseldorf,,,,,Germany,51.2254018,6.7763137,city,Nominatim,,DE,0.998,0.996
+04102142,1978-07-25,1978,1976-12-30,inventor,1,George Lee,George,,Lee,,,,Monterey Park,,California,,,United States,34.04838,-118.133165,city,Census,0648914,US,0.995,0.995
+04102142,1978-07-25,1978,1976-12-30,assignee,1,Hitco,,,,,,,Irvine,,California,,,United States,33.678399,-117.771254,city,Census,0636770,US,0.997,0.995
+04103098,1978-07-25,1978,1977-09-12,inventor,1,Gordon L. Bundy,Gordon,L.,Bundy,,,,Portage,,Michigan,,,United States,42.19705,-85.591395,city,Census,2665560,US,0.995,0.996
+04103098,1978-07-25,1978,1977-09-12,assignee,1,The Upjohn Company,,,,,,,Kalamazoo,,Michigan,,,United States,42.275163,-85.588501,city,Census,2642160,US,0.999,0.996
+04113462,1978-09-12,1978,1977-04-20,inventor,1,Romeo Barrick Wagner,Romeo,Barrick,Wagner,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.996,0.995
+04113462,1978-09-12,1978,1977-04-20,assignee,1,Hercules Incorporated,,,,,,,Wilmington,,Delaware,,,United States,39.735651,-75.532104,city,Census,1077580,US,0.996,0.995
+04113759,1978-09-12,1978,1977-05-20,inventor,1,Theodor Papenfuhs,Theodor,,Papenfuhs,,,,Frankfurt am Main,,,Fed. Rep. of Germany,,Germany,50.1106444,8.6820917,city,Nominatim,,DE,0.995,0.995
+04113759,1978-09-12,1978,1977-05-20,inventor,2,Heinrich Volk,Heinrich,,Volk,,,,Bad Vilbel,,,Fed. Rep. of Germany,,Germany,50.19339,8.74918,city,Nominatim,,DE,0.995,0.995
+04113759,1978-09-12,1978,1977-05-20,assignee,1,Hoechst Aktiengesellschaft,,,,,,,Frankfurt am Main,,,,,Germany,50.123015,8.7693856,city,Nominatim,,DE,0.997,0.995
+04118203,1978-10-03,1978,1977-05-18,inventor,1,James W. Beardmore,James,W.,Beardmore,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.11,0.995
+04118203,1978-10-03,1978,1977-05-18,inventor,2,Daniel Goehring,Daniel,,Goehring,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.11,0.995
+04118203,1978-10-03,1978,1977-05-18,assignee,1,Shell Oil Company,,,,,,,Houston,,Texas,,,United States,29.785743,-95.388806,city,Census,4835000,US,0.997,0.995
+04124174,1978-11-07,1978,1977-05-16,inventor,1,James A. Kelly,James,A.,Kelly,,P.O. Box 1867,,Punta Gorda,,Florida,,33950,United States,26.897754,-82.065812,city,Census,1259200,US,0.973,0.996
+04124528,1978-11-07,1978,1974-10-04,inventor,1,Michael Modell,Michael,,Modell,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.996,0.996
+04124528,1978-11-07,1978,1974-10-04,assignee,1,"Arthur D. Little, Inc.",,,,,,,Cambridge,,Massachusetts,,,United States,42.376043,-71.11868,city,Census,2511000,US,0.999,0.996
+04133591,1979-01-09,1979,1977-07-27,inventor,1,Edward L. West,Edward,L.,West,,,,Centralia,,Missouri,,,United States,39.210777,-92.13428,city,Census,2912898,US,0.996,0.996
+04133591,1979-01-09,1979,1977-07-27,inventor,2,Melvin E. Clutter,Melvin,E.,Clutter,,,,Centralia,,Missouri,,,United States,39.210777,-92.13428,city,Census,2912898,US,0.996,0.996
+04133591,1979-01-09,1979,1977-07-27,assignee,1,A. B. Chance Company,,,,,,,Centralia,,Missouri,,,United States,39.210777,-92.13428,city,Census,2912898,US,0.999,0.996
+04139522,1979-02-13,1979,1978-03-13,inventor,1,Peter R. Lantos,Peter,R.,Lantos,,,,Media,,Pennsylvania,,,United States,39.9167783,-75.387693,city,Nominatim,4248480,US,0.996,0.996
+04139522,1979-02-13,1979,1978-03-13,assignee,1,"Arco Polymers, Inc.",,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.999,0.996
+04145074,1979-03-20,1979,1977-06-06,inventor,1,Fred M. Hendricks,Fred,M.,Hendricks,,"Rte. 2, Eastway Dr.",,Dallas,,North Carolina,,28034,United States,35.317935,-81.183183,city,Census,3716180,US,0.961,0.995
+04146947,1979-04-03,1979,1977-07-14,inventor,1,Friedrich Richter,Friedrich,,Richter,,,,Bielefeld,,,Fed. Rep. of Germany,,Fed. Rep. of Germany,52.0191005,8.531007,city,Nominatim,,DE,0.996,0.995
+04146947,1979-04-03,1979,1977-07-14,assignee,1,Hermann Windel GmbH & Co.,,,,,,,Bielefeld,,,Fed. Rep. of Germany,,Fed. Rep. of Germany,52.0191005,8.531007,city,Nominatim,,DE,0.996,0.995
+04147058,1979-04-03,1979,1977-05-04,inventor,1,Shigetada Matsushita,Shigetada,,Matsushita,,,,Kawasaki,,,,,Japan,35.5306639,139.7037668,city,Nominatim,,JP,0.996,0.996
+04147058,1979-04-03,1979,1977-05-04,assignee,1,"Fuji Electric Co., Ltd.",,,,,,,Kawasaki,,,,,Japan,35.5306639,139.7037668,city,Nominatim,,JP,0.999,0.996
+04153466,1979-05-08,1979,1977-10-25,inventor,1,William L. Smith,William,L.,Smith,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.998,0.996
+04153466,1979-05-08,1979,1977-10-25,assignee,1,The Dow Chemical Company,,,,,,,Midland,,Michigan,,,United States,43.624796,-84.231984,city,Census,2653780,US,0.998,0.996
+04167226,1979-09-11,1979,1977-08-30,inventor,1,Edward M. Ackley,Edward,M.,Ackley,,,,Stone Harbor,,New Jersey,,,United States,39.0537129,-74.7584461,city,Nominatim,3471010,US,0.995,0.995
+04167226,1979-09-11,1979,1977-08-30,assignee,1,"R. W. Hartnett Company, Inc.",,,,,,,Philadelphia,,Pennsylvania,,,United States,40.009376,-75.133346,city,Census,4260000,US,0.997,0.995
+04168824,1979-09-25,1979,1977-11-23,inventor,1,Rashed N. Nagati,Rashed,N.,Nagati,,,,Mars,,Pennsylvania,,,United States,40.6977576,-80.0123902,city,Nominatim,4247672,US,0.995,0.995
+04168824,1979-09-25,1979,1977-11-23,assignee,1,Pennsylvania Engineering Corporation,,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.997,0.995
+04168850,1979-09-25,1979,1977-07-25,inventor,1,Robert L. Stephenson,Robert,L.,Stephenson,,,,Sterling Heights,,Michigan,,,United States,42.581206,-83.030316,city,Census,2676460,US,0.996,0.996
+04168850,1979-09-25,1979,1977-07-25,inventor,2,William R. Fox,William,R.,Fox,,,,Warren,,Michigan,,,United States,42.492904,-83.025001,city,Census,2684000,US,0.996,0.996
+04168850,1979-09-25,1979,1977-07-25,assignee,1,Allied Chemical Corporation,,,,,,,Morris Township,Morris County,New Jersey,,,United States,40.798799,-74.5208469,city,Nominatim,3402748090,US,0.999,0.996
+04173915,1979-11-13,1979,1978-06-29,inventor,1,Glenn M. Gross,Glenn,M.,Gross,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.995,0.995
+04173915,1979-11-13,1979,1978-06-29,assignee,1,"Norlin Industries, Inc.",,,,,,,Lincolnwood,,Illinois,,,United States,42.00543,-87.732959,city,Census,1743744,US,0.997,0.995
+04174340,1979-11-13,1979,1978-08-02,inventor,1,Walter Liders,Walter,,Liders,,,,Neu-Isenburg,,,,,Fed. Rep. of Germany,50.0464196,8.6717748,city,Nominatim,,DE,0.996,0.995
+04174340,1979-11-13,1979,1978-08-02,inventor,2,Walter Herwig,Walter,,Herwig,,,,Bad Soden am Taunus,,,,,Fed. Rep. of Germany,50.1517006,8.4899671,city,Nominatim,,DE,0.996,0.995
+04174340,1979-11-13,1979,1978-08-02,inventor,3,Ulrich van Spankeren,Ulrich,,van Spankeren,,,,Hofheim am Taunus,,,,,Fed. Rep. of Germany,50.09494,8.42285,city,Nominatim,,DE,0.996,0.995
+04174340,1979-11-13,1979,1978-08-02,inventor,4,Karlheinz Burg,Karlheinz,,Burg,,,,Wiesbaden,,,,,Fed. Rep. of Germany,50.0820384,8.2416556,city,Nominatim,,DE,0.996,0.995
+04174340,1979-11-13,1979,1978-08-02,assignee,1,Hoechst Aktiengesellschaft,,,,,,,Frankfurt am Main,,,,,Fed. Rep. of Germany,50.123015,8.7693856,city,Nominatim,,DE,0.996,0.995
+04178314,1979-12-11,1979,1978-07-14,inventor,1,John T. Carlock,John,T.,Carlock,,,,Ponca City,,Oklahoma,,,United States,36.703647,-97.081898,city,Nominatim,4059850,US,0.995,0.995
+04178314,1979-12-11,1979,1978-07-14,assignee,1,"Conoco, Inc.",,,,,,,Ponca City,,Oklahoma,,,United States,36.703647,-97.081898,city,Nominatim,4059850,US,0.997,0.995
+04180566,1979-12-25,1979,1978-05-15,inventor,1,Milton E. Winyall,Milton,E.,Winyall,,,,Columbia,,Maryland,,,United States,39.201146,-76.85905,city,Census,2419125,US,0.995,0.995
+04180566,1979-12-25,1979,1978-05-15,inventor,2,Kamal M. Abdo,Kamal,M.,Abdo,,,,Columbia,,Maryland,,,United States,39.201146,-76.85905,city,Census,2419125,US,0.995,0.995
+04180566,1979-12-25,1979,1978-05-15,assignee,1,W. R. Grace & Co.,,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.997,0.995
+04189736,1980-02-19,1980,1977-08-29,inventor,1,Fred A. DeFilipps,Fred,A.,DeFilipps,,,,Maitland,,Florida,,,United States,28.629625,-81.37291,city,Census,1242575,US,0.996,0.995
+04189736,1980-02-19,1980,1977-08-29,assignee,1,Exxon Research & Engineering Co.,,,,,,,Florham Park,,New Jersey,,,United States,40.7881643,-74.3891647,city,Nominatim,3423910,US,0.996,0.995
+04190064,1980-02-26,1980,1977-09-07,inventor,1,Harry W. Gordon,Harry,W.,Gordon,,,,Bronx,,New York,,,United States,40.8466508,-73.8785937,city,Nominatim,3600508510,US,0.995,0.995
+04190064,1980-02-26,1980,1977-09-07,inventor,2,Sharif Amanat,Sharif,,Amanat,,,Elmshurst,Queens,,New York,,,United States,40.67677,-73.8437461,city,Nominatim,3608160323,US,0.995,0.995
+04190064,1980-02-26,1980,1977-09-07,assignee,1,"Del Laboratories, Inc.",,,,,,,Farmingdale,,New York,,,United States,40.732808,-73.446759,city,Census,3625384,US,0.997,0.995
+04196399,1980-04-01,1980,1978-01-09,inventor,1,"Charles M. Cason, III",Charles,M.,Cason,III,,,Huntsville,,Alabama,,,United States,34.69772,-86.67667,city,Census,0137000,US,0.996,0.995
+04196399,1980-04-01,1980,1978-01-09,inventor,2,George J. Dezenberg,George,J.,Dezenberg,,,,Huntsville,,Alabama,,,United States,34.69772,-86.67667,city,Census,0137000,US,0.996,0.995
+04196399,1980-04-01,1980,1978-01-09,assignee,1,The United States of America,,,,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.996,0.995
+04196441,1980-04-01,1980,1978-05-05,inventor,1,Fritz G. Adam,Fritz,G.,Adam,,,,Freiburg,,,,,Fed. Rep. of Germany,47.9960901,7.8494005,city,Nominatim,,DE,0.996,0.996
+04196441,1980-04-01,1980,1978-05-05,assignee,1,"ITT Industries, Inc.",,,,,,,New York,,New York,,,United States,40.662712,-73.938677,city,Census,3651000,US,0.999,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,1,Peter Anderl,Peter,,Anderl,,,,Munich,,,,,Fed. Rep. of Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,2,Wilhelm Scheffels,Wilhelm,,Scheffels,,,,Puchheim,,,,,Fed. Rep. of Germany,48.1704908,11.3526351,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,3,Karl H. Steigerwald,Karl,H.,Steigerwald,,,,Starnberg,,,,,Fed. Rep. of Germany,47.9986851,11.3410791,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,4,Clauspeter Mônch,Clauspeter,,Mônch,,,,Grafrath,,,,,Fed. Rep. of Germany,48.1214803,11.1616256,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,5,Johannes Koy,Johannes,,Koy,,,,Germering,,,,,Fed. Rep. of Germany,48.1373576,11.3614338,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,inventor,6,Dieter Konig,Dieter,,Konig,,,,Munich,,,,,Fed. Rep. of Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.996,0.996
+04203021,1980-05-13,1980,1977-07-29,assignee,1,Steigerwald Strahltechnik GmbH,,,,,,,Munich,,,,,Fed. Rep. of Germany,48.1371079,11.5753822,city,Nominatim,,DE,0.999,0.996
+04203139,1980-05-13,1980,1978-08-14,inventor,1,Harumi Horiuchi,Harumi,,Horiuchi,,,,Yokohama,,,,,Japan,35.50841,139.6823893,city,Nominatim,,JP,0.996,0.996
+04203139,1980-05-13,1980,1978-08-14,assignee,1,Soundesign Corporation,,,,,,,Jersey City,,New Jersey,,,United States,40.7215682,-74.047455,city,Nominatim,3436000,US,0.999,0.996
+04208402,1980-06-17,1980,1977-01-10,inventor,1,Pierre Boré,Pierre,,Bé,,,,Montfermeil,,,,,France,48.8992679,2.5660399,city,Nominatim,,FR,0.998,0.995
+04208402,1980-06-17,1980,1977-01-10,inventor,2,Lucienne Toureng,Lucienne,,Toureng,,,,Livry Gargan,,,,,France,48.917335,2.5298854,city,Nominatim,,FR,0.995,0.995
+04208402,1980-06-17,1980,1977-01-10,assignee,1,L'Oreal,,,,,,,Paris,,,,,France,48.8588897,2.320041,city,Nominatim,,FR,0.997,0.995
+04212514,1980-07-15,1980,1978-03-03,inventor,1,Jean-Clande Pranier,Jean-Clande,,Pranier,,,,Herblay,,,,,France,48.9898588,2.166162,city,Nominatim,,FR,0.996,0.995
+04212514,1980-07-15,1980,1978-03-03,inventor,2,Yves Bellemon,Yves,,Bellemon,,,,Le Pecq,,,,,France,48.8972505,2.1066273,city,Nominatim,,FR,0.996,0.995
+04212514,1980-07-15,1980,1978-03-03,assignee,1,Societe Nouvelle de Connexion,,,,,,,Boulogne-Billancourt,,,,,France,48.8356649,2.240206,city,Nominatim,,FR,0.996,0.995
+04217219,1980-08-12,1980,1979-01-29,inventor,1,Steven B. Mullerheim,Steven,B.,Mullerheim,,,,Kensington,,California,,,United States,37.905144,-122.284226,city,Census,0638086,US,0.995,0.995
+04217219,1980-08-12,1980,1979-01-29,inventor,2,"Fred G. Williams, Jr.",Fred,G.,Williams,Jr.,,,San Anselmo,,California,,,United States,37.982117,-122.569921,city,Census,0664434,US,0.995,0.995
+04217219,1980-08-12,1980,1979-01-29,assignee,1,Great Circle Associates,,,,,,,Walnut Creek,,California,,,United States,37.902666,-122.040479,city,Census,0683346,US,0.997,0.995
+04229779,1980-10-21,1980,1978-05-19,inventor,1,Edward B. Bilson,Edward,B.,Bilson,,,,Memphis,,Tennessee,,,United States,35.109164,-89.968511,city,Census,4748000,US,0.996,0.996
+04229779,1980-10-21,1980,1978-05-19,inventor,2,"Alfred H. Brown, III",Alfred,H.,Brown,III,,,Memphis,,Tennessee,,,United States,35.109164,-89.968511,city,Census,4748000,US,0.996,0.996
+04229779,1980-10-21,1980,1978-05-19,assignee,1,International Telephone and Telegraph Corporation,,,,,,,Chicago,,Illinois,,,United States,41.837045,-87.684939,city,Census,1714000,US,0.999,0.996
+04234745,1980-11-18,1980,1979-01-31,inventor,1,Barry A. Phillips,Barry,A.,Phillips,,,,Slovan,,Pennsylvania,,,United States,40.359525,-80.385017,city,Census,4271232,US,0.995,0.997
+04234745,1980-11-18,1980,1979-01-31,inventor,2,Keith G. Spitler,Keith,G.,Spitler,,,,Bethel Park,,Pennsylvania,,,United States,40.323803,-80.036421,city,Census,4206064,US,0.998,0.997
+04234745,1980-11-18,1980,1979-01-31,inventor,3,Richard E. Keegan,Richard,E.,Keegan,,,,New Martinsville,,West Virginia,,,United States,39.645553,-80.86267,city,Census,5458684,US,0.998,0.997
+04234745,1980-11-18,1980,1979-01-31,assignee,1,Mobay Chemical Corporation,,,,,,,Pittsburgh,,Pennsylvania,,,United States,40.439936,-79.975676,city,Census,4261000,US,0.999,0.997
+04234851,1980-11-18,1980,1978-12-21,inventor,1,Richard L. Hartman,Richard,L.,Hartman,,,,Huntsville,,Alabama,,,United States,34.69772,-86.67667,city,Census,0137000,US,0.996,0.996
+04234851,1980-11-18,1980,1978-12-21,assignee,1,The United States of America as represented by the Secretary of the Army,,,,,,,Washington,,District of Columbia,,,United States,38.904243,-77.016524,city,Census,1150000,US,0.999,0.996
+04235100,1980-11-25,1980,1979-09-13,inventor,1,Ricky A. Branchini,Ricky,A.,Branchini,,7596 Hillsdale,,Pleasanton,,California,,94566,United States,37.667185,-121.88123,city,Census,0657792,US,0.973,0.996

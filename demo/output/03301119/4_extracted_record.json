@@ -1,0 +1,50 @@
+{
+  "grant_date": "1967-01-31",
+  "application_date": "1966-02-10",
+  "inventors_and_locations": [
+    {
+      "name": {
+        "full_name": "Anna Marie Gilbert",
+        "first_name": "Anna",
+        "middle_name": "Marie",
+        "last_name": "Gilbert",
+        "suffix": null
+      },
+      "address": {
+        "street": null,
+        "neighbourhood": null,
+        "city": "University Heights",
+        "county": null,
+        "state": "Ohio",
+        "subdivision": null,
+        "postal_code": null,
+        "country": "United States"
+      },
+      "deceased": false,
+      "correspondence_address": {
+        "street": "366 Lourdes Lane",
+        "neighbourhood": null,
+        "city": "Costa Mesa",
+        "county": null,
+        "state": "California",
+        "subdivision": null,
+        "postal_code": "92627",
+        "country": "United States"
+      },
+      "administrators": [],
+      "evidence": {
+        "text": "Anna Marie Gilbert, University Heights, Ohio (366 Lourdes Lane, Costa Mesa, Calif. 92627)",
+        "inferred_llm": 0,
+        "score_llm": 9,
+        "reason": "The inventor’s name and both residence and correspondence addresses are explicitly stated; state names were inferred from abbreviations, which does not count as inference per the instructions."
+      }
+    }
+  ],
+  "assignees_and_locations": null,
+  "text_quality": "partial",
+  "overall_confidence_llm": {
+    "readability": 9,
+    "overall_score_llm": 9,
+    "reason": "The patent text is legible and contains the necessary information for grant date, application date, inventor name, and addresses. Minor inference (expanding state abbreviations) is not required to be counted. No contradictions or ambiguous data were found."
+  }
+}
