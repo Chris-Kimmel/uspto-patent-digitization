@@ -11,7 +11,7 @@ Why do some cities keep producing specialized technologies while others fall beh
 ## What it is for
 
 - **Evidence for place-based innovation policy.** Governments try to build up new technologies and industries in specific regions (e.g. the EU's Smart Specialisation strategies). Long-run data show how regions actually acquired new technological capabilities, and what they built on.
-- **A first result.** My master's thesis used an early version of the pipeline (20% of utility patents from 1945-1980) to study the development of Information and Communication Technology (ICT) in the US. US cities entered ICT along paths related to their existing technologies, and this constraint did not fade as ICT matured: new technologies grow out of local capabilities.
+- **A first result.** My master's thesis used an early version of the pipeline (20% of utility patents from 1945–1980) to study the development of Information and Communication Technology (ICT) in the US. US cities entered ICT along paths related to their existing technologies: new technologies grow out of local capabilities. Whether this pattern weakened as ICT matured remained inconclusive.
 - **How invention is organized.** The data trace the shift from lone inventors to teams and corporate research labs, a question studied at the Complexity Science Hub ([Hartog et al., 2024](https://csh.ac.at/publication/inventing-modern-invention-the-professionalization-of-technological-progress-in-the-us/)).
 - **Affordable digitization of historical archives.** The LLM extraction reaches F1 ≈ 0.96 at about €380 per million patents, and the approaches used carry over to other projects for digitizing historical records.
 
